@@ -1,3 +1,6 @@
+---
+layout: post.html
+---
 # PyLadies Madrid
 
 Este sitio web está gestionado por la organizadoras de PyLadies Madrid. 
