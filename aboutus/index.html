@@ -1,0 +1,22 @@
+{% extends "site.html" %}
+{% block title %}Acerca de PyLadies Madrid{% endblock %}
+{% block content %}
+    <section id="archive">
+        <h2>Acerca de PyLadies Madrid</h2>
+        {% for post in posts|sort(attribute='title') %}
+            {% if 'aboutus' in post.category %}
+                <h3>{{ post.title }}</h3>
+                <p>{{ post.content }}</p>
+            {% endif %}
+        {% endfor %}
+        <hr >
+        <h2>Colaboraciones con otras comunidades</h2>
+        {% for post in posts %}
+            {% if 'colaborations' in post.category %}
+                <h3><a href="{{ get_url(post.url) }}">{{ post.title }}</a></h3>
+                <time pubdate datetime="{{ post.timestamp|date('%Y-%m-%d') }}">{{ post.date }}</time>&nbsp;&nbsp;&nbsp;
+                <a href="{{ get_url(post.url) }}" class='more-link'> Read more   &rarr;</a>
+            {% endif %}
+        {% endfor %}
+    </section>
+{% endblock %}

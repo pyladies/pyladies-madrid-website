@@ -1,0 +1,32 @@
+{% extends "site.html" %}
+{% block title %}Recursos{% endblock %}
+{% block content %}
+    <section id="archive">
+        <h1>Recursos</h1>
+            <article>
+                <h2>Nuestros talleres</h2>
+                <p>En cursos anteriores hemos realizado talleres presenciales de iniciación a Python 
+                    y algunos temas más específicos. A continuación podéis encontrar el material utilizado</p>
+                {% for post in posts|sort(attribute='title') %}
+                    {% if 'talleres' in post.category and 'pyladies' in post.category %}
+                        <h3><a href="{{ get_url(post.url) }}">{{ post.title }}</a></h3>
+                        <time pubdate datetime="{{ post.timestamp|date('%Y-%m-%d') }}">{{ post.date }}</time>&nbsp;&nbsp;&nbsp;
+                        <a href="{{ get_url(post.url) }}" class='more-link'> Read more   &rarr;</a>
+                    {% endif %}
+                {% endfor %}
+                <hr >
+                <h2>Otros recursos y enlaces de interés</h2>
+
+                <p>Recopilación de recursos sobre Python para todos los niveles. Puedes contribuir añadiendo recursos que conozcas; 
+                    contáctanos para publicar más enlaces.</p>
+
+                {% for post in posts %}
+                    {% if 'resources' in post.category and 'others' in post.category %}
+                        <h3><a href="{{ get_url(post.url) }}">{{ post.title }}</a></h3>
+                        <time pubdate datetime="{{ post.timestamp|date('%Y-%m-%d') }}">{{ post.date }}</time>&nbsp;&nbsp;&nbsp;
+                        <a href="{{ get_url(post.url) }}" class='more-link'> Read more   &rarr;</a>
+                    {% endif %}
+                {% endfor %}
+            </article>
+    </section>
+{% endblock %}
