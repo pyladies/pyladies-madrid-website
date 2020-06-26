@@ -41,10 +41,9 @@
             <ul class="nav-wrapper">
                 <li><a href="{{ get_url('/') }}">Portada</a></li>
                 <li><a href="{{ get_url('aboutus/') }}">Sobre nosotras</a></li>
-                <li><a href="{{ get_url('blog/') }}">Blog</a></li>
+                <!--<li><a href="{{ get_url('blog/') }}">Blog</a></li>-->
                 <li><a href="{{ get_url('resources/') }}">Recursos</a></li>
                 <li><a href="{{ get_url('coc/') }}">Código de conducta</a></li>
-                <li><a href="https://github.com/pyladies/info/" id="contact-link">Contacto</a></li>
             </ul>
         </nav>
     </div>
@@ -55,14 +54,12 @@
 	<div class="sidebar">
 		{% block sidebar %}
 
-        <!-- <div id="sponsor_us_btn"><a href="{{ get_url('sponsor/') }}">Sponsor Us</a></div> -->
-        <div id="sponsor_us_btn"><a href="{{ get_url('sponsor/') }}">Contáctanos</a></div>
-
-        <!-- <div id="shirts_btn" style="display:flex;justify-content:center;align-items:center;font-size:14px;"><a href="https://pyladies.spreadshirt.com/">Get Swag</a></div>
-        -->
-        <!-- <h3>Próximos Meetups</h3>
+        <div id="sponsor_us_btn" style="display:flex;justify-content:center;align-items:center;font-size:14px;"><a href="{{ get_url('sponsor/') }}">Colabora</a></div>
+        <div id="shirts_btn" style="display:flex;justify-content:center;align-items:center;font-size:14px;"><a href="https://pyladies.spreadshirt.com/">Swag</a></div>
+        
+        <h3>Próximos Meetups</h3>
         <div id="upcomingMeetupsList">
-        </div> -->
+        </div>
 
         <div id="twitter_feed">
             <h3>Tweets</h3>

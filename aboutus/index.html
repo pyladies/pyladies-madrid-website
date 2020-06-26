@@ -2,14 +2,22 @@
 {% block title %}Acerca de PyLadies Madrid{% endblock %}
 {% block content %}
     <section id="archive">
-        <h2>Acerca de PyLadies Madrid</h2>
+        <h2>PyLadies Global</h2>
         {% for post in posts|sort(attribute='title') %}
-            {% if 'aboutus' in post.category %}
-                <h3>{{ post.title }}</h3>
+            {% if 'aboutpyladies' in post.category %}
                 <p>{{ post.content }}</p>
             {% endif %}
         {% endfor %}
-        <hr >
+        <br>
+        <br>
+        <h2>PyLadies Madrid</h2>
+        {% for post in posts|sort(attribute='title') %}
+            {% if 'aboutus' in post.category %}
+                <p>{{ post.content }}</p>
+            {% endif %}
+        {% endfor %}
+        <br>
+        <br>
         <h2>Colaboraciones con otras comunidades</h2>
         {% for post in posts %}
             {% if 'colaborations' in post.category %}

@@ -15,19 +15,26 @@
 
         <article class="python_install">
             <div id="welcome_message">
-                    <h2>Instrucciones para los talleres</h2>
+                    <h2>Instrucciones para asistir los talleres</h2>
                     <img src="{{ get_asset('images/pipinstall.png') }}" alt="Pyladies pip install" />
                     <p>Es muy importante que, si vienes a un taller, vengas con Python instalado. 
                         Por favor, écha un ojo a las instrucciones de instalación aquí</p>
-                        <br><br><br>
+                        <br><br><br><br><br>
+            </div>
+        </article>
+
+        <article class="contact_us">
+            <div>
+                    <h2>Contacto</h2>
+                    <p>Puedes contactar con nosotras por mail, twitter o meetup</p>
             </div>
         </article>
 
 
         <article class="latest">
-            <h2 class="latest-master">Últimos posts</h2>
+            <h2 class="latest-master">Últimas novedades</h2>
                 <div id="latestBlog">
-                    {% for post in posts.items[:2] %}
+                    {% for post in posts.items[:3] %}
                         <h3><a href="{{ get_url(post.url) }}">{{ post.title }}</a></h3>
                         <time pubdate datetime="{{ post.timestamp|date('%Y-%m-%d') }}">{{ post.date }}</time>
                         <p>{{ post.excerpt }}  <a href="{{ get_url(post.url) }}" class='more-link'>Leer más &rarr;</a></p>
