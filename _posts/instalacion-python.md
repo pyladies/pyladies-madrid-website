@@ -3,7 +3,7 @@ layout: post.html
 title: "Instalación de Python para los talleres"
 summary: "Todo lo necesario para que vengas a los talleres con el entorno básico configurado"
 tags: [talleres, educacion, python, instalacion]
-category: [talleres, pyladies]
+category: [talleres, pyladies, instalacion_python]
 ---
 
 En la mayoría de talleres vamos a necesitar que traigas tu propio portátil y que tengas Python3 instalado. Para asegurarte de que tienes todo listo para el taller, te recomendamos seguir los siguientes pasos:

@@ -7,32 +7,38 @@
             <div id="welcome_message">
                     <h2>¡Bienvenida!</h2>
                     <img src="{{ get_asset('images/pyladiesmadrid_linear.png') }}" alt="Pyladies lady graphic" />
-                    <p>Somos una agrupación local de la organización internacional PyLadies, cuyo objetivo es ayudar y motivar a más mujeres para que sean participantes activas y líderes de la comunidad open source de Python. Nuestra misión es promover, educar y avanzar en la diversidad de la comunidad Python, mediante la realización de cursos, conferencias, eventos y reuniones.</p>
-                    <p>Así mismo, buscamos crear una red de mujeres programadoras, y ponerla en contacto con el resto de comunidades Python nacionales e internacionales. Este es un grupo abierto, por lo que cualquier persona con interés en Python está invitada a participar.</p>
-                    <p>¡Te esperamos!</p>
+                    {% for post in posts %}
+                        {% if 'bienvenida' in post.category %}
+                        <p>{{ post.content }}</p>
+                        {% endif %}
+                    {% endfor %}
             </div>
         </article>
+
 
         <article class="python_install">
             <div id="welcome_message">
-                    <h2>Instrucciones para asistir los talleres</h2>
-                    <img src="{{ get_asset('images/pipinstall.png') }}" alt="Pyladies pip install" />
-                    <p>Es muy importante que, si vienes a un taller, vengas con Python instalado. 
-                        Por favor, écha un ojo a las instrucciones de instalación aquí</p>
-                        <br><br><br><br><br>
+                    <h2>Información de interés</h2>
+                    <!--<img src="{{ get_asset('images/pipinstall.png') }}" alt="Pyladies pip install" /> -->
+                    {% for post in posts %}
+                        {% if 'instalacion_python' in post.category %}
+                        <h3><a href="{{ get_url(post.url) }}">{{ post.title }}</a></h3>
+                        <p>{{ post.excerpt }}  <a href="{{ get_url(post.url) }}" class='more-link'>Leer más &rarr;</a></p>
+                        {% endif %}
+                    {% endfor %}
+                    {% for post in posts %}
+                        {% if 'ofertas' in post.category %}
+                        <h3><a href="{{ get_url(post.url) }}">{{ post.title }}</a></h3>
+                        <p>{{ post.excerpt }}  <a href="{{ get_url(post.url) }}" class='more-link'>Leer más &rarr;</a></p>
+                        {% endif %}
+                    {% endfor %}
             </div>
         </article>
 
-        <article class="contact_us">
-            <div>
-                    <h2>Contacto</h2>
-                    <p>Puedes contactar con nosotras por mail, twitter o meetup</p>
-            </div>
-        </article>
 
 
         <article class="latest">
-            <h2 class="latest-master">Últimas novedades</h2>
+            <h3 class="latest-master">Últimas novedades</h3>
                 <div id="latestBlog">
                     {% for post in posts.items[:3] %}
                         <h3><a href="{{ get_url(post.url) }}">{{ post.title }}</a></h3>

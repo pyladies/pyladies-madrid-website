@@ -2,29 +2,42 @@
 {% block title %}Acerca de PyLadies Madrid{% endblock %}
 {% block content %}
     <section id="archive">
-        <h2>PyLadies Global</h2>
-        {% for post in posts|sort(attribute='title') %}
-            {% if 'aboutpyladies' in post.category %}
-                <p>{{ post.content }}</p>
-            {% endif %}
-        {% endfor %}
-        <br>
-        <br>
-        <h2>PyLadies Madrid</h2>
-        {% for post in posts|sort(attribute='title') %}
-            {% if 'aboutus' in post.category %}
-                <p>{{ post.content }}</p>
-            {% endif %}
-        {% endfor %}
-        <br>
-        <br>
-        <h2>Colaboraciones con otras comunidades</h2>
-        {% for post in posts %}
-            {% if 'colaborations' in post.category %}
-                <h3><a href="{{ get_url(post.url) }}">{{ post.title }}</a></h3>
-                <time pubdate datetime="{{ post.timestamp|date('%Y-%m-%d') }}">{{ post.date }}</time>&nbsp;&nbsp;&nbsp;
-                <a href="{{ get_url(post.url) }}" class='more-link'> Read more   &rarr;</a>
-            {% endif %}
-        {% endfor %}
+        <article>
+            <div> <h2>PyLadies Madrid</h2>
+                    {% for post in posts|sort(attribute='title') %}
+                        {% if 'aboutus' in post.category %}
+                            <p>{{ post.content }}</p>
+                        {% endif %}
+                    {% endfor %}
+            </div>
+        </article>
+        <article>
+            <h3 class="latest-master">PyLadies Global</h3>
+                    {% for post in posts|sort(attribute='title') %}
+                        {% if 'aboutpyladies' in post.category %}
+                            <p>{{ post.content }}</p>
+                        {% endif %}
+                    {% endfor %}
+        </article>
+        <article>
+            <h3 class="latest-master">Python España</h3>
+                    {% for post in posts|sort(attribute='title') %}
+                        {% if 'pythonespana' in post.category %}
+                            <p>{{ post.content }}</p>
+                        {% endif %}
+                    {% endfor %}
+        </article>
+        <article>
+            <h3 class="latest-master">Colaboraciones con otras comunidades</h3>
+                <div id="latestBlog">
+                    {% for post in posts %}
+                        {% if 'colaborations' in post.category %}
+                        <h3><a href="{{ get_url(post.url) }}">{{ post.title }}</a></h3>
+                        <time pubdate datetime="{{ post.timestamp|date('%Y-%m-%d') }}">{{ post.date }}</time>
+                        <p>{{ post.excerpt }}  <a href="{{ get_url(post.url) }}" class='more-link'>Leer más &rarr;</a></p>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+        </article>
     </section>
 {% endblock %}

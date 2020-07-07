@@ -920,7 +920,7 @@ footer:after {
 }
 
 footer ul.social {
-  color: rgb(255, 50, 50);
+  color: rgb(255, 250, 255);
 }
 
 footer ul.social li {
@@ -1003,7 +1003,7 @@ footer ul.footer-notice li{
 }
 
 footer .social li a.icon {
-	color: rgb(255, 50, 50);
+	color: white;
 }
 
 footer .social li a.icon:hover {
