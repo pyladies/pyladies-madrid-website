@@ -5,5 +5,8 @@ tags: [acercade, pyladies]
 category: [aboutpyladies, history]
 ---
 
-<p>En esta página pondría quién es PyLadies, su relación con la PSF, nuestra 
-relación con ellas y links de utilidad.</p>
+[En construcción]
+
+En este apartado encontrarás información sobre PyLadies Global, su relación 
+con la Python Software Fundation, recursos e información sobre eventos e 
+iniciativas relacionadas

@@ -22,7 +22,7 @@
         <article>
             <h3 class="latest-master">Python España</h3>
                     {% for post in posts|sort(attribute='title') %}
-                        {% if 'pythonespana' in post.category %}
+                        {% if 'aboutpythonespana' in post.category %}
                             <p>{{ post.content }}</p>
                         {% endif %}
                     {% endfor %}

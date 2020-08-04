@@ -5,5 +5,7 @@ tags: [acercade, pyladiesmadrid]
 category: [aboutus, history]
 ---
 
-<p>En esta página molaría poner la historia de PyLadies Madrid, cuándo se formó, 
-quiénes la fundaron y quiénes han participado activamente.</p>
+[En construcción]
+
+En este apartado encontrarás quiénes somos, cómo empezó el grupo en Madrid y
+nuestros valores y actividades a día de hoy
