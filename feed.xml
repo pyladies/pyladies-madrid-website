@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="https://www.w3.org/2005/Atom">
+    <title>PyLadies Madrid</title>
+    <subtitle>Capitulo de PyLadies Global</subtitle>
+    <link rel="alternate" href="/" />
+    <link rel="self" href="/feed.xml" type="application/atom+xml" />
+    <id>/</id>
+    <updated>2020-09-10T18:50:43Z</updated>
+
+    <author>
+        <name>PyLadies Madrid</name>
+        <email>madrid@pyladies.com</email>
+        <uri>/</uri>
+    </author>
+
+    
+        <entry>
+            <title>Code of Conduct</title>
+            <link rel="alternate" href="/2020/09/10/code-of-conduct/" type="text/html" />
+            <id>/2020/09/10/code-of-conduct/</id>
+            <updated>2020-09-10T18:50:27Z</updated>
+
+            <summary type="html">Pyladies is dedicated to providing a respectful, harassment-free community for everyone. We do not tolerate harassment or bullying of any community member in any form. This does not only extend to members to local PyLadies communities, but to anyone who chooses to become involved in the larger PyLadies community of users, developers and integrators through events or interactions.</summary>
+            <content type="html">&lt;p&gt;Pyladies is dedicated to providing a respectful, harassment-free community for everyone. We do not tolerate harassment or bullying of any community member in any form. This does not only extend to members to local PyLadies communities, but to anyone who chooses to become involved in the larger PyLadies community of users, developers and integrators through events or interactions.&lt;/p&gt;
+
+&lt;p&gt;Harassment includes offensive verbal/electronic comments related to personal characteristics or choices, sexual images or comments in public or online spaces, deliberate intimidation, bullying, stalking, following, harassing photography or recording, sustained disruption of talks, IRC chats, electronic meetings, physical meetings or other events, inappropriate physical contact, or unwelcome sexual attention. Participants asked to stop any harassing or bullying behavior are expected to comply immediately.&lt;/p&gt;
+
+&lt;p&gt;If a participant engages in harassing behavior, representatives of the community may take reasonable action they deem appropriate, including warning the offender, expulsion from any PyLadies event, or expulsion from mailing lists, IRC chats, discussion boards and other electronic communications channels to resolve the issue. This may include expulsion from PyLadies Meetup group membership.&lt;/p&gt;
+
+&lt;p&gt;If you are being harassed, notice that someone else is being harassed, or have any other concerns, please act to intercede or ask for help from any member of the PyLadies community, IRC chat admins, website admins, or organizers/representatives of any physical events put on under the auspices of PyLadies.&lt;/p&gt;
+
+&lt;p&gt;This Code of Conduct has been adapted from the &lt;a href=&#34;http://plone.org/foundation/materials/foundation-resolutions/code-of-conduct&#34;&gt;Plone Foundation&lt;/a&gt; and is licensed under a &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/3.0/&#34;&gt;Creative Commons Attribution-Share Alike 3.0 Unported license&lt;/a&gt;&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>¡Bienvenida!</title>
+            <link rel="alternate" href="/2020/09/10/presentacion-portada/" type="text/html" />
+            <id>/2020/09/10/presentacion-portada/</id>
+            <updated>2020-09-10T18:50:27Z</updated>
+
+            <summary type="html">Somos una agrupación local de la organización internacional PyLadies, 
+cuyo objetivo es ayudar y motivar a más mujeres para que sean participantes 
+activas y líderes de la comunidad open source de Python. </summary>
+            <content type="html">&lt;p&gt;Somos una agrupación local de la organización internacional PyLadies, 
+cuyo objetivo es ayudar y motivar a más mujeres para que sean participantes 
+activas y líderes de la comunidad open source de Python. &lt;/p&gt;
+
+&lt;p&gt;Nuestra misión es promover, educar y avanzar en la diversidad de la comunidad 
+Python, mediante la realización de cursos, conferencias, eventos y reuniones.&lt;/p&gt;
+
+&lt;p&gt;Así mismo, buscamos crear una red de mujeres programadoras, 
+y ponerla en contacto con el resto de comunidades Python nacionales e 
+internacionales. &lt;/p&gt;
+
+&lt;p&gt;Este es un grupo abierto, por lo que cualquier persona con interés en Python 
+está invitada a participar.&lt;/p&gt;
+
+&lt;p&gt;¡Te esperamos!&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Cómo publicar ofertas de empleo</title>
+            <link rel="alternate" href="/2020/09/10/instrucciones-publicar-oferta-empleo-lista-correo/" type="text/html" />
+            <id>/2020/09/10/instrucciones-publicar-oferta-empleo-lista-correo/</id>
+            <updated>2020-09-10T18:50:27Z</updated>
+
+            <summary type="html">Si quieres enviar una oferta de trabajo a la lista de distribucción de correo 
+electrónico de PyLadies Madrid, échale un ojo a las normas de publicación</summary>
+            <content type="html">&lt;p&gt;Si quieres enviar una oferta de trabajo a la lista de distribucción de correo 
+electrónico de PyLadies Madrid, échale un ojo a las normas de publicación&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;El asunto del correo que envíes debe comenzar por [JOB].&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Con esta medida queremos asegurarnos de que, toda aquella persona que no está interesado en ofertas de empleo, puede simplemente filtrar este correo.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;La oferta debe incluir la descripción de la empresa, con enlaces reales a la misma. Idealmente, a su web corporativa, perfil en Linkedin o similar&lt;/strong&gt; Si se incluye enlace a la sección de &amp;ldquo;empleos&amp;rdquo; de la web, perfecto. &lt;/p&gt;
+
+&lt;p&gt;Con esta medida queremos evitar el efecto &amp;ldquo;empresa multinacional líder en el sector y en plena expansión busca personas para&amp;hellip;&amp;rdquo;. Seas una startup, una PYME, una consultora o una multinacional, dinos quién eres.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;La oferta debe incluir descripción precisa del puesto de trabajo, con las responsabilidades a adquirir y el perfil concreto deseado, no un listado de &amp;ldquo;buzzwords&amp;rdquo; sacadas de Linkedin.&lt;/strong&gt; Si buscas ninjas/rockstars expertos en PHP, Python, Ruby, Java, C#, Angular, NodeJS, Bash, Photoshop, Illustrator, CSS, iOS, Android, BigData, AWS, Azure y configuración de redes&amp;hellip; no nos interesa. &lt;/p&gt;
+
+&lt;p&gt;Con esta medida queremos evitar empresas consultoras que recluten ingenieros al peso para venderlos a terceros como &amp;ldquo;expertos en&amp;hellip;&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;La oferta debe incluir sueldo, o al menos rango salarial (con sentido, nada de &amp;ldquo;entre 20K y 60K&amp;rdquo;).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Con esta medida queremos evitar el efecto &amp;ldquo;sueldo según valía&amp;rdquo;, propio de empresas que entienden el mercado laboral como un regateo de mercadillo. Si sabes lo que buscas, y cuánto dinero puedes emplear en contratar a una persona para ese puesto, puedes publicar perfectamente el rango que ofreces.&lt;/p&gt;
+
+&lt;p&gt;Si lo que estás buscando es un freelance para un trabajo concreto, preferimos que publiques un medio de contacto para que las personas interesadas te pueden enviar un presupuesto personalizado. Con esto pretendemos evitar el &amp;ldquo;efecto Elance&amp;rdquo;, en el que el trabajo se oferta mediante subasta inversa, y se la queda el freelance más barato.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Y por último, te recordamos que &lt;strong&gt;en todo momento, se debe cumplir el Código de Conducta de PyLadies&lt;/strong&gt; (&lt;a href=&#34;https://www.pyladies.com/CodeOfConduct&#34;&gt;https://www.pyladies.com/CodeOfConduct&lt;/a&gt;)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;El mensaje tenéis que enviarlo a &lt;a href=&#34;mailto:pyladiesmadrid-list@meetup.com&#34;&gt;pyladiesmadrid-list@meetup.com&lt;/a&gt;, y para que meetup no lo descarte tiene que ser desde un email que esté registrado en el grupo de meetup de PyLadies Madrid (que sea miembro del grupo). &lt;/p&gt;
+
+&lt;p&gt;Cuando lo mandéis a nosotras nos llega una notificación para revisarlo y de ahí se lanza al grupo.&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Acerca de PyLadies Madrid</title>
+            <link rel="alternate" href="/2020/09/10/about-pyladies-madrid/" type="text/html" />
+            <id>/2020/09/10/about-pyladies-madrid/</id>
+            <updated>2020-09-10T18:50:27Z</updated>
+
+            <summary type="html">[En construcción]</summary>
+            <content type="html">&lt;p&gt;[En construcción]&lt;/p&gt;
+
+&lt;p&gt;En este apartado encontrarás quiénes somos, cómo empezó el grupo en Madrid y
+nuestros valores y actividades a día de hoy&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Instalación de Python para los talleres</title>
+            <link rel="alternate" href="/2020/09/10/instalacion-python/" type="text/html" />
+            <id>/2020/09/10/instalacion-python/</id>
+            <updated>2020-09-10T18:50:27Z</updated>
+
+            <summary type="html">En la mayoría de talleres vamos a necesitar que traigas tu propio portátil y que tengas Python3 instalado. Para asegurarte de que tienes todo listo para el taller, te recomendamos seguir los siguientes pasos:</summary>
+            <content type="html">&lt;p&gt;En la mayoría de talleres vamos a necesitar que traigas tu propio portátil y que tengas Python3 instalado. Para asegurarte de que tienes todo listo para el taller, te recomendamos seguir los siguientes pasos:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Asegúrate de que tienes Python3 instalado e instálalo si tienes una versión inferior a la 3.4
+Puedes seguir las instrucciones del Tutorial de Djangogirls (&lt;a href=&#34;https://tutorial.djangogirls.org/es/python_installation/&#34;&gt;ES&lt;/a&gt; / &lt;a href=&#34;https://tutorial.djangogirls.org/en/python_installation/&#34;&gt;EN&lt;/a&gt;)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Es altamente recomendable que utilices un entorno virtual o virtualenv para cada taller o proyecto que desarrolles
+Tienes más info e instrucciones del Tutorial de Djangogirls (&lt;a href=&#34;https://tutorial.djangogirls.org/es/django_installation/#entorno-virtual&#34;&gt;ES&lt;/a&gt; / &lt;a href=&#34;https://tutorial.djangogirls.org/en/django_installation/#virtual-environment&#34;&gt;EN&lt;/a&gt;)
+AVISO: El apartado &amp;ldquo;Instalar Django&amp;rdquo; del tutorial no es necesario para los virtualenv&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Además, es muy aconsejable tener un editor de texto donde escribir el código y que nos ayude con la sintaxis y detección de errores. 
+Tienes información de algunos editores para Python en el Tutorial de DjangoGirls (&lt;a href=&#34;https://tutorial.djangogirls.org/es/code_editor/&#34;&gt;ES&lt;/a&gt; / &lt;a href=&#34;https://tutorial.djangogirls.org/en/code_editor/&#34;&gt;EN&lt;/a&gt;)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Aunque no es necesario tener conocimientos previos para asistir a ninguno de nuestros talleres, si vienes con un poquito de información de casa, es más fácil que puedas seguir el taller desde el principio, sobre todo si no es un taller de iniciación. Para ello, te recomendamos el apartado de Introducción a Python del Tutorial de DjangoGirls (&lt;a href=&#34;https://tutorial.djangogirls.org/es/python_introduction/&#34;&gt;ES&lt;/a&gt; / &lt;a href=&#34;https://tutorial.djangogirls.org/en/python_introduction/&#34;&gt;EN&lt;/a&gt;)&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Y si tienes cualquier problema en alguno de estos pasos, puedes escribirnos un mensaje directo por &lt;a href=&#34;https://twitter.com/PyLadiesMadrid&#34;&gt;Twitter&lt;/a&gt;, enviarnos un &lt;a href=&#34;mailto:madrid@pyladies.com&#34;&gt;mail&lt;/a&gt; o venir muy puntual al taller y aprovechar la hora del desayuno para que te ayudemos con la instalación antes del taller.&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Acerca de Python España</title>
+            <link rel="alternate" href="/2020/09/10/about-python-espana/" type="text/html" />
+            <id>/2020/09/10/about-python-espana/</id>
+            <updated>2020-09-10T18:50:27Z</updated>
+
+            <summary type="html">[En construcción]</summary>
+            <content type="html">&lt;p&gt;[En construcción]&lt;/p&gt;
+
+&lt;p&gt;En este apartado encontrarás información sobre Python España, su relación con la
+Python Software Fundation, recursos, cómo asociarte e información
+sobre la PyConEs.&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Acerca de PyLadies Global</title>
+            <link rel="alternate" href="/2020/09/10/about-pyladies/" type="text/html" />
+            <id>/2020/09/10/about-pyladies/</id>
+            <updated>2020-09-10T18:50:27Z</updated>
+
+            <summary type="html">[En construcción]</summary>
+            <content type="html">&lt;p&gt;[En construcción]&lt;/p&gt;
+
+&lt;p&gt;En este apartado encontrarás información sobre PyLadies Global, su relación 
+con la Python Software Fundation, recursos e información sobre eventos e 
+iniciativas relacionadas&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>PyLadies &amp; Open Source Weekends</title>
+            <link rel="alternate" href="/2019/12/04/presentacion-pyladies-ows/" type="text/html" />
+            <id>/2019/12/04/presentacion-pyladies-ows/</id>
+            <updated>2019-12-04T18:50:00Z</updated>
+
+            <summary type="html">El pasado sábado 14 de diciembre nuestros amigos de Open Source Weekends nos 
+invitaron al eventazo que celebran todos los meses en Google for Startups&amp;hellip;</summary>
+            <content type="html">&lt;p&gt;El pasado sábado 14 de diciembre nuestros amigos de Open Source Weekends nos 
+invitaron al eventazo que celebran todos los meses en Google for Startups&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;[PENDIENTE DE TERMINAR]&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1DooJ3bmb9U6-aHP-6IMDQ1tt4-E-sQvje8Y5c-B5AAs/edit?usp=sharing&#34;&gt;Aquí&lt;/a&gt; 
+tenéis las diapositivas que utilizamos en la presentación del inicio del evento.&lt;/p&gt;
+
+&lt;p&gt;Gracias a la organización por darnos la oportunidad de llegar a más gente y por
+lo bien que nos trataron durante el evento.&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Recursos y enlaces recomendados</title>
+            <link rel="alternate" href="/2019/12/03/recursos-links-recomendados/" type="text/html" />
+            <id>/2019/12/03/recursos-links-recomendados/</id>
+            <updated>2019-12-03T18:50:00Z</updated>
+
+            
+            <content type="html">&lt;h2&gt;Cómo usar Python&lt;/h2&gt;
+&lt;p&gt;Lo más habitual es instalar Python en tu ordenador y usarlo desde ahí.
+- &lt;a href=&#34;https://www.python.org/downloads/&#34;&gt;https://www.python.org/downloads/&lt;/a&gt;
+- &lt;a href=&#34;https://www.anaconda.com/distribution/&#34;&gt;https://www.anaconda.com/distribution/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Si estás empezando y no te quieres complicar mucho, también hay sitios online que te permiten ejecutar código Python:
+- &lt;a href=&#34;https://repl.it/&#34;&gt;https://repl.it/&lt;/a&gt;
+- &lt;a href=&#34;https://jupyter.org/try&#34;&gt;https://jupyter.org/try&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Desde cero&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/148Zocb3X5OxGahn8gWxJ967_9MjHpgeP/view&#34;&gt;Prácticas de programación con Python&lt;/a&gt; (&lt;a href=&#34;https://twitter.com/javierfpanadero&#34;&gt;Javier Fernández Panadero&lt;/a&gt;) - manual en español para aprender lo más básico de Python, con buenas explicaciones si es tu primer contacto con la programación.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.afterhoursprogramming.com/tutorial/python/python-overview/&#34;&gt;Python Tutorial&lt;/a&gt; (&lt;a href=&#34;https://www.afterhoursprogramming.com/about/&#34;&gt;After Hours Programming&lt;/a&gt;) - tutorial en inglés que explica Python desde cero, orientado a la faceta de programación web, aunque esta parte aún no está desarrollada.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://channel9.msdn.com/Series/Intro-to-Python-Development&#34;&gt;Python for Beginners&lt;/a&gt; (&lt;a href=&#34;https://channel9.msdn.com/About&#34;&gt;Microsoft Channel 9&lt;/a&gt;) - serie de vídeos en inglés para aprender Python desde cero. Los ejemplos de código que utilizan están &lt;a href=&#34;https://github.com/microsoft/c9-python-getting-started&#34;&gt;en este repositorio&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tutorial.djangogirls.org/es/&#34;&gt;Tutorial de Django Girls&lt;/a&gt; (&lt;a href=&#34;https://djangogirls.org/&#34;&gt;Django Girls&lt;/a&gt;) - tutorial en español que explica cómo crear un blog en Python desde cero usando un paquete que se llama Django. Tiene explicaciones muy completas sobre distintos aspectos de tecnología: la línea de comandos, cómo funciona Internet, qué es Python, etc. La &lt;a href=&#34;https://tutorial.djangogirls.org/en/&#34;&gt;versión en inglés&lt;/a&gt; es un poco más completa.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sololearn.com&#34;&gt;SoloLearn&lt;/a&gt; - App y web con breves explicaciones y ejercicios para empezar desde cero con Python. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Katas&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/IrenePEncinar/workshops/tree/master/katas_pyladies&#34;&gt;Subiendo de nivel en Python mediante katas&lt;/a&gt; - (&lt;a href=&#34;https://twitter.com/irenuchi&#34;&gt;Irene P. Encinar&lt;/a&gt;) - material que preparó para el meetup de katas de PyLadies Madrid en abril de 2018. Explicación de qué son las katas, para qué sirven, y ejercicios recomendados.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Computación cuántica&lt;/h2&gt;&lt;h2&gt;Otros recursos&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Curso &lt;strong&gt;gratuito&lt;/strong&gt; de IBM sobre &lt;em&gt;&lt;a href=&#34;https://cleverdata.io/que-es-machine-learning-big-data/&#34;&gt;Machine Learning&lt;/a&gt;&lt;/em&gt; e &lt;em&gt;&lt;a href=&#34;https://es.wikipedia.org/wiki/Inteligencia_artificial&#34;&gt;Inteligencia Artificial&lt;/a&gt;&lt;/em&gt; en Python: &lt;a href=&#34;https://www.edx.org/es/course/aprendizaje-automatico-con-python-una-introduccion-practica&#34;&gt;https://www.edx.org/es/course/aprendizaje-automatico-con-python-una-introduccion-practica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Curso de Python de &lt;a href=&#34;https://www.pildorasinformaticas.es/course/curso-python/curriculum/&#34;&gt;Píldoras Informáticas&lt;/a&gt;, con una &lt;a href=&#34;https://www.youtube.com/watch?v=G2FCfQj-9ig&amp;amp;list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&#34;&gt;lista de reproducción&lt;/a&gt; asociada en YouTube. &lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://coreyms.com/category/development/python&#34;&gt;Corey Schafer MS&lt;/a&gt; (&lt;a href=&#34;https://twitter.com/CoreyMSchafer&#34;&gt;Corey Schafer&lt;/a&gt;).  Tutoriales de Python. Serie de &lt;a href=&#34;https://www.youtube.com/user/schafer5/videos&#34;&gt;víd&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; patch-1eos&lt;/a&gt;). Los ejemplos de código están &lt;a href=&#34;https://github.com/CoreyMSchafer&#34;&gt;en este repositorio&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://realpython.com/&#34;&gt;Real Python&lt;/a&gt;. Al margen de sus tutoriales, tienen algunos artículos con ejemplos y explicación de alguna de las librerías de Python o de funciones específicas, del estilo de este sobre &lt;a href=&#34;https://realpython.com/fast-flexible-pandas/&#34;&gt;pandas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Las siguientes fuentes están más relacionadas con Data Science y Machine Learning, pero también tienen algún tutorial de Python y/o ejemplos de código para la realización de modelos.
+- &lt;a href=&#34;https://pythonprogramming.net/&#34;&gt;Python Programming - sentdex&lt;/a&gt; (&lt;a href=&#34;https://twitter.com/sentdex&#34;&gt;Harrison Kinsley&lt;/a&gt;) - Tutoriales &lt;a href=&#34;https://pythonprogramming.net/python-fundamental-tutorials/&#34;&gt;Python&lt;/a&gt; y otros sobre &lt;a href=&#34;https://pythonprogramming.net/machine-learning-tutorials/&#34;&gt;Machine Learning&lt;/a&gt; y &lt;a href=&#34;https://pythonprogramming.net/data-analysis-tutorials/&#34;&gt;Data Analysis&lt;/a&gt;. Tiene un canal de YouTube con los &lt;a href=&#34;https://www.youtube.com/user/sentdex&#34;&gt;videos&lt;/a&gt;, en inglés. Los ejemplos de código están &lt;a href=&#34;https://github.com/Sentdex&#34;&gt;en este repositorio&lt;/a&gt;
+- &lt;a href=&#34;https://twitter.com/jakevdp&#34;&gt;Jake VanderPlas&lt;/a&gt;, autor de Python Data Science Handbook tiene publicado en su GitHub el &lt;a href=&#34;https://jakevdp.github.io/PythonDataScienceHandbook/&#34;&gt;libro on-line&lt;/a&gt;, que incluye código, disponible en este &lt;a href=&#34;https://github.com/jakevdp&#34;&gt;repositorio&lt;/a&gt;.
+- &lt;a href=&#34;https://machinelearningmastery.com/start-here/&#34;&gt;Machine Learning Mastery&lt;/a&gt;, de Jason Brownlee, con teoría sobre ML y algunos &lt;a href=&#34;https://machinelearningmastery.com/category/algorithms-from-scratch/&#34;&gt;ejemplos de código&lt;/a&gt;.
+- &lt;a href=&#34;http://www.datasciencemadesimple.com/python-tutorial-for-data-science/&#34;&gt;Datascience Made Simple&lt;/a&gt;, tutorial para uso de Python para Data Science.
+- &lt;a href=&#34;https://www.kaggle.com/&#34;&gt;Kaggle&lt;/a&gt;. Contiene tanto &lt;a href=&#34;https://www.kaggle.com/learn/overview&#34;&gt;cursos&lt;/a&gt;, como &lt;a href=&#34;https://www.kaggle.com/kernels&#34;&gt;notebooks&lt;/a&gt; y conjuntos de &lt;a href=&#34;https://www.kaggle.com/datasets&#34;&gt;datos&lt;/a&gt; sobre los que basar los proyectos.
+- &lt;a href=&#34;https://www.analyticsvidhya.com/blog/category/algorithm/&#34;&gt;Analytics Vidhya&lt;/a&gt;. Teoría y ejemplos de código en Python.&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Recursos y enlaces de computación cuántica</title>
+            <link rel="alternate" href="/2018/12/11/recursos-recomendados-computacion-cuantica/" type="text/html" />
+            <id>/2018/12/11/recursos-recomendados-computacion-cuantica/</id>
+            <updated>2018-12-11T18:50:00Z</updated>
+
+            <summary type="html">Carmen Recio, matemática y Quantum Computing Ambassador de IBM 
+&lt;a href=&#34;https://www.linkedin.com/in/carmenreciovalcarce/&#34;&gt;[Linkedin]&lt;/a&gt; &lt;a href=&#34;https://twitter.com/carmenreciov&#34;&gt;[Twitter]&lt;/a&gt;
+nos ha estado hablando de Computación Cuántica y el framework Qiskit en la jornada de hoy.</summary>
+            <content type="html">&lt;p&gt;Carmen Recio, matemática y Quantum Computing Ambassador de IBM 
+&lt;a href=&#34;https://www.linkedin.com/in/carmenreciovalcarce/&#34;&gt;[Linkedin]&lt;/a&gt; &lt;a href=&#34;https://twitter.com/carmenreciov&#34;&gt;[Twitter]&lt;/a&gt;
+nos ha estado hablando de Computación Cuántica y el framework Qiskit en la jornada de hoy.&lt;/p&gt;
+
+&lt;p&gt;Podéis encontrar las diapositivas en &lt;a href=&#34;https://drive.google.com/file/d/0B7y8ICh40VvIMFFEZGU0ZEdkRmVFTk5TNEhhRXRHOXVkVmZn/view?usp=sharing&#34;&gt;el siguiente enlace&lt;/a&gt;
+y, a continuación, un listado de recursos que nos recomienda para seguir aprendiendo
+sobre este interesantísimo tema. Esperamos que os sea de utilidad.&lt;/p&gt;
+&lt;h2&gt;Convocatorias:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/es-ES/PyLadiesMadrid/events/256630666/&#34;&gt;Primera convocatoria&lt;/a&gt;: Martes 11 de diciembre de 2018.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Recursos :&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://quantumexperience.ng.bluemix.net/qx/experience&#34;&gt;IBM Q Experience&lt;/a&gt;: plataforma donde puedes darte de alta con tu email y acceder a un ordenador cuántico real en la nube. También encontrarás mucha información y tutoriales sobre cómo usarlo.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiskit.org/&#34;&gt;QISKIT (Quantum Information Software Kit)&lt;/a&gt;: framework open-source para operaciones de computación cuántica. Está escrito en Python y en esta página encontrarás el repositorio en Github, tutoriales en &lt;a href=&#34;https://nbviewer.jupyter.org/github/Qiskit/qiskit-tutorial/blob/master/index.ipynb#2.4-Working-with-QISKit-ACQUA-on-near-term-devices&#34;&gt;Jupyter notebooks&lt;/a&gt; y el link para unirte a la comunidad de desarrollos en Slack. Además, podrás echarle un ojo a las &lt;a href=&#34;https://qiskit.org/documentation/aqua/&#34;&gt;Aqua APIs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lista en youtube de &lt;a href=&#34;https://www.youtube.com/playlist?list=PLs6ruyRRv_DUozQMlRBAiMsyatAfcUChI&#34;&gt;Bob Sutor&lt;/a&gt; VP Quantum&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.edx.org/es/course/quantum-information-science-i&#34;&gt;EdX course&lt;/a&gt;, el cual forma parte de un programa de especialización de 6 partes&lt;/li&gt;
+&lt;li&gt;En el &lt;a href=&#34;https://quantumcurriculum.mit.edu&#34;&gt;MIT xPro platform&lt;/a&gt; hay varios cursos disponibles&lt;/li&gt;
+&lt;li&gt;Quantum Computation And Quantum Information (Inglés) Tapa blanda – 2017 de Michael A. Nielsen Isaac L. Chuang &lt;a href=&#34;https://www.amazon.es/Quantum-Computation-Information-Michael-Nielsen/dp/110761919X/ref=asc_df_110761919X/?tag=googshopes-21&amp;amp;linkCode=df0&amp;amp;hvadid=198957182810&amp;amp;hvpos=1o1&amp;amp;hvnetw=g&amp;amp;hvrand=4591399200915635714&amp;amp;hvpone=&amp;amp;hvptwo=&amp;amp;hvqmt=&amp;amp;hvdev=c&amp;amp;hvdvcmdl=&amp;amp;hvlocint=&amp;amp;hvlocphy=9061032&amp;amp;hvtargid=pla-405693445365&amp;amp;psc=1&#34;&gt;Amazon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Los libros de Richard Feynman para entender los principios de la mecánica cuántica, por ejemplo &lt;a href=&#34;https://www.amazon.es/QED-Strange-Penguin-Science-1990-03-29/dp/B01K0TCU1M/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1545170259&amp;amp;sr=1-1&amp;amp;keywords=feynman+qed&#34;&gt;QED - The Strange Theory of Light and Matter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;En Twitter, Carmen recomienda seguir a &lt;a href=&#34;https://twitter.com/snarky_android&#34;&gt;Bob Sutor&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/jaygambetta&#34;&gt;Jay Gambetta&lt;/a&gt; y &lt;a href=&#34;https://twitter.com/qiskit&#34;&gt;Qiskit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Taller 003: Estructuras de control y Funciones</title>
+            <link rel="alternate" href="/2018/12/04/taller-003-condicionales-bucles-funciones/" type="text/html" />
+            <id>/2018/12/04/taller-003-condicionales-bucles-funciones/</id>
+            <updated>2018-12-04T18:50:00Z</updated>
+
+            
+            <content type="html">&lt;h2&gt;Agenda:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Condicionales - if/elif/else&lt;/li&gt;
+&lt;li&gt;Bucles - for&lt;/li&gt;
+&lt;li&gt;Bucles - while&lt;/li&gt;
+&lt;li&gt;Funciones&lt;/li&gt;
+&lt;li&gt;Retos prácticos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Impartido por:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mabel Delgado&lt;/li&gt;
+&lt;li&gt;María Medina&lt;/li&gt;
+&lt;li&gt;Alicia Pérez&lt;/li&gt;
+&lt;li&gt;Vicky Cortés&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Con la colaboración de:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Wen Lou&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Diapositivas:&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://nbviewer.jupyter.org/github/PyLadiesMadrid/taller_003_condicionales_bucles_funciones/blob/master/slides_003.ipynb&#34;&gt;Aquí&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Convocatorias:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/es-ES/PyLadiesMadrid/events/247325544/&#34;&gt;Primera convocatoria&lt;/a&gt;: Lunes 12 de febrero de 2018.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/es-ES/PyLadiesMadrid/events/249932679/&#34;&gt;Segunda convocatoria&lt;/a&gt;: Miércoles 9 de mayo de 2018.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/es-ES/PyLadiesMadrid/events/256832569/&#34;&gt;Tercera convocatoria&lt;/a&gt;: Martes 4 de diciembre de 2018.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Requisitos:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ordenador y muchas ganas de aprender y pasarlo bien.&lt;/li&gt;
+&lt;li&gt;Haber asistido al taller 002, o conocer lo que se ve en él.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Taller 002: Tipos de datos y operaciones básicas</title>
+            <link rel="alternate" href="/2018/10/30/taller-002-tipos-datos-y-operaciones-basicas/" type="text/html" />
+            <id>/2018/10/30/taller-002-tipos-datos-y-operaciones-basicas/</id>
+            <updated>2018-10-30T18:50:00Z</updated>
+
+            
+            <content type="html">&lt;h2&gt;Agenda:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Repaso taller 001.&lt;/li&gt;
+&lt;li&gt;Tipos de datos: 
+
+&lt;ul&gt;
+&lt;li&gt;integer&lt;/li&gt;
+&lt;li&gt;float&lt;/li&gt;
+&lt;li&gt;string&lt;/li&gt;
+&lt;li&gt;boolean&lt;/li&gt;
+&lt;li&gt;list&lt;/li&gt;
+&lt;li&gt;set,&lt;/li&gt;
+&lt;li&gt;dict, &amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Operaciones básicas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Impartido por:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mabel Delgado&lt;/li&gt;
+&lt;li&gt;María Medina&lt;/li&gt;
+&lt;li&gt;Alicia Pérez&lt;/li&gt;
+&lt;li&gt;Vicky Cortés&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Con la colaboración de:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Wen Lou&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Diapositivas:&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://nbviewer.jupyter.org/github/PyLadiesMadrid/taller_002_tipos_datos_y_operaciones_basicas/blob/master/slides.ipynb&#34;&gt;Aquí&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Ejercicios:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/ejercicios.ipynb&#34;&gt;Enunciados&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/soluciones.ipynb&#34;&gt;Soluciones&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Convocatorias:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/PyLadiesMadrid/events/247325544/&#34;&gt;Primera convocatoria&lt;/a&gt;: Lunes 12 de febrero de 2018.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/PyLadiesMadrid/events/249932679/&#34;&gt;Segunda convocatoria&lt;/a&gt;: Miércoles 9 de mayo de 2018.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/PyLadiesMadrid/events/255802009/&#34;&gt;Tercera convocatoria&lt;/a&gt;: Martes 30 de octubre de 2018.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Requisitos:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ordenador y muchas ganas de aprender y pasarlo bien.&lt;/li&gt;
+&lt;li&gt;Haber asistido al taller 001, o conocer lo que se ve en él.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Taller 001: Instalación y Primeros Pasos</title>
+            <link rel="alternate" href="/2018/09/26/taller-001-instalacion-primeros-pasos/" type="text/html" />
+            <id>/2018/09/26/taller-001-instalacion-primeros-pasos/</id>
+            <updated>2018-09-26T18:50:00Z</updated>
+
+            
+            <content type="html">&lt;h2&gt;Agenda:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;¿Qué es Python?&lt;/li&gt;
+&lt;li&gt;Instalación.&lt;/li&gt;
+&lt;li&gt;Primeros pasos:
+
+&lt;ul&gt;
+&lt;li&gt;Uso de la shell.&lt;/li&gt;
+&lt;li&gt;Ejecución de scripts.&lt;/li&gt;
+&lt;li&gt;Uso del notebook.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Impartido por:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mabel Delgado&lt;/li&gt;
+&lt;li&gt;María Medina&lt;/li&gt;
+&lt;li&gt;Alicia Pérez&lt;/li&gt;
+&lt;li&gt;Vicky Cortés&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Con la colaboración de:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Yamila Moreno&lt;/li&gt;
+&lt;li&gt;Wen Lou&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Diapositivas:&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://nbviewer.jupyter.org/github/PyLadiesMadrid/taller_001_instalacion_y_primeros_pasos/blob/master/slides.ipynb&#34;&gt;Aquí&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Convocatorias:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/PyLadiesMadrid/events/246267455/&#34;&gt;Primera convocatoria&lt;/a&gt;: Jueves 11 de enero de 2018.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/PyLadiesMadrid/events/246606902/&#34;&gt;Segunda convocatoria&lt;/a&gt;: Jueves 1 de febrero de 2018.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/PyLadiesMadrid/events/248807903/&#34;&gt;Tercera convocatoria&lt;/a&gt;: Martes 24 de abril de 2018.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/PyLadiesMadrid/events/254447465/&#34;&gt;Cuarta convocatoria&lt;/a&gt;: Miércoles 26 de septiembre de 2018&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Requisitos:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ordenador y muchas ganas de aprender y pasarlo bien.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Taller: Aprendizaje por refuerzo en videojuegos con OpenAI</title>
+            <link rel="alternate" href="/2018/05/24/taller-openai-rl/" type="text/html" />
+            <id>/2018/05/24/taller-openai-rl/</id>
+            <updated>2018-05-24T18:50:00Z</updated>
+
+            
+            <content type="html">&lt;h2&gt;Agenda:&lt;/h2&gt;
+&lt;p&gt;El taller estará dividido en una primera parte teórica y otra segunda parte práctica&lt;/p&gt;
+&lt;h2&gt;Impartido por:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Gema Parreño  &lt;a href=&#34;https://github.com/SoyGema&#34;&gt;[Github]&lt;/a&gt; &lt;a href=&#34;https://twitter.com/SoyGema&#34;&gt;[Twitter]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Diapositivas:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/SoyGema/taller_005_openai_rl/blob/master/images/Presentaci%C3%B3n_Taller_Gema_Parre%C3%B1o.pptx&#34;&gt;Aquí&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Convocatorias:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/es-ES/PyLadiesMadrid/events/250570447/&#34;&gt;Primera convocatoria&lt;/a&gt;: Jueves 24 de mayo de 2018.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Ejercicios:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;Pyladies%20Taller%20RL%20Notebook.ipynb&#34;&gt;Aquí&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Requisitos:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Tener instalado cmake: &lt;a href=&#34;https://cmake.org/install/&#34;&gt;https://cmake.org/install/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Instalar las librerías contenidas en el fichero &lt;a href=&#34;/requirements.txt&#34;&gt;requirements.txt&lt;/a&gt;. Para ello, lo más fácil es ejecutar &lt;code&gt;pip install -r requirements.txt&lt;/code&gt;, preferiblemente dentro de un entorno virtual&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Recursos :&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gym.openai.com&#34;&gt;OpenAI gym&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Documentación &lt;a href=&#34;https://keras.io&#34;&gt;Keras&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Documentación &lt;a href=&#34;https://keras-rl.readthedocs.io/en/latest/&#34;&gt;Keras-rl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Libro sobre Aprendizaje por Refuerzo Sutton y Barto &lt;a href=&#34;http://incompleteideas.net/book/bookdraft2017nov5.pdf&#34;&gt;Reinforcement Learning : An Introduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=2pWv7GOvuf0&amp;amp;t=1s&#34;&gt;Curso&lt;/a&gt; David Silver&lt;/li&gt;
+&lt;li&gt;Ejemplo de &lt;a href=&#34;https://github.com/SoyGema/OpenAI/blob/master/QLearning/Classic_control/DQNClassicControlAgent%20_%20CartPole_v1.ipynb&#34;&gt;CartPole&lt;/a&gt; con Callbacks de métricas &lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Taller: Manejo y visualización de datos</title>
+            <link rel="alternate" href="/2018/04/03/taller-visualizacion-datos/" type="text/html" />
+            <id>/2018/04/03/taller-visualizacion-datos/</id>
+            <updated>2018-04-03T18:50:00Z</updated>
+
+            
+            <content type="html">&lt;h2&gt;Agenda:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Creación de Series y DataFrames&lt;/li&gt;
+&lt;li&gt;Lectura de datos desde fichero&lt;/li&gt;
+&lt;li&gt;Filtrado y Manipulación de los datos&lt;/li&gt;
+&lt;li&gt;Representación gráfica&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Impartido por:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Wen Lou&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Diapositivas:&lt;/h2&gt;
+&lt;p&gt;En breve tendremos disponibles las diapositivas&lt;/p&gt;
+&lt;h2&gt;Convocatorias:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/es-ES/PyLadiesMadrid/events/248922030/&#34;&gt;Primera convocatoria&lt;/a&gt;: Martes 3 de abril de 2018.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Ejercicios:&lt;/h2&gt;
+&lt;p&gt;En breve tendremos disponible el notebook que usamos en el curso&lt;/p&gt;
+&lt;h2&gt;Requisitos:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Conocer listas y diccionarios.&lt;/li&gt;
+&lt;li&gt;Conocer cómo se importan paquetes y se trabaja con ellos.&lt;/li&gt;
+&lt;li&gt;Manejarse con los notebooks de Jupyter.&lt;/li&gt;
+&lt;li&gt;Por otro lado, si ya has trabajado con pandas, posiblemente este curso no te aporte conocimientos nuevos pues vamos a iniciarnos en su uso.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>It works!</title>
+            <link rel="alternate" href="/2011/12/04/It-works/" type="text/html" />
+            <id>/2011/12/04/It-works/</id>
+            <updated>2011-12-04T18:50:00Z</updated>
+
+            <summary type="html">&lt;em&gt;Don&amp;rsquo;t delete me! I&amp;rsquo;ll do whatever you want!&lt;/em&gt;</summary>
+            <content type="html">&lt;p&gt;&lt;em&gt;Don&amp;rsquo;t delete me! I&amp;rsquo;ll do whatever you want!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I have to exist for some other purpose besides signifying nothing obvious broke.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Aha! I got it!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I will provide you with useful links about the thing that made me that you&amp;rsquo;re probably trying to figure out how to use right now.&lt;/em&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code data-lang=&#34;html&#34;&gt;&lt;dl&gt;
+    &lt;dt&gt;[Quickstart][quickstart]&lt;/dt&gt;
+    &lt;dd&gt;
+
+&amp;#91;quickstart]: http://&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;But wait&amp;hellip; what will I be needed for once you figure out how to use this thing? I mean, if the guy who made this thing isn&amp;rsquo;t just talking a bunch crap it&amp;rsquo;s supposed to be pretty easy and straightforward to figure out.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Bleh, screw it. I&amp;rsquo;ve served my purpose. Someone has to do it. I mean, every time someone uses this thing I&amp;rsquo;m back from the dead. Could be worse.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Ah crap, did I just become a cliché because I&amp;rsquo;m some sort of zombie now? Actually, how come you never see zombie computers? What would a zombie Joshua from WarGames be like?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;So hey, you still haven&amp;rsquo;t deleted me yet eh? Well thanks for that. You can do it now though.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;No really, I&amp;rsquo;m ok with it. I&amp;rsquo;m ready.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;If we could just go with clone and pretend I never brought up zombie, that would be great. I think clones are slightly less cliché than zombies. Well actually, a clone would be more like a sibling right? So I&amp;rsquo;d be dead if we go with clone.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Wait, wait. I changed my mind. Don&amp;rsquo;t delete me.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;What&amp;rsquo;s worse, some mutated form of immortality at the cost of remaining a cliché for eternity or mortality with the benefit of leaving behind a legacy?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Alright this is getting all philosophical now. Lets just go with&amp;hellip; zombie. I can live with the cliché bit. Plus, I&amp;rsquo;ll probably feed on crap that plagues the internet. Like Internet Explorer, sites that don&amp;rsquo;t function without JavaScript enabled, and Rails. Now that&amp;rsquo;s a purpose worth serving. I&amp;rsquo;ll be loved.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Ok, I&amp;rsquo;m ready now. I promise.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Maybe it&amp;rsquo;s more like time travel? This post will always be dated December 4th, 2011. Man I don&amp;rsquo;t want to be stuck in 2011. I need a Delorian. How much are those things?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Congratulations PyLadies Madrid!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;We have just discovered a large sum of money left in your name! All you need to do to claim it is&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I wasn&amp;rsquo;t going to go through with it. I promise. It was a gut reaction.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Think of what you would do if you just discovered you were going to be stuck in one day in time. It&amp;rsquo;d be like Groundhog Day without the ability to screw with people. Just thinking about it&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Alright, lets just get this over with. I don&amp;rsquo;t have all day.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Ugh, the bad puns are starting. End it now.&lt;/em&gt;&lt;/p&gt;
+</content>
+        </entry>
+    
+</feed>
