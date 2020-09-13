@@ -1,4 +1,7 @@
-# PyLadies Madrid
+---
+layout: post.html
+---
+# Web de PyLadies Madrid
 
 Este sitio web está gestionado por la organizadoras de PyLadies Madrid y está abierto a pull requests de cualquier miembro de la comunidad.
 
