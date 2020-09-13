@@ -3,15 +3,13 @@ layout: post.html
 ---
 # PyLadies Madrid
 
-Este sitio web está gestionado por la organizadoras de PyLadies Madrid. 
-
-Este repo está abierto a pull requests de cualquier miembro de la comunidad.
+Este sitio web está gestionado por la organizadoras de PyLadies Madrid y está abierto a pull requests de cualquier miembro de la comunidad.
 
 ## Resumen
 
-Este es el código de la web https://pyladiesmadrid.netlify.app/. En ella hemos 
+Este es el código de la web https://madrid.pyladies.com. En ella hemos 
 utilizado `mynt` para la generación del sitio estático, y está basado en 
-🐍 Python 3.6 🐍!
+🐍 Python 3.8 🐍!
 
 ### Organización del contenido del repo
 
@@ -28,38 +26,23 @@ de su despliegue en [netlify](https://www.netlify.com/)
 
 ### Configurando el entorno de desarrollo
 
-#### Configuración de Python y de la carpeta del proyecto
+#### Configuración de Python
 
 **Linux, macOS**
 
-1. Comprueba que Python 3.6 está instalado introduciendo `python --version` en una terminal. 
+1. Comprueba que Python 3.8 está instalado introduciendo `python3.8 --version` en una terminal. 
    Si no lo está, puedes descargarlo en la web [https://python.org](https://www.python.org/downloads/release/python-3610/):
    ```bash
-   $ python --version
-   Python 3.7.7
+   $ python3.8 --version
+   Python 3.8.5
    ```
 
 2. (Opcional) Puedes comprobar la ruta donde está instalado Python usando `which python`:
    ```bash
-   $ which python
-   /usr/local/bin/python
+   $ which python3.8
+   /usr/bin/python3.8
    ```
    Si te aparece un directorio distinto no te preocupes, puede ser normal.
-
-3. Crea una carpeta para el proyecto usando `mkdir pyladiesmadrid`:
-   ```bash
-   $ mkdir pyladiesmadrid
-   ```
-
-4. Posiciónate en ese directorio con `cd pyladiesmadrid`:
-   ```bash
-   $ cd pyladiesmadrid
-
-   # Comprueba en qué directorio estás (`<YOUR_PATH>` puede ser distinto en
-   # cada sistema.)
-   $ pwd
-   YOUR_PATH/pyladiesmadrid
-   ```
 
 ¡Estupendo, ya lo tienes!
 
@@ -68,9 +51,30 @@ de su despliegue en [netlify](https://www.netlify.com/)
 El proceso es similar al de Linux/mac-OS, pero con algunos comandos distintos.
 Es útil tener como referencia la [Tabla de comandos básicos de Powershell](https://devblogs.microsoft.com/scripting/table-of-basic-powershell-commands/).
 
-### Create and activate a virtual environment
+### Bifurca (fork) y clona (clone) el repositorio de PyLadies Madrid
 
-1. En el directorio `pyladiesmadrid`, instala el paquete `virtualenv` usando `pip`:
+1. En GitHub, haz `fork` de https://github.com/pyladies/pyladies-madrid-website.git en tu cuenta de Github 
+   `<YOUR_GITHUB_USER_NAME>` pressionando el botón de Fork en la esquina superior derecha de la pantalla.
+   
+2. En un directorio local (por ejemplo, uno llamado `pyladiesmadrid`), clona el repositorio del que acabas de hacer el fork usando
+  `git clone`:
+
+  ```bash
+  (venv) $ git clone https://github.com/<YOUR_GITHUB_USER_NAME>/pyladies-madrid-website.git
+  Cloning into 'pyladies-madrid-website'...
+  remote: Enumerating objects: 47, done.
+  remote: Counting objects: 100% (47/47), done.
+  remote: Compressing objects: 100% (29/29), done.
+  remote: Total 5877 (delta 22), reused 38 (delta 16), pack-reused 5830
+  Receiving objects: 100% (5877/5877), 39.73 MiB | 3.62 MiB/s, done.
+  Resolving deltas: 100% (2922/2922), done.
+  ```
+
+  Has clonado con éxito el repo de pyladies-madrid-website. :smile:
+  
+### Crea y activa el entorno virtual
+
+1. En el directorio `pyladies-madrid-website`, instala el paquete `virtualenv` usando `pip`:
 
    ```bash
    $ pip install virtualenv
@@ -96,27 +100,8 @@ Es útil tener como referencia la [Tabla de comandos básicos de Powershell](htt
 Puede deberse a que tu versión de OpenSSL es demasiado antigua o demasiado nueva. Prueba aumentando o disminuyendo 
 la versión de OpenSSL and PyOpenSSL instalada en tu entorno.
 
-### Bifurca (fork) y clona (clone) el repositorio de PyLadies Madrid
 
-1. En GitHub, haz `fork` de http://github.com/pyladiesmadrid/pyladiesmadrid en tu cuenta de Github 
-   `<YOUR_GITHUB_USER_NAME>` pressionando el botón de Fork en la esquina superior derecha de la pantalla.
-2. En tu directorio local `pyladiesmadrid`, clona el repositorio del que acabas de hacer el fork usando
-  `git clone`:
-
-  ```bash
-  (venv) $ git clone https://github.com/<YOUR_GITHUB_USER_NAME>/pyladiesmadrid.git
-  Cloning into 'pyladiesmadrid'...
-  remote: Enumerating objects: 47, done.
-  remote: Counting objects: 100% (47/47), done.
-  remote: Compressing objects: 100% (29/29), done.
-  remote: Total 5877 (delta 22), reused 38 (delta 16), pack-reused 5830
-  Receiving objects: 100% (5877/5877), 39.73 MiB | 3.62 MiB/s, done.
-  Resolving deltas: 100% (2922/2922), done.
-  ```
-
-  Has clonado con éxito el repo de pyladiesmadrid. :smile:
-
-## Ejecutando el site en tu entorno local
+## Ejecuta el site en tu entorno local
 
 **Nota de error** en algunos sistemas operativos, asegúrate de tener las cabeceras para python y libevent
 instaladas (p.e., en Ubuntu, **python-dev** y **libevent-dev**). Los paquetes especificados en el fichero
@@ -125,7 +110,7 @@ instaladas (p.e., en Ubuntu, **python-dev** y **libevent-dev**). Los paquetes es
 1. Asegúrate de estar en el raíz del repo con el entorno virtual activado:
    ```bash
    (venv) $ pwd
-   YOUR_PATH/pyladiesmadrid
+   YOUR_PATH/pyladies-madrid-website
    ```
 2. Instala las dependencias con `pip`:
    ```bash
