@@ -5,7 +5,7 @@
     <link rel="alternate" href="/" />
     <link rel="self" href="/feed.xml" type="application/atom+xml" />
     <id>/</id>
-    <updated>2020-09-13T12:07:07Z</updated>
+    <updated>2020-09-13T12:44:27Z</updated>
 
     <author>
         <name>author</name>
@@ -18,7 +18,7 @@
             <title>Análisis de datos con Pandas</title>
             <link rel="alternate" href="/2020/02/16/taller-pandas/" type="text/html" />
             <id>/2020/02/16/taller-pandas/</id>
-            <updated>2020-02-16T12:06:00Z</updated>
+            <updated>2020-02-16T12:44:00Z</updated>
 
             <summary type="html">¡¡Hola, PyLadies!!</summary>
             <content type="html">&lt;p&gt;¡¡Hola, PyLadies!!&lt;/p&gt;
@@ -67,7 +67,7 @@ repos de github:
             <title>Pubquiz navideño 2019 🍻🎄</title>
             <link rel="alternate" href="/2019/12/04/pubquiz-navidenio/" type="text/html" />
             <id>/2019/12/04/pubquiz-navidenio/</id>
-            <updated>2019-12-04T12:06:00Z</updated>
+            <updated>2019-12-04T12:44:00Z</updated>
 
             <summary type="html">¡¡Hola de nuevo, PyLadies!!</summary>
             <content type="html">&lt;p&gt;¡¡Hola de nuevo, PyLadies!!&lt;/p&gt;
@@ -112,7 +112,7 @@ Como es natural, solo participarán aquellas personas que traigan un libro para 
             <title>PyLadies &amp; Open Source Weekends</title>
             <link rel="alternate" href="/2019/12/04/presentacion-pyladies-ows/" type="text/html" />
             <id>/2019/12/04/presentacion-pyladies-ows/</id>
-            <updated>2019-12-04T12:06:00Z</updated>
+            <updated>2019-12-04T12:44:00Z</updated>
 
             <summary type="html">El pasado sábado 14 de diciembre nuestros amigos de Open Source Weekends nos 
 invitaron al eventazo que celebran todos los meses en Google for Startups&amp;hellip;</summary>
@@ -133,7 +133,7 @@ lo bien que nos trataron durante el evento.&lt;/p&gt;
             <title>Scrapy, ¡hazte con todos (los datos)!</title>
             <link rel="alternate" href="/2019/11/16/scrapy-hazte-con-todos-los-datos/" type="text/html" />
             <id>/2019/11/16/scrapy-hazte-con-todos-los-datos/</id>
-            <updated>2019-11-16T12:06:00Z</updated>
+            <updated>2019-11-16T12:44:00Z</updated>
 
             <summary type="html">¡¡Hola, PyLadies!!</summary>
             <content type="html">&lt;p&gt;¡¡Hola, PyLadies!!&lt;/p&gt;
@@ -178,7 +178,7 @@ Así que ya sabes entrenador, pon a punto tu ordenador ¡Y que comience la captu
             <title>Katayuno para todos los niveles</title>
             <link rel="alternate" href="/2019/10/20/katayuno-todos-niveles/" type="text/html" />
             <id>/2019/10/20/katayuno-todos-niveles/</id>
-            <updated>2019-10-20T12:06:00Z</updated>
+            <updated>2019-10-20T12:44:00Z</updated>
 
             <summary type="html">¡¡Hola, PyLadies!!</summary>
             <content type="html">&lt;p&gt;¡¡Hola, PyLadies!!&lt;/p&gt;
@@ -219,7 +219,7 @@ Así que ya sabes entrenador, pon a punto tu ordenador ¡Y que comience la captu
             <title>🎉 Fiesta de Inicio de Curso PyLadies 2019-2020 🎉</title>
             <link rel="alternate" href="/2019/09/29/fiesta-inicio-curso/" type="text/html" />
             <id>/2019/09/29/fiesta-inicio-curso/</id>
-            <updated>2019-09-29T12:06:00Z</updated>
+            <updated>2019-09-29T12:44:00Z</updated>
 
             <summary type="html">¡¡¡Atención, PyLadies, arrancamos los motores!!! 📢</summary>
             <content type="html">&lt;p&gt;¡¡¡Atención, PyLadies, arrancamos los motores!!! 📢&lt;/p&gt;
