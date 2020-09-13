@@ -5,7 +5,7 @@
     <link rel="alternate" href="/" />
     <link rel="self" href="/feed.xml" type="application/atom+xml" />
     <id>/</id>
-    <updated>2020-09-13T11:13:35Z</updated>
+    <updated>2020-09-13T11:14:10Z</updated>
 
     <author>
         <name>PyLadies Madrid</name>
@@ -18,7 +18,7 @@
             <title>Code of Conduct</title>
             <link rel="alternate" href="/2020/09/13/code-of-conduct/" type="text/html" />
             <id>/2020/09/13/code-of-conduct/</id>
-            <updated>2020-09-13T11:13:22Z</updated>
+            <updated>2020-09-13T11:13:56Z</updated>
 
             <summary type="html">Pyladies is dedicated to providing a respectful, harassment-free community for everyone. We do not tolerate harassment or bullying of any community member in any form. This does not only extend to members to local PyLadies communities, but to anyone who chooses to become involved in the larger PyLadies community of users, developers and integrators through events or interactions.</summary>
             <content type="html">&lt;p&gt;Pyladies is dedicated to providing a respectful, harassment-free community for everyone. We do not tolerate harassment or bullying of any community member in any form. This does not only extend to members to local PyLadies communities, but to anyone who chooses to become involved in the larger PyLadies community of users, developers and integrators through events or interactions.&lt;/p&gt;
@@ -37,7 +37,7 @@
             <title>¡Bienvenida!</title>
             <link rel="alternate" href="/2020/09/13/presentacion-portada/" type="text/html" />
             <id>/2020/09/13/presentacion-portada/</id>
-            <updated>2020-09-13T11:13:22Z</updated>
+            <updated>2020-09-13T11:13:56Z</updated>
 
             <summary type="html">Somos una agrupación local de la organización internacional PyLadies, 
 cuyo objetivo es ayudar y motivar a más mujeres para que sean participantes 
@@ -64,7 +64,7 @@ está invitada a participar.&lt;/p&gt;
             <title>Cómo publicar ofertas de empleo</title>
             <link rel="alternate" href="/2020/09/13/instrucciones-publicar-oferta-empleo-lista-correo/" type="text/html" />
             <id>/2020/09/13/instrucciones-publicar-oferta-empleo-lista-correo/</id>
-            <updated>2020-09-13T11:13:22Z</updated>
+            <updated>2020-09-13T11:13:56Z</updated>
 
             <summary type="html">Si quieres enviar una oferta de trabajo a la lista de distribucción de correo 
 electrónico de PyLadies Madrid, échale un ojo a las normas de publicación</summary>
@@ -99,7 +99,7 @@ electrónico de PyLadies Madrid, échale un ojo a las normas de publicación&lt;
             <title>Acerca de PyLadies Madrid</title>
             <link rel="alternate" href="/2020/09/13/about-pyladies-madrid/" type="text/html" />
             <id>/2020/09/13/about-pyladies-madrid/</id>
-            <updated>2020-09-13T11:13:22Z</updated>
+            <updated>2020-09-13T11:13:56Z</updated>
 
             <summary type="html">[En construcción]</summary>
             <content type="html">&lt;p&gt;[En construcción]&lt;/p&gt;
@@ -113,7 +113,7 @@ nuestros valores y actividades a día de hoy&lt;/p&gt;
             <title>Instalación de Python para los talleres</title>
             <link rel="alternate" href="/2020/09/13/instalacion-python/" type="text/html" />
             <id>/2020/09/13/instalacion-python/</id>
-            <updated>2020-09-13T11:13:22Z</updated>
+            <updated>2020-09-13T11:13:56Z</updated>
 
             <summary type="html">En la mayoría de talleres vamos a necesitar que traigas tu propio portátil y que tengas Python3 instalado. Para asegurarte de que tienes todo listo para el taller, te recomendamos seguir los siguientes pasos:</summary>
             <content type="html">&lt;p&gt;En la mayoría de talleres vamos a necesitar que traigas tu propio portátil y que tengas Python3 instalado. Para asegurarte de que tienes todo listo para el taller, te recomendamos seguir los siguientes pasos:&lt;/p&gt;
@@ -137,7 +137,7 @@ Tienes información de algunos editores para Python en el Tutorial de DjangoGirl
             <title>Acerca de Python España</title>
             <link rel="alternate" href="/2020/09/13/about-python-espana/" type="text/html" />
             <id>/2020/09/13/about-python-espana/</id>
-            <updated>2020-09-13T11:13:22Z</updated>
+            <updated>2020-09-13T11:13:56Z</updated>
 
             <summary type="html">[En construcción]</summary>
             <content type="html">&lt;p&gt;[En construcción]&lt;/p&gt;
@@ -152,7 +152,7 @@ sobre la PyConEs.&lt;/p&gt;
             <title>Acerca de PyLadies Global</title>
             <link rel="alternate" href="/2020/09/13/about-pyladies/" type="text/html" />
             <id>/2020/09/13/about-pyladies/</id>
-            <updated>2020-09-13T11:13:22Z</updated>
+            <updated>2020-09-13T11:13:56Z</updated>
 
             <summary type="html">[En construcción]</summary>
             <content type="html">&lt;p&gt;[En construcción]&lt;/p&gt;
