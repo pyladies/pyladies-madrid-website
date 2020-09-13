@@ -1,0 +1,32 @@
+{% extends 'layout.html' %}
+
+{% block title %} Recursos {% endblock %}
+
+{% block content %}
+<div id="fh5co-main">
+    <div class="fh5co-narrow-content">
+        <h1 class="fh5co-heading-colored">Preguntas frecuentes</h1>
+        <div class="animate-box" data-animate-effect="fadeInLeft">
+            {% for article in containers.faqs %}
+                <div class="col-md-3 col-sm-6 col-padding animate-box" data-animate-effect="fadeInLeft">
+                    <div class="blog-entry">
+                        {% if article.image is defined %}
+                            <a href="{{ get_url(article.url) }}" class="blog-img"><img src="{{ article.image }}" class="img-responsive" alt="{{ article.title }}"></a>
+                        {% else %}
+                            <a href="{{ get_url(article.url) }}" class="blog-img"><img src="{{ get_asset('images/img-1.jpg') }}" class="img-responsive" alt="{{ article.title }}"></a>
+                        {% endif %}
+                        <div class="desc">
+                            <h3><a href="{{ get_url(article.url) }}">{{ article.title }}</a></h3>
+                            <span><small>{{ article.locale_date }}</small></span>
+                            <span><small>Por {{ article.author }}</small></small></span>
+                            <p>{{ article.summary }}</p>
+                            <a href="{{ get_url(article.url) }}" class="lead">Leer más <i class="icon-arrow-right3"></i></a>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+{% endblock %}
+

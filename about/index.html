@@ -1,0 +1,23 @@
+{% extends "layout.html" %}
+
+{% block meta %}
+    <meta name="description" content="{{ site.title }} - Sobre nosotras" />
+{% endblock %}
+
+{% block content %}
+
+<div id="fh5co-main">
+      
+{% for post in containers.about|sort(attribute='url') %}
+    <div class="fh5co-narrow-content article-content">
+        <h1 class="fh5co-heading-colored">{{ post.title }}</h1>
+        <article>
+            <p>{{ post.content }}</p>
+        </article>
+    </div>
+{% endfor %}
+
+
+</div>
+
+{% endblock %}

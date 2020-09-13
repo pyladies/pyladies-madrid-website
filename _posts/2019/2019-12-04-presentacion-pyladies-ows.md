@@ -1,8 +1,9 @@
 ---
 layout: post.html
 title: "PyLadies & Open Source Weekends"
-tags: [colaboraciones, opensourceweekends, ows, intro, pyladies]
-category: [colaborations, pyladies]
+author: Alicia Pérez, Irene Pérez
+tags: [colaboraciones, opensourceweekends]
+image: images/pyladies_photo/colab-osw.jpeg
 ---
 
 El pasado sábado 14 de diciembre nuestros amigos de Open Source Weekends nos 

@@ -21,15 +21,27 @@ domain:
 #
 
 # Used in header meta tags and the site feed. (required to generate a valid feed)
-author: PyLadies Madrid
+author: author
 # A description of your site to be used in header meta tags.
 description:
 # Used in the site feed.
-email: madrid@pyladies.com
+email: madrid.pyladies.com
 # Your site's subtitle.
-subtitle: Capitulo de PyLadies Global
+subtitle: Bienvenida
 # Your site's title. (required to generate a valid feed)
 title: PyLadies Madrid
+logo: images/pyladies_identity/pyladiesmadrid_square-red.png
+favicon: images/favicon.ico
+
+social:
+  github: pyladiesmadrid
+  meetup: pyladiesmadrid
+  twitter: pyladiesmadrid
+
+about:
+  email: madrid@pyladies.com
+  image: images/pyladies_identity/pyladiesmadrid_geek_transp.png
+  address: Madrid - España
 
 
 #
@@ -40,10 +52,20 @@ archives_url: /archives/
 tag_layout: tag.html
 tags_url: /archives/
 
-
-social:
-  github: 'pyladiesmadrid'
-  meetup: 'pyladiesmadrid'
-  twitter: 'pyladiesmadrid'
-
-
+containers:
+    resources:
+        url: /resources/<slug>/
+        tag_layout: tag.html
+        tags_url: /resources/tag/
+    faqs:
+        url: /faqs/<slug>/
+        archive_layout: faq.html
+        archives_url: /faqs/
+    coc:
+        url: /coc/<slug>/
+        archive_layout: faq.html
+        archives_url: /coc/
+    about:
+        url: /about/<slug>/
+        archive_layout: faq.html
+        archives_url: /about/
