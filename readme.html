@@ -102,7 +102,7 @@
         <article>
             <h2></h2>
             
-            <h3>Thursday, September 10, 2020</h3>
+            <h3>Sunday, September 13, 2020</h3>
 
             <div>
                 <a href="https://twitter.com/share" class="twitter-share-button" data-hashtags="pyladies">Tweet</a>
@@ -110,13 +110,11 @@
             </div>
 
             <h1>PyLadies Madrid</h1>
-<p>Este sitio web está gestionado por la organizadoras de PyLadies Madrid. </p>
-
-<p>Este repo está abierto a pull requests de cualquier miembro de la comunidad.</p>
+<p>Este sitio web está gestionado por la organizadoras de PyLadies Madrid y está abierto a pull requests de cualquier miembro de la comunidad.</p>
 <h2>Resumen</h2>
-<p>Este es el código de la web <a href="https://pyladiesmadrid.netlify.app/">https://pyladiesmadrid.netlify.app/</a>. En ella hemos 
+<p>Este es el código de la web <a href="https://madrid.pyladies.com">https://madrid.pyladies.com</a>. En ella hemos 
 utilizado <code>mynt</code> para la generación del sitio estático, y está basado en 
-🐍 Python 3.6 🐍!</p>
+🐍 Python 3.8 🐍!</p>
 <h3>Organización del contenido del repo</h3>
 <p>En este apartado se ofrece una vista general de la organización de los ficheros 
 de este repositorio.</p>
@@ -127,33 +125,22 @@ explica en su documentación <a href="https://mynt.uhnomoli.com/docs/quickstart/
 <p>Además, el fichero <code>requirements.txt</code> contiene las dependencias del proyecto, y
 los ficheros <code>runtime.txt</code> y <code>netlify.toml</code> sirven para facilitar la configuración
 de su despliegue en <a href="https://www.netlify.com/">netlify</a></p>
-<h3>Configurando el entorno de desarrollo</h3><h4>Configuración de Python y de la carpeta del proyecto</h4>
+<h3>Configurando el entorno de desarrollo</h3><h4>Configuración de Python</h4>
 <p><strong>Linux, macOS</strong></p>
 
 <ol>
-<li><p>Comprueba que Python 3.6 está instalado introduciendo <code>python --version</code> en una terminal. 
+<li><p>Comprueba que Python 3.8 está instalado introduciendo <code>python3.8 --version</code> en una terminal. 
 Si no lo está, puedes descargarlo en la web <a href="https://www.python.org/downloads/release/python-3610/">https://python.org</a>:
 <code>bash
-$ python --version
-Python 3.7.7
+$ python3.8 --version
+Python 3.8.5
 </code></p></li>
 <li><p>(Opcional) Puedes comprobar la ruta donde está instalado Python usando <code>which python</code>:
 <code>bash
-$ which python
-/usr/local/bin/python
+$ which python3.8
+/usr/bin/python3.8
 </code>
 Si te aparece un directorio distinto no te preocupes, puede ser normal.</p></li>
-<li><p>Crea una carpeta para el proyecto usando <code>mkdir pyladiesmadrid</code>:
-<code>bash
-$ mkdir pyladiesmadrid
-</code></p></li>
-<li><p>Posiciónate en ese directorio con <code>cd pyladiesmadrid</code>:
-&ldquo;`bash
-$ cd pyladiesmadrid</p>
-<h1>Comprueba en qué directorio estás (<code>&lt;YOUR_PATH&gt;</code> puede ser distinto en</h1><h1>cada sistema.)</h1>
-<p>$ pwd
-YOUR_PATH/pyladiesmadrid
-&rdquo;`</p></li>
 </ol>
 
 <p>¡Estupendo, ya lo tienes!</p>
@@ -162,9 +149,34 @@ YOUR_PATH/pyladiesmadrid
 
 <p>El proceso es similar al de Linux/mac-OS, pero con algunos comandos distintos.
 Es útil tener como referencia la <a href="https://devblogs.microsoft.com/scripting/table-of-basic-powershell-commands/">Tabla de comandos básicos de Powershell</a>.</p>
-<h3>Create and activate a virtual environment</h3>
+<h3>Bifurca (fork) y clona (clone) el repositorio de PyLadies Madrid</h3>
 <ol>
-<li><p>En el directorio <code>pyladiesmadrid</code>, instala el paquete <code>virtualenv</code> usando <code>pip</code>:</p>
+<li><p>En GitHub, haz <code>fork</code> de <a href="https://github.com/pyladies/pyladies-madrid-website.git">https://github.com/pyladies/pyladies-madrid-website.git</a> en tu cuenta de Github 
+<code>&lt;YOUR_GITHUB_USER_NAME&gt;</code> pressionando el botón de Fork en la esquina superior derecha de la pantalla.</p></li>
+<li><p>En un directorio local (por ejemplo, uno llamado <code>pyladiesmadrid</code>), clona el repositorio del que acabas de hacer el fork usando
+<code>git clone</code>:</p>
+<div class="code"><div><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre>1
+2
+3
+4
+5
+6
+7
+8</pre></div></td><td class="code"><div class="highlight"><pre><span></span><span class="o">(</span>venv<span class="o">)</span> $ git clone https://github.com/&lt;YOUR_GITHUB_USER_NAME&gt;/pyladies-madrid-website.git
+Cloning into <span class="s1">&#39;pyladies-madrid-website&#39;</span>...
+remote: Enumerating objects: <span class="m">47</span>, <span class="k">done</span>.
+remote: Counting objects: <span class="m">100</span>% <span class="o">(</span><span class="m">47</span>/47<span class="o">)</span>, <span class="k">done</span>.
+remote: Compressing objects: <span class="m">100</span>% <span class="o">(</span><span class="m">29</span>/29<span class="o">)</span>, <span class="k">done</span>.
+remote: Total <span class="m">5877</span> <span class="o">(</span>delta <span class="m">22</span><span class="o">)</span>, reused <span class="m">38</span> <span class="o">(</span>delta <span class="m">16</span><span class="o">)</span>, pack-reused <span class="m">5830</span>
+Receiving objects: <span class="m">100</span>% <span class="o">(</span><span class="m">5877</span>/5877<span class="o">)</span>, <span class="m">39</span>.73 MiB <span class="p">|</span> <span class="m">3</span>.62 MiB/s, <span class="k">done</span>.
+Resolving deltas: <span class="m">100</span>% <span class="o">(</span><span class="m">2922</span>/2922<span class="o">)</span>, <span class="k">done</span>.
+</pre></div>
+</td></tr></table></div></div>
+<p>Has clonado con éxito el repo de pyladies-madrid-website. :smile:</p></li>
+</ol>
+<h3>Crea y activa el entorno virtual</h3>
+<ol>
+<li><p>En el directorio <code>pyladies-madrid-website</code>, instala el paquete <code>virtualenv</code> usando <code>pip</code>:</p>
 <div class="code"><div><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre>1</pre></div></td><td class="code"><div class="highlight"><pre><span></span>$ pip install virtualenv
 </pre></div>
 </td></tr></table></div></div></li>
@@ -186,32 +198,7 @@ Es útil tener como referencia la <a href="https://devblogs.microsoft.com/script
 <p><strong>Nota de error (<code>AttributeError: &#39;module&#39; object has no attribute &#39;X509_up_ref&#39;</code>):</strong> El error proviene de PyOpenSSL. 
 Puede deberse a que tu versión de OpenSSL es demasiado antigua o demasiado nueva. Prueba aumentando o disminuyendo 
 la versión de OpenSSL and PyOpenSSL instalada en tu entorno.</p>
-<h3>Bifurca (fork) y clona (clone) el repositorio de PyLadies Madrid</h3>
-<ol>
-<li>En GitHub, haz <code>fork</code> de <a href="http://github.com/pyladiesmadrid/pyladiesmadrid">http://github.com/pyladiesmadrid/pyladiesmadrid</a> en tu cuenta de Github 
-<code>&lt;YOUR_GITHUB_USER_NAME&gt;</code> pressionando el botón de Fork en la esquina superior derecha de la pantalla.</li>
-<li><p>En tu directorio local <code>pyladiesmadrid</code>, clona el repositorio del que acabas de hacer el fork usando
-<code>git clone</code>:</p>
-<div class="code"><div><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre>1
-2
-3
-4
-5
-6
-7
-8</pre></div></td><td class="code"><div class="highlight"><pre><span></span><span class="o">(</span>venv<span class="o">)</span> $ git clone https://github.com/&lt;YOUR_GITHUB_USER_NAME&gt;/pyladiesmadrid.git
-Cloning into <span class="s1">&#39;pyladiesmadrid&#39;</span>...
-remote: Enumerating objects: <span class="m">47</span>, <span class="k">done</span>.
-remote: Counting objects: <span class="m">100</span>% <span class="o">(</span><span class="m">47</span>/47<span class="o">)</span>, <span class="k">done</span>.
-remote: Compressing objects: <span class="m">100</span>% <span class="o">(</span><span class="m">29</span>/29<span class="o">)</span>, <span class="k">done</span>.
-remote: Total <span class="m">5877</span> <span class="o">(</span>delta <span class="m">22</span><span class="o">)</span>, reused <span class="m">38</span> <span class="o">(</span>delta <span class="m">16</span><span class="o">)</span>, pack-reused <span class="m">5830</span>
-Receiving objects: <span class="m">100</span>% <span class="o">(</span><span class="m">5877</span>/5877<span class="o">)</span>, <span class="m">39</span>.73 MiB <span class="p">|</span> <span class="m">3</span>.62 MiB/s, <span class="k">done</span>.
-Resolving deltas: <span class="m">100</span>% <span class="o">(</span><span class="m">2922</span>/2922<span class="o">)</span>, <span class="k">done</span>.
-</pre></div>
-</td></tr></table></div></div>
-<p>Has clonado con éxito el repo de pyladiesmadrid. :smile:</p></li>
-</ol>
-<h2>Ejecutando el site en tu entorno local</h2>
+<h2>Ejecuta el site en tu entorno local</h2>
 <p><strong>Nota de error</strong> en algunos sistemas operativos, asegúrate de tener las cabeceras para python y libevent
 instaladas (p.e., en Ubuntu, <strong>python-dev</strong> y <strong>libevent-dev</strong>). Los paquetes especificados en el fichero
 <code>requirements.txt</code> son necesarios para que la web se construya con éxito en mynt.</p>
@@ -220,7 +207,7 @@ instaladas (p.e., en Ubuntu, <strong>python-dev</strong> y <strong>libevent-dev<
 <li>Asegúrate de estar en el raíz del repo con el entorno virtual activado:
 <code>bash
 (venv) $ pwd
-YOUR_PATH/pyladiesmadrid
+YOUR_PATH/pyladies-madrid-website
 </code></li>
 <li><p>Instala las dependencias con <code>pip</code>:
 &ldquo;`bash
