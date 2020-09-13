@@ -3,13 +3,14 @@ layout: post.html
 ---
 # Web de PyLadies Madrid
 
-Este sitio web está gestionado por la organizadoras de PyLadies Madrid y está abierto a pull requests de cualquier miembro de la comunidad.
+Este sitio web está gestionado por la organizadoras de PyLadies Madrid y está 
+abierto a pull requests de cualquier miembro de la comunidad.
 
 ## Resumen
 
 Este es el código de la web https://madrid.pyladies.com. En ella hemos 
 utilizado `mynt` para la generación del sitio estático, y está basado en 
-🐍 Python 3.8 🐍!
+🐍 Python 3.7 🐍!
 
 ### Organización del contenido del repo
 
@@ -30,17 +31,17 @@ de su despliegue en [netlify](https://www.netlify.com/)
 
 **Linux, macOS**
 
-1. Comprueba que Python 3.8 está instalado introduciendo `python3.8 --version` en una terminal. 
-   Si no lo está, puedes descargarlo en la web [https://python.org](https://www.python.org/downloads/release/python-3610/):
+1. Comprueba que Python 3.7 está instalado introduciendo `python3.7 --version` en una terminal. 
+   Si no lo está, puedes descargarlo en la web [https://python.org](https://www.python.org/downloads/release/python-379/):
    ```bash
-   $ python3.8 --version
-   Python 3.8.5
+   $ python3.7 --version
+   Python 3.7.5
    ```
 
 2. (Opcional) Puedes comprobar la ruta donde está instalado Python usando `which python`:
    ```bash
-   $ which python3.8
-   /usr/bin/python3.8
+   $ which python3.7
+   /usr/bin/python3.7
    ```
    Si te aparece un directorio distinto no te preocupes, puede ser normal.
 
@@ -77,10 +78,10 @@ Es útil tener como referencia la [Tabla de comandos básicos de Powershell](htt
 1. En el directorio `pyladies-madrid-website`, ejecuta el siguiente comando para crear un virtualenv llamado `venv`:
 
    ```bash
-   $ python3.8 -m venv venv
+   $ python3.7 -m venv venv
    ```
 
-2 Activa el entorno virtual:
+2. Activa el entorno virtual:
 
    ```bash
    $ source venv/bin/activate
