@@ -1,17 +1,3 @@
-#
-# BASE CONFIGURATION
-#
-
-# `base_url` should only be changed if your site isn't hosted at the root of a domain.
-# `domain` is used to generate absolute URLs. (required to generate a valid feed)
-#
-#   Example:
-#       https://my-site.com/
-#           base_url: /
-#           domain: https://my-site.com
-#       http://my-site.com/my-blog/
-#           base_url: /my-blog/
-#           domain: http://my-site.com
 base_url: /
 domain:
 
@@ -21,11 +7,11 @@ domain:
 #
 
 # Used in header meta tags and the site feed. (required to generate a valid feed)
-author: author
+author: PyLadies Madrid
 # A description of your site to be used in header meta tags.
-description:
+description: Bienvenida a la web del PyLadies Madrid
 # Used in the site feed.
-email: madrid.pyladies.com
+email: madrid@pyladies.com
 # Your site's subtitle.
 subtitle: Bienvenida
 # Your site's title. (required to generate a valid feed)
