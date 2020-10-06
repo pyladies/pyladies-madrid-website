@@ -12,15 +12,29 @@
 
           <h1 class="fh5co-heading-colored">Hacktoberfest 2020</h1>
 
-          <p>Muy pronto pondremos por aquí los proyectos y dinámicas que organizaremos
-            para el hacktoberfest de este año</p>
+          <p>
+            Estos son los proyectos que proponemos para el hacktoberfest de este año.
+            Trabajaremos en grupo entre las PyLadies que se apunten a cada uno y nos organizaremos a través de Discord.
+            Cada proyecto tiene una o varias mentoras que harán de apoyo y guía. 
+            Si quieres participar en uno, escribe en el canal de Discord correspondiente. 
+            Si aún no tienes acceso a Discord, <a href="/contact">escríbenos un mail</a>.
+          </p>
 
-          <p>Mientras, puedes ir echando un ojo a la 
+          <p>Además, puedes echar un ojo a la 
             <a href="https://hacktoberfest.digitalocean.com/">web oficial</a> del evento o 
            a la web del evento organizado por <a href="https://hacktoberfest.es.python.org/">Python España</a> </p>
 
+        </div>
 
-          </div>
+    {% for project in containers.hacktoberfest|sort(attribute='url') %}
+        <div class="fh5co-narrow-content article-content">
+            <h2>Proyecto: {{ project.title }}</h2>
+            <article>
+                <p>{{ project.content }}</p>
+            </article>
+        </div>
+    {% endfor %}
+
 </div>
 
 {% endblock %}
