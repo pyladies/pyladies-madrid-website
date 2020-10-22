@@ -1,37 +1,43 @@
-{% extends 'layout.html' %}
-
-{% block title %}{{ item.title }}{% endblock %}
-{% block meta %}
-    <meta name="author" content="{{ item.author.name }}" />
-    <meta name="description" content="{{ item.summary|striptags }}" />
-    <meta name="keywords" content="{{ item.tags|join(', ') }}">
-{% endblock %}
-
-{% block content %}
+{% extends 'layout.html' %} {% block title %}{{ item.title }}{% endblock %} {%
+block meta %}
+<meta name="author" content="{{ item.author.name }}" />
+<meta name="description" content="{{ item.summary|striptags }}" />
+<meta name="keywords" content="{{ item.tags|join(', ') }}" />
+{% endblock %} {% block content %}
 
 <div id="fh5co-main">
-    <div class="fh5co-narrow-content item-content">
-        <h1 class="fh5co-heading-colored">{{ item.title }}</h1>
+	<div class="fh5co-narrow-content item-content">
+		<h1 class="fh5co-heading-colored">{{ item.title }}</h1>
 
-        <div>
-            {% for author in item.authors %}
-                <a href="{{ author.url }}">{{ author }}</a>{% if not loop.last %}, {% endif %}
-            {% endfor %} - {{ item.locale_date }}
-        </div>
+		<div>
+			{% for author in item.authors %}
+			<a href="{{ author.url }}">{{ author }}</a>{% if not loop.last %}, {%
+			endif %} {% endfor %} - {{ item.locale_date }}
+		</div>
+		<div>
+			<a
+				href="https://twitter.com/intent/tweet?url={{ item.title }} http://madrid.pyladies.com{{ item.url }}"
+				target="_blank"
+				class="btn-primary btn-xs"
+				><i class="icon-twitter2"> </i><span>Compartir en Twitter</span></a
+			>
+		</div>
 
-        {% if item.tags %}
-            <div><span>Tags: </span>
-                {% for tag in item.tags %}
-                    <span><a href="{{ SITEURL }}/{{ tag.url }}">#{{ tag }}</a> </span>
-                {% endfor %}
-            </div>
-        {% endif %}
+		{% if item.tags %}
+		<div>
+			<span>Tags: </span>
+			{% for tag in item.tags %}
+			<span><a href="{{ SITEURL }}/{{ tag.url }}">#{{ tag }}</a> </span>
+			{% endfor %}
+		</div>
+		{% endif %}
 
-        <div class="animate-box" data-animate-effect="fadeInLeft">
-            <p class="animate-box" data-animate-effect="fadeInLeft">{{ item.content }}</p>
-        </div>
-    </div>
+		<div class="animate-box" data-animate-effect="fadeInLeft">
+			<p class="animate-box" data-animate-effect="fadeInLeft">
+				{{ item.content }}
+			</p>
+		</div>
+	</div>
 </div>
-
 
 {% endblock %}
