@@ -16,11 +16,16 @@ block meta %}
 		</div>
 		<div>
 			<a
-				href="https://twitter.com/intent/tweet?url={{ item.title }} http://madrid.pyladies.com{{ item.url }}"
+				href="https://twitter.com/intent/tweet?url=http://madrid.pyladies.com{{ item.url }}"
 				target="_blank"
-				class="btn-primary btn-xs"
-				><i class="icon-twitter2"> </i><span>Compartir en Twitter</span></a
+				class="twitter-share-button"
+				>Tweet</a
 			>
+			<script
+				async
+				src="https://platform.twitter.com/widgets.js"
+				charset="utf-8"
+			></script>
 		</div>
 
 		{% if item.tags %}
