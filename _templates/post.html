@@ -15,17 +15,30 @@ block meta %}
 			endif %} {% endfor %} - {{ item.locale_date }}
 		</div>
 		<div>
-			<a
-				href="https://twitter.com/intent/tweet?url=http://madrid.pyladies.com{{ item.url }}"
-				target="_blank"
-				class="twitter-share-button"
-				>Tweet</a
-			>
-			<script
-				async
-				src="https://platform.twitter.com/widgets.js"
-				charset="utf-8"
-			></script>
+			<span>
+				<a
+					href="https://twitter.com/intent/tweet?url=http://madrid.pyladies.com{{ item.url }}"
+					target="_blank"
+					class="twitter-share-button"
+				></a>
+				<script
+					async
+					src="https://platform.twitter.com/widgets.js"
+					charset="utf-8"
+				></script>
+			</span>
+			<span style="position: relative; bottom: 7px">
+				<script
+					src="https://platform.linkedin.com/in.js"
+					type="text/javascript"
+				>
+					lang: en_US
+				</script>
+				<script
+					type="IN/Share"
+					data-url="http://madrid.pyladies.com{{ item.url }}"
+				></script>
+			</span>
 		</div>
 
 		{% if item.tags %}
