@@ -59,3 +59,7 @@ containers:
         url: /hacktoberfest/<slug>/
         archive_layout: faq.html
         archives_url: /hacktoberfest/
+    talks:
+        url: /talks/<slug>/
+        archive_layout: faq.html
+        archives_url: /talks/
