@@ -55,3 +55,7 @@ containers:
         url: /about/<slug>/
         archive_layout: faq.html
         archives_url: /about/
+    hacktoberfest:
+        url: /hacktoberfest/<slug>/
+        archive_layout: faq.html
+        archives_url: /hacktoberfest/
