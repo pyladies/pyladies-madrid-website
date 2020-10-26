@@ -6,7 +6,7 @@ tags: [acercade, pythonespana]
 category: [aboutpythonespana]
 ---
 
-La asociación Python España es una asociación sin ánimo de lucro cuyo propósito es promover el uso del lenguaje de programación Python en España, servir como punto de encuentro a aquellos interesados en su uso y darles soporte en la medida de sus posibilidades.
+La asociación Python España es una asociación sin ánimo de lucro cuyo propósito es promover el uso del lenguaje de programación Python en España, servir como punto de encuentro a aquellas personas interesadas en su uso y dar soporte en la medida de sus posibilidades.
 
 La asociación fue creada en 2013 y desde entonces ha prestado apoyo contable y organizativo a la PyConES, la conferencia nacional sobre el lenguaje Python, y ayuda financiera a las comunidades locales.
 
