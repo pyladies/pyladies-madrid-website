@@ -1,7 +1,8 @@
 ---
 layout: post.html
 title: "Taller de comunicación: pasos para ser una ponente de 10"
-author: Alicia Pérez, Irene Pérez
+author: María Gil, Laura Morillo
+date: 2017-06-08
 tags: [talleres, charlas]
 ---
 

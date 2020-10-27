@@ -1,7 +1,8 @@
 ---
 layout: post.html
 title: "Primera Reunión"
-author: Alicia Pérez, Irene Pérez
+author: Cristina Aranda, Yamila Moreno
+date: 2017-05-17
 tags: [charlas]
 ---
 

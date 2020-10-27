@@ -2,6 +2,7 @@
 layout: post.html
 title: "¿Por qué Python mola tanto?"
 author: Alicia Pérez, Irene Pérez
+date: 2017-10-19
 tags: [talleres, charlas]
 ---
 

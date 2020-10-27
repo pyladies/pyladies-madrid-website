@@ -1,7 +1,8 @@
 ---
 layout: post.html
 title: "Música y Orquestadores con Python"
-author: Alicia Pérez, Irene Pérez
+author: Yamila Moreno, Bea Hernández
+date: 2017-12-04
 tags: [charlas]
 ---
 

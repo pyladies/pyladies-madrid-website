@@ -1,7 +1,7 @@
 ---
 layout: post.html
 title: "Pubquiz navideño R-Ladies + PyLadies + OSWeekends + HaskellMAD"
-author: Alicia Pérez, Irene Pérez
+date: 2017-12-05
 tags: [colaboraciones, opensourceweekends, rladies, haskellmad]
 ---
 
