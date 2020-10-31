@@ -7,7 +7,7 @@ authors:
     - name: Beatriz Gómez
       url: https://twitter.com/G_Beaa
 image: images/talks/2019/2019-03-14-bad-guys-ai.jpg
-video: www.youtube.com/embed/d-8DdW7MTxQ
+video: https://www.youtube.com/embed/d-8DdW7MTxQ
 date: 14/03/2019
 tags: [datascience, machinelearning]
 ---
