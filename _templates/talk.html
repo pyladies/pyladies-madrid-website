@@ -1,0 +1,51 @@
+{% extends 'layout.html' %} {% block title %}{{ item.title }}{% endblock %} {%
+block meta %}
+<meta name="author" content="{{ item.author.name }}" />
+<meta name="description" content="{{ item.summary|striptags }}" />
+<meta name="keywords" content="{{ item.tags|join(', ') }}" />
+{% endblock %} {% block content %}
+
+<div id="fh5co-main">
+	<div class="fh5co-narrow-content item-content">
+		<h1>{{ item.title }}</h1>
+
+		<h2>
+			{% for author in item.authors %}
+			<a href="{{ author.url }}" target="_blank">{{ author.name }}</a>{% if not loop.last %} + {% endif %} 
+			{% endfor %}
+		</h2>
+
+		{% if item.date %}
+		<div>
+			<span>Fecha: {{ item.date }}</span>
+		</div>
+		{% endif %}
+
+		{% if item.tags %}
+		<div>
+			<span>Tags: {% for tag in item.tags %}#{{ tag }} {% endfor %}</span>			
+		</div>
+		{% endif %}
+
+		<div class="animate-box" data-animate-effect="fadeInLeft">
+			<p class="animate-box" data-animate-effect="fadeInLeft">
+				
+				<!-- <h3>Vídeo</h3> -->
+
+				<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+					<iframe src="//{{item.video}}" 
+					        title={{item.title}}
+					        style="position: absolute; width: 80%; height: 80%;"
+					        allowfullscreen=""></iframe>
+				</div>
+				
+				<!-- <h3>Más información</h3> -->
+
+				{{ item.content }}
+
+			</p>
+		</div>
+	</div>
+</div>
+
+{% endblock %}
