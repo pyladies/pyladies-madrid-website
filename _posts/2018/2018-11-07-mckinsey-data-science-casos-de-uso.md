@@ -2,6 +2,8 @@
 layout: post.html
 title: "McKinsey & Data Science: Casos de uso"
 author: Marta Carmena, Mafalda Ruas Goncalves, Inés Garceau Aranda
+date: 2018-07-11
+tags: [charlas]
 ---
 
 # Agenda 
