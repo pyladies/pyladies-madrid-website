@@ -2,7 +2,7 @@
 layout: post.html
 title: "Fiesta de Fin de Curso PyLadies"
 author: Mariluz Cogosto, Jimena Martínez, Theba Gómez, Ana de Prado
-date:2018-06-16
+date: 2018-06-16
 tags: [fiesta, charlas]
 ---
 
