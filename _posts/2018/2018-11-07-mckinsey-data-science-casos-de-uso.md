@@ -2,6 +2,8 @@
 layout: post.html
 title: "McKinsey & Data Science: Casos de uso"
 author: Marta Carmena, Mafalda Ruas Goncalves, Inés Garceau Aranda
+---
+
 # Agenda 
 
 • Presentación del hub de Advanced Analytics de McKinsey y equipo presente en esta sesión.
