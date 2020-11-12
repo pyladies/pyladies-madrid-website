@@ -2,7 +2,6 @@
 layout: post.html
 title: "Música y Orquestadores con Python"
 author: Yamila Moreno, Bea Hernández
-date: 2017-12-04
 tags: [charlas]
 ---
 
