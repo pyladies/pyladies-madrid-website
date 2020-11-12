@@ -1,8 +1,9 @@
 ---
 layout: post.html
 title: "🎉 Fiesta de Inicio de Curso PyLadies 2019-2020 🎉"
-author: Alicia Pérez, María Medina, Vicky Cortés
-tags: [fiesta]
+author: Almudena Castro, Leticia Martín-Fuentes, Irene Pérez, Cecil Fernández, Rubén Mínguez, María José Mora
+date: 2019-09-29
+tags: [fiesta, talleres, charlas]
 image: images/pyladies_photo/pyladies_sept0142.png
 ---
 
@@ -32,21 +33,21 @@ Si finalmente no puedes asistir, por favor, es muy importante que canceles tu en
 
 ## Charlas
 
-🔸 Almudena M. Castro (@puratura), diseñadora de UX/UI por el día y divulgadora científica por las noches, nos abrirá los ojos es su charla para no dejarnos engañas por las mala gráficas.
+🔸 **[Almudena M. Castro](https://twitter.com/puratura)**, diseñadora de UX/UI por el día y divulgadora científica por las noches, nos abrirá los ojos es su charla para no dejarnos engañas por las mala gráficas.
 
-🔸 Leticia Martín-Fuertes (@nimbusaeta), lingüista computacional y organizadora de RLadies Madrid y Lingwars, hará que nos adentremos en el Procesamiento del Lenguaje Natural de la mano de la librería NLTK.
+🔸 **[Leticia Martín-Fuertes](https://twitter.com/nimbusaeta)**, lingüista computacional y organizadora de RLadies Madrid y Lingwars, hará que nos adentremos en el Procesamiento del Lenguaje Natural de la mano de la librería NLTK.
 
-🔸 Irene Pérez Encinar (@irenuchi), ingeniera de Telecomunicaciones apasionada de programar y abanderada del software libre, estará con nosotras hablando sobre todo lo que las katas (pequeños retos de programación) le han enseñado de Python.
+🔸 **[Irene Pérez Encinar](https://twitter.com/irenuchi)**, ingeniera de Telecomunicaciones apasionada de programar y abanderada del software libre, estará con nosotras hablando sobre todo lo que las katas (pequeños retos de programación) le han enseñado de Python.
 
-🔸 Cecil Fernández Briche (@Cecil_gabaxi), data scientist y enamorada de las comunidades tech, vendrá a hablarnos de un proyecto de Machine Learning sobre un recomendador de productos basado en patrones de compra en supermercados y tendencias de consumo.
+🔸 **[Cecil Fernández Briche](https://twitter.com/Cecil_gabaxi)**, data scientist y enamorada de las comunidades tech, vendrá a hablarnos de un proyecto de Machine Learning sobre un recomendador de productos basado en patrones de compra en supermercados y tendencias de consumo.
 
-🔸 Rubén Mínguez Pérez, viene desde Newtral para contarnos cómo es el día a día en una redacción trabajando con tecnología en tiempos de elecciones. Todo en su charla 'Verificando a los políticos con Python: cómo es trabajar en Newtral'.
+🔸 **Rubén Mínguez Pérez**, viene desde Newtral para contarnos cómo es el día a día en una redacción trabajando con tecnología en tiempos de elecciones. Todo en su charla 'Verificando a los políticos con Python: cómo es trabajar en Newtral'.
 
-🔸 María José Mora Naranjo (@mjomora), DevOps Functional Analyst en Avature, nos explicará cómo implementan Continuous Delivery y Continuous Deployment en su empresa.
+🔸 **[María José Mora Naranjo](https://twitter.com/mjomora)**, DevOps Functional Analyst en Avature, nos explicará cómo implementan Continuous Delivery y Continuous Deployment en su empresa.
 
 ## Taller
 
-🔸 Irene M. Morgado (@IrnMM), socióloga especializada en comunicación y psicología social, nos guiará en un taller en el que analizaremos cómo definir tu carrera profesional y ver cuáles son los puntos importantes a tener en cuenta cuando cambias de trabajo.
+🔸 **[Irene M. Morgado](https://twitter.com/irnmm)**, socióloga especializada en comunicación y psicología social, nos guiará en un taller en el que analizaremos cómo definir tu carrera profesional y ver cuáles son los puntos importantes a tener en cuenta cuando cambias de trabajo.
 
 ## Lightning talks
 

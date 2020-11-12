@@ -2,6 +2,7 @@
 layout: post.html
 title: "Katayuno para todos los niveles"
 author: Irene Pérez
+date: 2019-10-20
 tags: [talleres, katas]
 image: images/pyladies_photo/meetup-katayuno.jpeg
 ---

@@ -2,6 +2,7 @@
 layout: post.html
 title: "Scrapy, ¡hazte con todos (los datos)!"
 author: Irene Fernández
+date: 2019-11-16
 tags: [talleres, scrapy]
 image: images/pyladies_photo/meetup-scrapy.jpeg
 ---

@@ -2,6 +2,7 @@
 layout: post.html
 title: "PyLadies & Open Source Weekends"
 author: Alicia Pérez, Irene Pérez
+date: 2019-12-04
 tags: [colaboraciones, opensourceweekends]
 image: images/pyladies_photo/colab-osw.jpeg
 ---

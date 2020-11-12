@@ -1,7 +1,7 @@
 ---
 layout: post.html
 title: "Pubquiz navideño 2019 🍻🎄"
-author: Alicia Pérez, María Medina, Vicky Cortés
+date: 2019-12-04
 tags: [colaboraciones, rladies, wimlds, wosec, nodegirls]
 image: images/pyladies_photo/meetup-pubquiz.jpeg
 ---
@@ -18,15 +18,15 @@ Aquí abajo tenéis toda la información. ¡¡Os esperamos!!
 
 ## Comunidades participantes
 
-• R-Ladies (https://www.meetup.com/es-ES/rladies-madrid/ )
+• **R-Ladies** (https://www.meetup.com/es-ES/rladies-madrid/ )
 
-• PyLadies (https://www.meetup.com/es-ES/PyLadiesMadrid/ )
+• **PyLadies** (https://www.meetup.com/es-ES/PyLadiesMadrid/ )
 
-• WiMLDS (https://www.meetup.com/es-ES/Madrid-Women-in-Machine-Learning-and-Data-Science/)
+• **WiMLDS** (https://www.meetup.com/es-ES/Madrid-Women-in-Machine-Learning-and-Data-Science/)
 
-• WoSec (https://www.meetup.com/WoSEC-Madrid-Women-of-Security/)
+• **WoSec** (https://www.meetup.com/WoSEC-Madrid-Women-of-Security/)
 
-• NodeGirls (https://www.meetup.com/es-ES/Node-Girls-Madrid/)
+• **NodeGirls** (https://www.meetup.com/es-ES/Node-Girls-Madrid/)
 
 ## Equipos
 
