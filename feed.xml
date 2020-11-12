@@ -5,7 +5,7 @@
     <link rel="alternate" href="/" />
     <link rel="self" href="/feed.xml" type="application/atom+xml" />
     <id>/</id>
-    <updated>2020-10-24T17:55:54Z</updated>
+    <updated>2020-11-12T11:04:54Z</updated>
 
     <author>
         <name>PyLadies Madrid</name>
@@ -15,10 +15,104 @@
 
     
         <entry>
+            <title>Hacktoberfest 2020</title>
+            <link rel="alternate" href="/2020/10/01/hacktoberfest/" type="text/html" />
+            <id>/2020/10/01/hacktoberfest/</id>
+            <updated>2020-10-01T11:04:00Z</updated>
+
+            <summary type="html">Estos son los proyectos que proponemos para el hacktoberfest de este año.
+Trabajaremos en grupo entre las PyLadies que se apunten a cada uno y nos organizaremos a través de Discord.
+Cada proyecto tiene una o varias mentoras que harán de apoyo y guía. 
+Si quieres participar en uno, escribe en el canal de Discord correspondiente. 
+Si aún no tienes acceso a Discord, &lt;a href=&#34;/contact&#34;&gt;escríbenos un mail&lt;/a&gt;</summary>
+            <content type="html">&lt;p&gt;Estos son los proyectos que proponemos para el hacktoberfest de este año.
+Trabajaremos en grupo entre las PyLadies que se apunten a cada uno y nos organizaremos a través de Discord.
+Cada proyecto tiene una o varias mentoras que harán de apoyo y guía. 
+Si quieres participar en uno, escribe en el canal de Discord correspondiente. 
+Si aún no tienes acceso a Discord, &lt;a href=&#34;/contact&#34;&gt;escríbenos un mail&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Además, puedes echar un ojo a la &lt;a href=&#34;https://hacktoberfest.digitalocean.com/&#34;&gt;web oficial&lt;/a&gt; del evento o 
+a la web del evento organizado por &lt;a href=&#34;https://hacktoberfest.es.python.org/&#34;&gt;Python España&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Web PyLadies Madrid&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Repo&lt;/strong&gt;: &lt;a href=&#34;https://github.com/pyladies/pyladies-madrid-website&#34;&gt;https://github.com/pyladies/pyladies-madrid-website&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Guilds&lt;/strong&gt;: web, iniciación, devops&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Canal Discord&lt;/strong&gt;: #proyecto-web-pyladies&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mentoras&lt;/strong&gt;: Alicia, María, Vicky&lt;/p&gt;
+
+&lt;p&gt;Ya tenemos la estructura de la web, pero falta llenarla de contenido y detalles. 
+Hay muchas cosas en las que puedes contribuir:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;¿Sabes de desarrollo web y Python? Nos vendría bien ayuda para crear algunas páginas y secciones adicionales. Y también para terminar de documentar en el repo los pasos para modificar la web y añadir contenido.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;¿Sabes de front? Tenemos pendientes algunas tareas para terminar de ajustar la apariencia de la web.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;¿Sabes de DevOps? Hay un par de tareas de automatización de despliegues en las que podrías participar.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;¿Estás empezando? Si quieres practicar el manejo de git y github e ir aprendiendo cómo funciona la web, puedes ayudarnos a llenar de contenido la web: posts sobre eventos pasados, recursos, fotos… ¡para que se pueda ver todo lo que hacemos en comunidad!&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Puedes ver más información en el repositorio linkado. Si quieres participar escribe en el canal de Discord o contacta con las mentoras.&lt;/p&gt;
+&lt;h2&gt;Talleres Iniciación Python&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Repo&lt;/strong&gt;: &lt;a href=&#34;https://github.com/PyLadiesMadrid/taller-iniciacion-python&#34;&gt;https://github.com/PyLadiesMadrid/taller-iniciacion-python&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Guilds&lt;/strong&gt;: teach, iniciación&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Canal Discord&lt;/strong&gt;: #proyecto-talleres-iniciacion&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mentora&lt;/strong&gt;: Laetitia&lt;/p&gt;
+
+&lt;p&gt;En PyLadies Madrid hemos realizado multitud de talleres de iniciación a Python y tenemos en nuestro Github el material que usamos para ello, dividido en tres sesiones que impartíamos en persona. El material estaba pensado para ser práctico y explicado compartiendo pantalla y &amp;ldquo;sobre la marcha&amp;rdquo;, con una instructora principal y varias mentoras que iban ayudando a resolver dudas según hacía falta.&lt;/p&gt;
+
+&lt;p&gt;Ahora nos gustaría adaptar estos contenidos a un enfoque online y &amp;ldquo;autoexplicado&amp;rdquo;, pensado para que quien quiera pueda seguirlo por su cuenta, a su ritmo, y sea capaz de aprender las bases de Python partiendo de cero.&lt;/p&gt;
+
+&lt;p&gt;Puedes ver más información en el repositorio linkado. Si quieres participar escribe en el canal de Discord o contacta con la mentora.&lt;/p&gt;
+&lt;h2&gt;Soluciones para curso de Python orientado a datos&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Repo&lt;/strong&gt;: &lt;a href=&#34;https://github.com/koldLight/curso-python-analisis-datos&#34;&gt;https://github.com/koldLight/curso-python-analisis-datos&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Guilds&lt;/strong&gt;: data&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Canal Discord&lt;/strong&gt;: #proyecto-soluciones-data&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mentora&lt;/strong&gt;: Luz&lt;/p&gt;
+
+&lt;p&gt;La pylady Luz Frías creó en 2019 un curso que tiene como objetivo enseñar Python orientado al análisis de datos en aproximadamente 24 horas. Mucha gente lo usa para aprender python y escriben pidiendo los ejercicios resueltos.&lt;/p&gt;
+
+&lt;p&gt;Si estás iniciándote en el área de data puede que te resulte interesante contribuir a crear estas soluciones. Podéis organizaros en grupo y debatir sobre cómo lo habéis resuelto, si hay otra solución más simple&amp;hellip; y así encontrar la mejor solución entre todas.&lt;/p&gt;
+
+&lt;p&gt;Puedes ver más información en el repositorio linkado. Si quieres participar escribe en el canal de Discord o contacta con la mentora.&lt;/p&gt;
+&lt;h2&gt;Paquete Cartociudad&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Guilds&lt;/strong&gt;: data, web&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Canal Discord&lt;/strong&gt;: #proyecto-cartociudad&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mentora&lt;/strong&gt;: Luz&lt;/p&gt;
+
+&lt;p&gt;El IGN tiene un visor y API (REST y WPS) sobre la cartografía española, &lt;a href=&#34;https://www.cartociudad.es/portal/&#34;&gt;cartociudad&lt;/a&gt;. Lo más útil, los servicios de geocodificación directa e inversa (traducción de direcciones con su calle, número, ciudad&amp;hellip; a latitud / longitud y al revés). Normalmente la gente intenta utilizar las APIs de Google, pero tienen una franja gratis muy limitada, u otros servicios que también &amp;ldquo;te capan&amp;rdquo; con cierto uso. Cartociudad es gratuito y no limita el uso de su API.&lt;/p&gt;
+
+&lt;p&gt;Actualmente existe &lt;a href=&#34;https://www.cartociudad.es/portal/&#34;&gt;un paquete de R&lt;/a&gt; que actúa como interfaz con esta API y es usado en proyectos de Acciona, Banco de España, BBVA, ISCIII, &amp;hellip; Estaría chulo hacer el equivalente en Python y acabar publicándolo en PyPI (el repositorio de paquetes de Python).&lt;/p&gt;
+
+&lt;p&gt;Si quieres participar escribe en el canal de Discord o contacta con la mentora.&lt;/p&gt;
+&lt;h2&gt;Webs PyConES pasadas&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Guilds&lt;/strong&gt;: web&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Canal Discord&lt;/strong&gt;: #proyecto-webs-pycones&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mentora&lt;/strong&gt;: Yamila&lt;/p&gt;
+
+&lt;p&gt;La PyConES (conferencia de la comunidad Python en España) acaba de celebrar su octava edición, la PyConES 2020 Pandemic Edition. Cada edición contó con su página web propia en la que se mostraba toda la información, pero no todas ellas siguen activas.&lt;/p&gt;
+
+&lt;p&gt;Este proyecto consiste en recuperar las webs caídas de PyConES, pasarlas a formato estático y servirlas para el futuro en Github Pages. La tarea es &amp;ldquo;poco fancy&amp;rdquo; en tecnología, pero tiene scripting, trabajo con legacy, y un poco de arremangarse.&lt;/p&gt;
+
+&lt;p&gt;Si quieres participar escribe en el canal de Discord o contacta con la mentora.&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
             <title>Análisis de datos con Pandas</title>
             <link rel="alternate" href="/2020/02/16/taller-pandas/" type="text/html" />
             <id>/2020/02/16/taller-pandas/</id>
-            <updated>2020-02-16T17:55:00Z</updated>
+            <updated>2020-02-16T11:04:00Z</updated>
 
             <summary type="html">¡¡Hola, PyLadies!!</summary>
             <content type="html">&lt;p&gt;¡¡Hola, PyLadies!!&lt;/p&gt;
@@ -64,10 +158,31 @@ repos de github:
         </entry>
     
         <entry>
+            <title>PyLadies &amp; Open Source Weekends</title>
+            <link rel="alternate" href="/2019/12/04/presentacion-pyladies-ows/" type="text/html" />
+            <id>/2019/12/04/presentacion-pyladies-ows/</id>
+            <updated>2019-12-04T11:04:00Z</updated>
+
+            <summary type="html">El pasado sábado 14 de diciembre nuestros amigos de Open Source Weekends nos 
+invitaron al eventazo que celebran todos los meses en Google for Startups&amp;hellip;</summary>
+            <content type="html">&lt;p&gt;El pasado sábado 14 de diciembre nuestros amigos de Open Source Weekends nos 
+invitaron al eventazo que celebran todos los meses en Google for Startups&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;[PENDIENTE DE TERMINAR]&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1DooJ3bmb9U6-aHP-6IMDQ1tt4-E-sQvje8Y5c-B5AAs/edit?usp=sharing&#34;&gt;Aquí&lt;/a&gt; 
+tenéis las diapositivas que utilizamos en la presentación del inicio del evento.&lt;/p&gt;
+
+&lt;p&gt;Gracias a la organización por darnos la oportunidad de llegar a más gente y por
+lo bien que nos trataron durante el evento.&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
             <title>Pubquiz navideño 2019 🍻🎄</title>
             <link rel="alternate" href="/2019/12/04/pubquiz-navidenio/" type="text/html" />
             <id>/2019/12/04/pubquiz-navidenio/</id>
-            <updated>2019-12-04T17:55:00Z</updated>
+            <updated>2019-12-04T11:04:00Z</updated>
 
             <summary type="html">¡¡Hola de nuevo, PyLadies!!</summary>
             <content type="html">&lt;p&gt;¡¡Hola de nuevo, PyLadies!!&lt;/p&gt;
@@ -80,15 +195,15 @@ repos de github:
 
 &lt;p&gt;Aquí abajo tenéis toda la información. ¡¡Os esperamos!!&lt;/p&gt;
 &lt;h2&gt;Comunidades participantes&lt;/h2&gt;
-&lt;p&gt;• R-Ladies (&lt;a href=&#34;https://www.meetup.com/es-ES/rladies-madrid/&#34;&gt;https://www.meetup.com/es-ES/rladies-madrid/&lt;/a&gt; )&lt;/p&gt;
+&lt;p&gt;• &lt;strong&gt;R-Ladies&lt;/strong&gt; (&lt;a href=&#34;https://www.meetup.com/es-ES/rladies-madrid/&#34;&gt;https://www.meetup.com/es-ES/rladies-madrid/&lt;/a&gt; )&lt;/p&gt;
 
-&lt;p&gt;• PyLadies (&lt;a href=&#34;https://www.meetup.com/es-ES/PyLadiesMadrid/&#34;&gt;https://www.meetup.com/es-ES/PyLadiesMadrid/&lt;/a&gt; )&lt;/p&gt;
+&lt;p&gt;• &lt;strong&gt;PyLadies&lt;/strong&gt; (&lt;a href=&#34;https://www.meetup.com/es-ES/PyLadiesMadrid/&#34;&gt;https://www.meetup.com/es-ES/PyLadiesMadrid/&lt;/a&gt; )&lt;/p&gt;
 
-&lt;p&gt;• WiMLDS (&lt;a href=&#34;https://www.meetup.com/es-ES/Madrid-Women-in-Machine-Learning-and-Data-Science/&#34;&gt;https://www.meetup.com/es-ES/Madrid-Women-in-Machine-Learning-and-Data-Science/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;• &lt;strong&gt;WiMLDS&lt;/strong&gt; (&lt;a href=&#34;https://www.meetup.com/es-ES/Madrid-Women-in-Machine-Learning-and-Data-Science/&#34;&gt;https://www.meetup.com/es-ES/Madrid-Women-in-Machine-Learning-and-Data-Science/&lt;/a&gt;)&lt;/p&gt;
 
-&lt;p&gt;• WoSec (&lt;a href=&#34;https://www.meetup.com/WoSEC-Madrid-Women-of-Security/&#34;&gt;https://www.meetup.com/WoSEC-Madrid-Women-of-Security/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;• &lt;strong&gt;WoSec&lt;/strong&gt; (&lt;a href=&#34;https://www.meetup.com/WoSEC-Madrid-Women-of-Security/&#34;&gt;https://www.meetup.com/WoSEC-Madrid-Women-of-Security/&lt;/a&gt;)&lt;/p&gt;
 
-&lt;p&gt;• NodeGirls (&lt;a href=&#34;https://www.meetup.com/es-ES/Node-Girls-Madrid/&#34;&gt;https://www.meetup.com/es-ES/Node-Girls-Madrid/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;• &lt;strong&gt;NodeGirls&lt;/strong&gt; (&lt;a href=&#34;https://www.meetup.com/es-ES/Node-Girls-Madrid/&#34;&gt;https://www.meetup.com/es-ES/Node-Girls-Madrid/&lt;/a&gt;)&lt;/p&gt;
 &lt;h2&gt;Equipos&lt;/h2&gt;
 &lt;p&gt;Los equipos se formarán libremente, aunque nosotras estaremos por allí para intentar que tengan más o menos las mismas personas y estén equilibrados en cuestión de comunidades y tecnologías. Cada equipo tiene que tener un nombre, que eligen sus integrantes y lo ponen en su papel de respuestas.&lt;/p&gt;
 &lt;h2&gt;Preguntas y respuestas&lt;/h2&gt;
@@ -109,31 +224,10 @@ Como es natural, solo participarán aquellas personas que traigan un libro para 
         </entry>
     
         <entry>
-            <title>PyLadies &amp; Open Source Weekends</title>
-            <link rel="alternate" href="/2019/12/04/presentacion-pyladies-ows/" type="text/html" />
-            <id>/2019/12/04/presentacion-pyladies-ows/</id>
-            <updated>2019-12-04T17:55:00Z</updated>
-
-            <summary type="html">El pasado sábado 14 de diciembre nuestros amigos de Open Source Weekends nos 
-invitaron al eventazo que celebran todos los meses en Google for Startups&amp;hellip;</summary>
-            <content type="html">&lt;p&gt;El pasado sábado 14 de diciembre nuestros amigos de Open Source Weekends nos 
-invitaron al eventazo que celebran todos los meses en Google for Startups&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;[PENDIENTE DE TERMINAR]&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1DooJ3bmb9U6-aHP-6IMDQ1tt4-E-sQvje8Y5c-B5AAs/edit?usp=sharing&#34;&gt;Aquí&lt;/a&gt; 
-tenéis las diapositivas que utilizamos en la presentación del inicio del evento.&lt;/p&gt;
-
-&lt;p&gt;Gracias a la organización por darnos la oportunidad de llegar a más gente y por
-lo bien que nos trataron durante el evento.&lt;/p&gt;
-</content>
-        </entry>
-    
-        <entry>
             <title>Scrapy, ¡hazte con todos (los datos)!</title>
             <link rel="alternate" href="/2019/11/16/scrapy-hazte-con-todos-los-datos/" type="text/html" />
             <id>/2019/11/16/scrapy-hazte-con-todos-los-datos/</id>
-            <updated>2019-11-16T17:55:00Z</updated>
+            <updated>2019-11-16T11:04:00Z</updated>
 
             <summary type="html">¡¡Hola, PyLadies!!</summary>
             <content type="html">&lt;p&gt;¡¡Hola, PyLadies!!&lt;/p&gt;
@@ -178,7 +272,7 @@ Así que ya sabes entrenador, pon a punto tu ordenador ¡Y que comience la captu
             <title>Katayuno para todos los niveles</title>
             <link rel="alternate" href="/2019/10/20/katayuno-todos-niveles/" type="text/html" />
             <id>/2019/10/20/katayuno-todos-niveles/</id>
-            <updated>2019-10-20T17:55:00Z</updated>
+            <updated>2019-10-20T11:04:00Z</updated>
 
             <summary type="html">¡¡Hola, PyLadies!!</summary>
             <content type="html">&lt;p&gt;¡¡Hola, PyLadies!!&lt;/p&gt;
@@ -219,7 +313,7 @@ Así que ya sabes entrenador, pon a punto tu ordenador ¡Y que comience la captu
             <title>🎉 Fiesta de Inicio de Curso PyLadies 2019-2020 🎉</title>
             <link rel="alternate" href="/2019/09/29/fiesta-inicio-curso/" type="text/html" />
             <id>/2019/09/29/fiesta-inicio-curso/</id>
-            <updated>2019-09-29T17:55:00Z</updated>
+            <updated>2019-09-29T11:04:00Z</updated>
 
             <summary type="html">¡¡¡Atención, PyLadies, arrancamos los motores!!! 📢</summary>
             <content type="html">&lt;p&gt;¡¡¡Atención, PyLadies, arrancamos los motores!!! 📢&lt;/p&gt;
@@ -242,19 +336,19 @@ que saques tu entrada (gratuita) aquí:
 &lt;p&gt;🔸 Retrospectiva del curso 2018/2019.
 🔸 Presentación del curso 2019/2020, llena de novedades. ;)&lt;/p&gt;
 &lt;h2&gt;Charlas&lt;/h2&gt;
-&lt;p&gt;🔸 Almudena M. Castro (@puratura), diseñadora de UX/UI por el día y divulgadora científica por las noches, nos abrirá los ojos es su charla para no dejarnos engañas por las mala gráficas.&lt;/p&gt;
+&lt;p&gt;🔸 &lt;strong&gt;&lt;a href=&#34;https://twitter.com/puratura&#34;&gt;Almudena M. Castro&lt;/a&gt;&lt;/strong&gt;, diseñadora de UX/UI por el día y divulgadora científica por las noches, nos abrirá los ojos es su charla para no dejarnos engañas por las mala gráficas.&lt;/p&gt;
 
-&lt;p&gt;🔸 Leticia Martín-Fuertes (@nimbusaeta), lingüista computacional y organizadora de RLadies Madrid y Lingwars, hará que nos adentremos en el Procesamiento del Lenguaje Natural de la mano de la librería NLTK.&lt;/p&gt;
+&lt;p&gt;🔸 &lt;strong&gt;&lt;a href=&#34;https://twitter.com/nimbusaeta&#34;&gt;Leticia Martín-Fuertes&lt;/a&gt;&lt;/strong&gt;, lingüista computacional y organizadora de RLadies Madrid y Lingwars, hará que nos adentremos en el Procesamiento del Lenguaje Natural de la mano de la librería NLTK.&lt;/p&gt;
 
-&lt;p&gt;🔸 Irene Pérez Encinar (@irenuchi), ingeniera de Telecomunicaciones apasionada de programar y abanderada del software libre, estará con nosotras hablando sobre todo lo que las katas (pequeños retos de programación) le han enseñado de Python.&lt;/p&gt;
+&lt;p&gt;🔸 &lt;strong&gt;&lt;a href=&#34;https://twitter.com/irenuchi&#34;&gt;Irene Pérez Encinar&lt;/a&gt;&lt;/strong&gt;, ingeniera de Telecomunicaciones apasionada de programar y abanderada del software libre, estará con nosotras hablando sobre todo lo que las katas (pequeños retos de programación) le han enseñado de Python.&lt;/p&gt;
 
-&lt;p&gt;🔸 Cecil Fernández Briche (@Cecil_gabaxi), data scientist y enamorada de las comunidades tech, vendrá a hablarnos de un proyecto de Machine Learning sobre un recomendador de productos basado en patrones de compra en supermercados y tendencias de consumo.&lt;/p&gt;
+&lt;p&gt;🔸 &lt;strong&gt;&lt;a href=&#34;https://twitter.com/Cecil_gabaxi&#34;&gt;Cecil Fernández Briche&lt;/a&gt;&lt;/strong&gt;, data scientist y enamorada de las comunidades tech, vendrá a hablarnos de un proyecto de Machine Learning sobre un recomendador de productos basado en patrones de compra en supermercados y tendencias de consumo.&lt;/p&gt;
 
-&lt;p&gt;🔸 Rubén Mínguez Pérez, viene desde Newtral para contarnos cómo es el día a día en una redacción trabajando con tecnología en tiempos de elecciones. Todo en su charla &amp;lsquo;Verificando a los políticos con Python: cómo es trabajar en Newtral&amp;rsquo;.&lt;/p&gt;
+&lt;p&gt;🔸 &lt;strong&gt;Rubén Mínguez Pérez&lt;/strong&gt;, viene desde Newtral para contarnos cómo es el día a día en una redacción trabajando con tecnología en tiempos de elecciones. Todo en su charla &amp;lsquo;Verificando a los políticos con Python: cómo es trabajar en Newtral&amp;rsquo;.&lt;/p&gt;
 
-&lt;p&gt;🔸 María José Mora Naranjo (@mjomora), DevOps Functional Analyst en Avature, nos explicará cómo implementan Continuous Delivery y Continuous Deployment en su empresa.&lt;/p&gt;
+&lt;p&gt;🔸 &lt;strong&gt;&lt;a href=&#34;https://twitter.com/mjomora&#34;&gt;María José Mora Naranjo&lt;/a&gt;&lt;/strong&gt;, DevOps Functional Analyst en Avature, nos explicará cómo implementan Continuous Delivery y Continuous Deployment en su empresa.&lt;/p&gt;
 &lt;h2&gt;Taller&lt;/h2&gt;
-&lt;p&gt;🔸 Irene M. Morgado (@IrnMM), socióloga especializada en comunicación y psicología social, nos guiará en un taller en el que analizaremos cómo definir tu carrera profesional y ver cuáles son los puntos importantes a tener en cuenta cuando cambias de trabajo.&lt;/p&gt;
+&lt;p&gt;🔸 &lt;strong&gt;&lt;a href=&#34;https://twitter.com/irnmm&#34;&gt;Irene M. Morgado&lt;/a&gt;&lt;/strong&gt;, socióloga especializada en comunicación y psicología social, nos guiará en un taller en el que analizaremos cómo definir tu carrera profesional y ver cuáles son los puntos importantes a tener en cuenta cuando cambias de trabajo.&lt;/p&gt;
 &lt;h2&gt;Lightning talks&lt;/h2&gt;
 &lt;p&gt;También tendremos espacio para charlas cortas (5-10min) en las que compartir experiencias en el trabajo con Python. Si tienes algo que presentar, ¡dínoslo, estás a tiempo!&lt;/p&gt;
 &lt;h2&gt;Comida&lt;/h2&gt;
@@ -290,6 +384,646 @@ que saques tu entrada (gratuita) aquí:
 
 &lt;p&gt;🥉 Zooplus 🥉
 &lt;a href=&#34;https://www.zooplus.es/&#34;&gt;https://www.zooplus.es/&lt;/a&gt;&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Más allá de Python</title>
+            <link rel="alternate" href="/2019/06/18/mas-alla-de-python/" type="text/html" />
+            <id>/2019/06/18/mas-alla-de-python/</id>
+            <updated>2019-06-18T11:04:00Z</updated>
+
+            <summary type="html">¡¡Hola PyLadies!!</summary>
+            <content type="html">&lt;p&gt;¡¡Hola PyLadies!!&lt;/p&gt;
+
+&lt;p&gt;Os presentamos este último evento, con el que despediremos el curso hasta septiembre.&lt;/p&gt;
+
+&lt;p&gt;En esta ocasión queremos hablar de temas más sociales que trascienden el ámbito de Python y que nos afectan como desarrolladoras y miembros de la comunidad tecnológica.&lt;/p&gt;
+
+&lt;p&gt;¡¡Os esperamos!!&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;p&gt;• &lt;strong&gt;Vanessa Medina&lt;/strong&gt; es frontend developer. Organiza el FrontFest, 2 meetups (FrontEnd Developers Madrid y HTML5 Spain) y lo que haga falta. Ha trabajado en distintos países y tiene un pasado oscuro como sysadmin.&lt;/p&gt;
+
+&lt;p&gt;En esta charla habla de cómo afecta a la hora de acceder a un trabajo tu vida pública vista a través de las redes sociales. El clásico &amp;ldquo;eres dueño de lo que callas y esclavo de lo que dices&amp;rdquo; desde la perspectiva de la búsqueda de empleo y proyección laboral.&lt;/p&gt;
+
+&lt;p&gt;• &lt;strong&gt;&lt;a href=&#34;https://twitter.com/anyabranco&#34;&gt;Anna Branco&lt;/a&gt;&lt;/strong&gt; es una desarrollada Front End especializada en React y actualmente trabaja en Atresmedia. Con formación en Psicología y Relaciones Internacionales, es parte de la nueva generación de personas oriundas de otras profesiones y reconvertidas en programadoras. Aunque trabaje básicamente con JavaScript, le encanta como ocio programar en Python, lo que - en sus palabras - “entretiene y ayuda a desarrollar el raciocinio lógico y la capacidad como programadora”. Hasta la fecha es la única mujer transgénero formada por Adalab y una de las pocas programadoras trans de España. Sus principales intereses son la cooperación humanitaria internacional y la ayuda a personas en situaciones de crisis y emergencias. Actualmente está desarrollando la primera comunidad tecnológica destinada a personas trans en España, con el objetivo de empoderar, formar y favorecer la integración laboral del colectivo.&lt;/p&gt;
+
+&lt;p&gt;En su charla busca proponer reflexiones acerca de identidades de género y orientaciones sexuales divergentes del modelo heteropatriarcal, bien como clarificar el concepto y la realidad de personas trans en España. Concluirá procurando identificar las relaciones entre personas LGBTQ y el medio laboral tecnológico.&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>AWSSummit con RLadies y WiMLDS</title>
+            <link rel="alternate" href="/2019/05/07/awssummit-rladies-wimlds/" type="text/html" />
+            <id>/2019/05/07/awssummit-rladies-wimlds/</id>
+            <updated>2019-05-07T11:04:00Z</updated>
+
+            <summary type="html">Hola PyLadies!</summary>
+            <content type="html">&lt;p&gt;Hola PyLadies!&lt;/p&gt;
+
+&lt;p&gt;El AWS Summit será en Madrid del día 7 de mayo, y entre las actividades de este día se va a celebrar un meetup en el que nos juntaremos con nuestras compis de RLadies y WiMLDS :)&lt;/p&gt;
+
+&lt;p&gt;Alejandra Novack, AWS Evangelist, dará una charla muy interesante sobre el imposter syndrome, y después tendremos la oportunidad de conocer al resto de comunidades y hacer networking.&lt;/p&gt;
+
+&lt;p&gt;IMPORTANTE registrarse en el link que hay más abajo, además de en meetup. Si ya estás apuntad@ en el de RLadies o WiMLDS, entonces no hace falta que te apuntes aquí también, basta con que estés en uno de los tres.&lt;/p&gt;
+
+&lt;p&gt;¡¡Nos vemos allí!!&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;Description: Come and join us for the meetup, presenting Alejandra Novack, AWS Evangelist. We will also have three of the biggest women in tech communities in Madrid (WiMLDS, Pyladies and Rladies) introducing themselves and their initiatives. This meetup will take place during the AWS Summit Madrid on May 7th 2019, the biggest event from AWS in Spain with 5000+ attendants in 2018.
+Check the agenda &lt;a href=&#34;https://aws.amazon.com/es/events/summits/madrid/agenda/&#34;&gt;https://aws.amazon.com/es/events/summits/madrid/agenda/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;TO REGISTER: &lt;a href=&#34;https://aws.amazon.com/es/events/summits/madrid/?sc_channel=em&amp;amp;sc_campaign=es19_aws-summit-madrid-2019&amp;amp;sc_publisher=aws&amp;amp;sc_medium=em_es19_aws-summit-madrid-2019&amp;amp;sc_content=field_ev_summit&amp;amp;sc_country=es&amp;amp;sc_geo=emea&amp;amp;sc_outcome=field&amp;amp;trkCampaign=es19_aws-summit-madrid-2019&amp;amp;trk=em_inv1_es19_aws-summit-madrid-2019_sales&#34;&gt;https://aws.amazon.com/es/events/summits/madrid/?sc_channel=em&amp;amp;sc_campaign=es19_aws-summit-madrid-2019&amp;amp;sc_publisher=aws&amp;amp;sc_medium=em_es19_aws-summit-madrid-2019&amp;amp;sc_content=field_ev_summit&amp;amp;sc_country=es&amp;amp;sc_geo=emea&amp;amp;sc_outcome=field&amp;amp;trkCampaign=es19_aws-summit-madrid-2019&amp;amp;trk=em_inv1_es19_aws-summit-madrid-2019_sales&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Where: IFEMA DE MADRID (VIP Lounge)
+When: May 7th, 2019, during AWS Summit Madrid 2019
+Meetup time: 17:15 – 19:00&lt;/p&gt;
+
+&lt;p&gt;Communities: @WiMLDS_Madrid, @RLadiesMAD, @PyLadiesMadrid&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;Charlas y ponentes:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alai Blanco Lascurain&lt;/strong&gt;. Alai es una joven de 15 años, a quién le apasiona la tecnología, y ha participado en numerosas charlas como TEDKids (&lt;a href=&#34;http://tedxcibeles.com/speaker/alaia-miranda-blanco-lascurain/&#34;&gt;http://tedxcibeles.com/speaker/alaia-miranda-blanco-lascurain/&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Charla: TechGirls: Diseñando el futuro
+“Me llamo Alai y soy alegre, optimista y entusiasta de las nuevas tecnologías y tengo 15 años. Mi curiosidad me ha llevado a participar en montones de cursos relacionados con la tecnología, joyería electrónica, tecnología textil o electrónica interactiva en arduino además de participar en el GirlTechCamp. Pero soy una niña normal a quien le gusta jugar, la música o mis otras grandes aficiones: natación sincronizada, el surf o el patinete.”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Elena González-Blanco&lt;/strong&gt;. General Manager de Europa en Coverwallet&lt;/p&gt;
+
+&lt;p&gt;Charla: Retos y Oportunidades de la Inteligencia Artificial, casos de uso.
+“La transformación digital no es el futuro, sino el presente, no es una opción, es una realidad. Estamos viviendo un momento apasionante en el que la tecnología nos está brindando una gran oportunidad, pero el gran cambio está en manos de las personas”&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;Agenda:
+17:00 Introduction by AWS
+17:10 Presentation RLadies @RLadiesMAD
+17:20 Presentation PyLadies @PyLadiesMadrid
+17:30 Presentation WIMLDS @WiMLDS_Madrid
+17:40 Retos y Oportunidades de la Inteligencia Artificial, casos de uso by Elena González-Blanco
+18:10 TechGirls: Diseñando el futuro by Alai Blanco Lascurain
+18:30 Networking and Catering by AWS
+19:00 Closing&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Katas para todos los niveles</title>
+            <link rel="alternate" href="/2019/04/27/katas-para-todos-los-niveles/" type="text/html" />
+            <id>/2019/04/27/katas-para-todos-los-niveles/</id>
+            <updated>2019-04-27T11:04:00Z</updated>
+
+            <summary type="html">¡¡Hola, PyLadies!!</summary>
+            <content type="html">&lt;p&gt;¡¡Hola, PyLadies!!&lt;/p&gt;
+
+&lt;p&gt;El meetup de abril va a ser muy distinto a todo lo que hemos hecho hasta ahora: en lugar de tener charlas o talleres, nos vamos a juntar para practicar con ejercicios de programación y mejorar nuestro dominio de Python. ¡Para todos los niveles!&lt;/p&gt;
+
+&lt;p&gt;Este tipo de ejercicios se llaman Katas, y sirven para que pensemos en la mejor forma de solucionar un problema y a su vez aprendamos de cómo otras personas lo han resuelto.&lt;/p&gt;
+
+&lt;p&gt;Contaremos con la ayuda de súper expertas en Python, profesionales que lo usan en su día a día. Si habéis venido a más meetups las conoceréis a todas: Irene, Alicia, Mabel, Bea, Jimena y Ana.&lt;/p&gt;
+
+&lt;p&gt;Tanto si acabas de aprender a programar en Python, como si llevas años usándolo, este meetup es para ti! Hay katas muy variadas, desde principiante hasta experto, y nos pondremos por grupos del mismo nivel para resolverlas.&lt;/p&gt;
+
+&lt;p&gt;Va a ser toda una experiencia, ¡¡os esperamos!! Eso sí, recordad traer vuestro portátil. (Y si finalmente no podéis asistir, recordad liberar la plaza para que otra persona pueda aprovecharla).&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Python en Clarity.ai: casos de uso</title>
+            <link rel="alternate" href="/2019/03/27/python-en-clarityai-casos-de-uso/" type="text/html" />
+            <id>/2019/03/27/python-en-clarityai-casos-de-uso/</id>
+            <updated>2019-03-27T11:04:00Z</updated>
+
+            <summary type="html">¡¡Hola, PyLadies!!</summary>
+            <content type="html">&lt;p&gt;¡¡Hola, PyLadies!!&lt;/p&gt;
+
+&lt;p&gt;Volvemos con el meetup de marzo, en el que visitaremos la casa de Clarity.ai para que nos muestren algunos de los casos de uso en los que usan Python en el día a día.&lt;/p&gt;
+
+&lt;p&gt;Después de las charlas tendremos algo de picoteo para hacer networking, cortesía de nuestros anfitriones (¡gracias!)&lt;/p&gt;
+
+&lt;p&gt;No os lo perdáis, ¡¡os esperamos!! (y si finalmente no podéis asistir, recordad liberar la plaza para que otra persona pueda aprovecharla).&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;p&gt;• &lt;strong&gt;Dash como herramienta de visualización de datos - Raquel Gordo&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;En Clarity.ai utilizamos una gran cantidad de datos con el fin analizar el impacto social de las inversiones. El manejo de grandes volúmenes de datos y la implicación de numerosas variables hacen que el análisis cuantitativo de la información resulte complejo. Para ello, desarrollamos aplicaciones para visualizar los datos de una manera fácil y dinámica.&lt;/p&gt;
+
+&lt;p&gt;En este encuentro os mostraré algunas de las visualizaciones desarrolladas con Dash, una librería de Python que nos permite generar aplicaciones web con una gran capacidad de customización. Analizaremos el impacto social de las empresas utilizando los datos de consumo como proxy de las necesidades de la población y datos de compañías que nos mostrarán cómo de eficientes son éstas a la hora de cubrir dichas necesidades.&lt;/p&gt;
+
+&lt;p&gt;• &lt;strong&gt;Machine learning en Python para guiar la inversión responsable - &lt;a href=&#34;https://twitter.com/MartaRiveraAlba&#34;&gt;Marta Rivera Alba&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Nos preocupamos cada vez más por el medio ambiente y las desigualdades sociales y económicas, pero ¿cómo podemos hacer para que nuestras inversiones también estén comprometidas con nuestros principios éticos? Esta es la pregunta que nos hacemos todos los días en Clarity.ai y que estamos intentando resolver para que entre todos construyamos un mundo que nos guste cada vez más.&lt;/p&gt;
+
+&lt;p&gt;En esta charla explicaré cómo desarrollamos con Python métricas y algoritmos basados en inteligencia artificial para poder evaluar mejor la interacción de las empresas con el medio ambiente y social que nos rodea. Completamos los datos existentes construyendo modelos predictivos de emisiones de CO2, diversidad o satisfacción de los empleados entre otras para aumentar el número total de instituciones que podemos analizar. Calculamos el impacto real de las empresas en las necesidades de las personas en todos y cada uno de los lugares del mundo. Para que inviertas tu dinero dónde más importa.&lt;/p&gt;
+&lt;h1&gt;Sobre las ponentes&lt;/h1&gt;
+&lt;p&gt;• &lt;strong&gt;Raquel Gordo&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Estudié ingeniería de Telecomunicaciones por la Universidad de Zaragoza, aunque realicé un semestre de Erasmus en Lille (Francia). Tuve la oportunidad de realizar mi TFG en una start-up de neuromarketing, donde desarrollé un modelo de decodificación de emociones a partir de la respuesta galvánica de la piel. Una vez finalizados mis estudios de Grado, vine a Madrid a estudiar el Máster en Ingeniería de Telecomunicaciones. Durante el primer año de Máster realicé una beca en una start-up que justo se ponía en marcha en ese momento: Clarity.ai. Desde entonces he participado activamente en el desarrollo de la metodología, especialmente en el análisis de cómo las compañías cubren las necesidades de la población.&lt;/p&gt;
+
+&lt;p&gt;• &lt;strong&gt;Marta Rivera Alba&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;He tenido la suerte de poder dedicar toda mi carrera profesional a descubrir, entender y reproducir las reglas matemáticas de nuestro mundo. Estudié Físicas en la Autónoma de Madrid, realizando un semestre de Erasmus en Florencia. Después, hice un Máster y un doctorado en biofísica entre Madrid y EEUU donde desarrollé modelos matemáticos para explicar la anatomía cerebral de la mosca del vinagre. Tras doctorarme hice un Máster en Profesorado de Educación de Física y Química por la UNED. Como investigadora postdoctoral trabajé en España, Portugal y EEUU en modelos matemáticos, inteligencia artificial y análisis automático de vídeo. Desde 2016 desarrollo algoritmos y modelos matemáticos basados en inteligencia artificial para conseguir una inversión eficiente y sostenible.&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Understanding the common and discovering the uncommon</title>
+            <link rel="alternate" href="/2019/02/20/understanding-the-common-discovering-the-uncommon/" type="text/html" />
+            <id>/2019/02/20/understanding-the-common-discovering-the-uncommon/</id>
+            <updated>2019-02-20T11:04:00Z</updated>
+
+            <summary type="html">¡¡Atención, PyLadies, notición!!</summary>
+            <content type="html">&lt;p&gt;¡¡Atención, PyLadies, notición!!&lt;/p&gt;
+
+&lt;p&gt;El meetup de este mes va a ser todo un acontecimiento, porque tendremos como invitada especial a la gran Naomi Ceder, que nos visita desde Chicago. Naomi es toda una eminencia en el mundo Python y dará una charla sobre cómo funciona la iteración en Python.&lt;/p&gt;
+
+&lt;p&gt;La segunda ponente también es de lujo total: Nerea Luis, investigadora en Inteligencia Artificial referente en España, que nos hablará de las áreas menos conocidas de la Inteligencia Artificial y por qué son tan relevantes.&lt;/p&gt;
+
+&lt;p&gt;Las charlas serán en español, y después tendremos pizzas y bebidas para hacer networking :)&lt;/p&gt;
+
+&lt;p&gt;IE Exponential Learning nos ha cedido sus instalaciones para esta ocasión (¡gracias!)&lt;/p&gt;
+
+&lt;p&gt;No os lo perdáis, ¡¡os esperamos!! (y si finalmente no podéis asistir, recordad liberar la plaza para que otra persona pueda aprovecharla).&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;p&gt;• &lt;strong&gt;Iteration Inside Out - &lt;a href=&#34;https://twitter.com/naomiceder&#34;&gt;Naomi Ceder&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Using for loops and list comprehensions in Python is basic and quite common. But how does iteration in Python actually work? The words “iterator” and “iterable” each occur over 500 times in the Python documentation, but what does an iterator actually &lt;em&gt;do&lt;/em&gt;, as opposed to an iterable? And &lt;em&gt;how&lt;/em&gt; do they do it? Learn the details as we turn the iteration protocol inside out, with live coded demonstrations along the way.&lt;/p&gt;
+
+&lt;p&gt;• &lt;strong&gt;Unfashionable AI - &lt;a href=&#34;https://twitter.com/sailormerqury&#34;&gt;Nerea Luis&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Neural networks, data-processing, Big Data,&amp;hellip; we are surrounded by Machine Learning -sometimes even thinking that Artificial Intelligence is the same thing-. In this talk, a revisiting of the state-of-the-art will be given by focusing on applications of those fields of Artificial Intelligence that are not-so-popular. Let&amp;rsquo;s go vintage! Automated Planning, Search and Optimization, Knowledge Representation, Fuzzy systems, Bioinspired algorithms&amp;hellip; suddenly you realized of how much you did not know about AI!&lt;/p&gt;
+&lt;h1&gt;Sobre las ponentes&lt;/h1&gt;
+&lt;p&gt;• &lt;strong&gt;Naomi Ceder&lt;/strong&gt; es parte de la Junta de Directores de la Python Software Foundation y cofundadora de Trans*Code, un hackday centrado en la comunidad transgénero. Actualmente dirige un equipo de inteligencia competitiva para Dick Blick Art Supplies, uno de los principales proveedores de suministros para artistas en los Estados Unidos.
+Naomi también es autora de Quick Python Book, 3rd Ed, y ha enseñado Python a diversas audiencias durante muchos años. Ella ha ayudado a organizar PyCon US y PyCon UK, dando origen a las sesiones de carteles, cumbre de Educación, y el Taller de Intro to Sprinting.&lt;/p&gt;
+
+&lt;p&gt;• &lt;strong&gt;Nerea Luis&lt;/strong&gt; es fundadora de T3chFest e investigadora en el campo de la inteligencia artificial en la Universidad Carlos III de Madrid. Nominada TOP100 mujeres líderes 2018. Women Techmaker Scholar 2016 por Google. Reconocida por la fundación COTEC como experta en Talento, Tecnología y Género. Técnico de asesoramiento científico en Ciencia en el Parlamento.&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Redes Neuronales en Python</title>
+            <link rel="alternate" href="/2019/01/24/redes-neuronales-en-python/" type="text/html" />
+            <id>/2019/01/24/redes-neuronales-en-python/</id>
+            <updated>2019-01-24T11:04:00Z</updated>
+
+            <summary type="html">¡¡Hola PyLadies!!</summary>
+            <content type="html">&lt;p&gt;¡¡Hola PyLadies!!&lt;/p&gt;
+
+&lt;p&gt;Volvemos con fuerza en enero con un meetup completísimo dedicado a las Redes Neuronales, su implementación en Python y sus aplicaciones.&lt;/p&gt;
+
+&lt;p&gt;En esta ocasión, Zooplus nos ha cedido sus fantásticas oficinas en el centro de Madrid (¡gracias!).&lt;/p&gt;
+
+&lt;p&gt;No os lo perdáis, ¡¡os esperamos!! (y si finalmente no podéis asistir, recordad liberar la plaza para que otra persona pueda aprovecharla).&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;p&gt;• &lt;strong&gt;Introducción a las redes neuronales con Keras - Elena Viaña&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;En este evento comenzaremos con una breve introducción teórica a las redes de neuronas, aprenderemos lo básico para poder crear nuestra primera red con un ejemplo sencillo.&lt;/p&gt;
+
+&lt;p&gt;• &lt;strong&gt;The bad guys in the AI: Atacando sistemas de Machine Learning - &lt;a href=&#34;https://twitter.com/g_beaa&#34;&gt;Beatriz Gomez&lt;/a&gt; y &lt;a href=&#34;https://twitter.com/alipeji&#34;&gt;Alicia Pérez&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;El machine learning ya está presente en los sistemas de seguridad y eso lo ha convertido automáticamente en un objetivo. Aquí veremos cómo es posible usar las redes generativas para engañar sistemas de machine learning, junto a un ejemplo, y discutiremos las vulnerabilidades y sus implicaciones.&lt;/p&gt;
+&lt;h1&gt;Sobre las ponentes&lt;/h1&gt;
+&lt;p&gt;• &lt;strong&gt;Elena Viaña&lt;/strong&gt; es ingeniera de visión artificial en el departamento de disrupción de Everis perteneciente a NNTData. Estudió Telecomunicaciones en la Universidad de Sevilla y continuó sus estudios con un máster en visión artificial especializado en imagen médica. Ha colaborado en varios proyectos de IA, Digital Banking y sistemas BCI.&lt;/p&gt;
+
+&lt;p&gt;• &lt;strong&gt;Beatriz Gomez&lt;/strong&gt; es Ingeniera de Telecomunicaciones por la Universidad de Castilla la Mancha, para completar sus estudios realizó un master en visión artificial donde conoció el machine learning y el deep learning y decidió que quería continuar su carrera profesional enfocado a ello. Actualmente es Data Scientist en Style Sage donde está creciendo como profesional utilizando tecnologías como Keras.&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Pubquiz navideño 🍻🎄 R-Ladies + PyLadies + WiMLDS Madrid</title>
+            <link rel="alternate" href="/2018/12/12/pubquizz-navideno-rladies-pyladies-wimldsmadrid/" type="text/html" />
+            <id>/2018/12/12/pubquizz-navideno-rladies-pyladies-wimldsmadrid/</id>
+            <updated>2018-12-12T11:04:00Z</updated>
+
+            <summary type="html">¡¡Hola de nuevo, PyLadies!!</summary>
+            <content type="html">&lt;p&gt;¡¡Hola de nuevo, PyLadies!!&lt;/p&gt;
+
+&lt;p&gt;Un año más, las chicas de R-Ladies nos han propuesto participar en un pubquiz (&lt;a href=&#34;https://en.wikipedia.org/wiki/Pub_quiz&#34;&gt;https://en.wikipedia.org/wiki/Pub_quiz&lt;/a&gt;) navideño que junte a varias comunidades tecnológicas de Madrid. ¡Un evento super divertido para echarnos unas risas y conocer gente de otras comunidades!&lt;/p&gt;
+
+&lt;p&gt;Tenemos 20 plazas para PyLadies y es súper importante que canceles lo antes posible si te surge algún imprevisto, para que no se desaprovechen (las plazas liberadas horas antes del evento rara vez son cubiertas).&lt;/p&gt;
+
+&lt;p&gt;Aquí tenéis toda la información. ¡¡Os esperamos!!&lt;/p&gt;
+&lt;h1&gt;Comunidades participantes&lt;/h1&gt;
+&lt;p&gt;• &lt;strong&gt;R-Ladies&lt;/strong&gt; ( &lt;a href=&#34;https://www.meetup.com/es-ES/rladies-madrid/&#34;&gt;https://www.meetup.com/es-ES/rladies-madrid/&lt;/a&gt; )&lt;/p&gt;
+
+&lt;p&gt;• &lt;strong&gt;PyLadies&lt;/strong&gt; ( &lt;a href=&#34;https://www.meetup.com/es-ES/PyLadiesMadrid/&#34;&gt;https://www.meetup.com/es-ES/PyLadiesMadrid/&lt;/a&gt; )&lt;/p&gt;
+
+&lt;p&gt;• &lt;strong&gt;WiMLDS&lt;/strong&gt; (&lt;a href=&#34;https://www.meetup.com/es-ES/Madrid-Women-in-Machine-Learning-and-Data-Science/&#34;&gt;https://www.meetup.com/es-ES/Madrid-Women-in-Machine-Learning-and-Data-Science/&lt;/a&gt;)&lt;/p&gt;
+&lt;h1&gt;Equipos&lt;/h1&gt;
+&lt;p&gt;Se harán equipos (lo más igualados posible en cuestión de comunidades y tecnologías). Cada equipo tiene que tener un nombre (que eligen sus integrantes) y lo ponen en su papel de respuestas.&lt;/p&gt;
+&lt;h1&gt;Preguntas y respuestas&lt;/h1&gt;
+&lt;p&gt;Las preguntas se dirán por megafonía y se contestarán en un papel. Cada pregunta tendrá una respuesta única. El tema de las preguntas es tecnología (lenguajes, etc.).&lt;/p&gt;
+&lt;h1&gt;Ganador&lt;/h1&gt;
+&lt;p&gt;El equipo con más respuestas correctas será el ganador.&lt;/p&gt;
+&lt;h1&gt;Normas&lt;/h1&gt;
+&lt;p&gt;No se puede consultar la respuesta por internet. Seamos legales, ¡vamos a pasarlo bien!&lt;/p&gt;
+&lt;h1&gt;Entradas&lt;/h1&gt;
+&lt;p&gt;Cada comunidad contará con 20 entradas, para que estén equilibrados entre los participantes los conocimientos técnicos.&lt;/p&gt;
+&lt;h1&gt;Asistencia&lt;/h1&gt;
+&lt;p&gt;Por favor, si te apuntas y luego ves que no vas a poder venir, ¡libera tu plaza! En este meetup es especialmente importante para que los equipos puedan estar equilibrados. ¡Gracias!&lt;/p&gt;
+
+&lt;p&gt;** Disclaimer: ¡sintiéndolo mucho no contamos con ayuda económica, así que cada uno se tendrá que pagar las consumiciones que tome! ¡Gracias!&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>McKinsey &amp; Data Science: Casos de uso</title>
+            <link rel="alternate" href="/2018/11/07/mckinsey-data-science-casos-de-uso/" type="text/html" />
+            <id>/2018/11/07/mckinsey-data-science-casos-de-uso/</id>
+            <updated>2018-11-07T11:04:00Z</updated>
+
+            
+            <content type="html">&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;p&gt;• Presentación del hub de Advanced Analytics de McKinsey y equipo presente en esta sesión.&lt;/p&gt;
+
+&lt;p&gt;• Conceptos y técnicas importantes de data science.&lt;/p&gt;
+
+&lt;p&gt;• Caso de uso - Impacto social con predicción del tiempo en desempleo: hemos trabajado con el servicio público de empleo de un gobierno Europeo para identificar los individuos con alto riesgo de quedarse en desempleo de larga duración y las causas subyacentes, de cara a optimizar el uso de los recursos disponibles como la asignación de formaciones de desarrollo profesional o las sesiones con consejeros&lt;/p&gt;
+
+&lt;p&gt;• Caso de uso - Expansión de red: para un retailer en America del Norte, hemos desarrollado un perfilado de su red de tiendas actuales usando un análisis geo-espacial que incluye procesamiento de datos GIS y hemos modelado el potencial de venta de nuevas zonas de cara a descubrir la mejor estrategia de expansión de red&lt;/p&gt;
+
+&lt;p&gt;• Cerramos con discusión abierta y networking&lt;/p&gt;
+&lt;h1&gt;Sobre las ponentes&lt;/h1&gt;
+&lt;p&gt;• &lt;strong&gt;Marta Carmena&lt;/strong&gt; es Data Scientist en el hub de Advanced Analytics de Madrid desde Septiembre. Tiene experiencia previa como data scientist en Idealista y en la startup Weplan. Es licenciada en estadística y tiene un master en Big Data Analytics ambos de la Universidad Carlos III donde completo el TFM aplicando técnicas de Deep Learning para modelar la evolución del precio unitario de viviendas en España.&lt;/p&gt;
+
+&lt;p&gt;• &lt;strong&gt;Mafalda Ruas Goncalves&lt;/strong&gt; es Data Scientist en el hub de Advanced Analytics de Madrid desde Enero 2018. Tiene un background en ingeniería biomédica con especialización en bioinformática, y su experiencia es principalmente en la industria farmacéutica y en telecomunicaciones. En esta sesión presentara un proyecto pro bono que se desarrolló con un gobierno Europeo para optimizar la asignación de recursos de los servicios públicos del empleo.&lt;/p&gt;
+
+&lt;p&gt;• &lt;strong&gt;Inès Garceau Aranda&lt;/strong&gt; es Senior Data Scientist en el hub de Advanced Analytics de Madrid desde Marzo 2017. Estudio Matemáticas en la Universidad Concordia (Montreal, Canadá) y tiene un master en Big Data Analytics de la Universidad Carlos III. Tiene una amplia experiencia desarrollando proyectos de machine learning con Python en varias industrias incluyendo retail; en esta sesión presentara un proyecto de expansión de red en retail/consumo que cubre varios aspectos de data science incluyendo el procesamiento de datos GIS con librerías de Python, el desarrollo de herramientas de visualización con Plotly/Dash y el entorno big data Hadoop con PySpark.&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>PyConES is coming</title>
+            <link rel="alternate" href="/2018/09/18/pycones-is-coming/" type="text/html" />
+            <id>/2018/09/18/pycones-is-coming/</id>
+            <updated>2018-09-18T11:04:00Z</updated>
+
+            <summary type="html">¡¡¡Hola PyLadies!!!</summary>
+            <content type="html">&lt;p&gt;¡¡¡Hola PyLadies!!!&lt;/p&gt;
+
+&lt;p&gt;Después de recargar las pilas durante el parón del verano, volvemos con las fuerzas renovadas y con muchas ganas de empezar este nuevo curso, lleno de charlas, talleres, proyectos y, por supuesto, con mucho Python.&lt;/p&gt;
+
+&lt;p&gt;En este primer evento del curso, tendremos la oportunidad de aprender con Irene Pérez y María Medina, que nos mostrarán un adelanto de las charlas que van a impartir en el congreso nacional de Python de este año (PyConES 2018), que se celebrará en Málaga a principios de octubre.&lt;/p&gt;
+
+&lt;p&gt;Hablaremos de dos temas tan diferentes como son la predicción de la contaminación del aire, y cómo enseñar a programar y aprender en el proceso.&lt;/p&gt;
+
+&lt;p&gt;¡¡Esperamos veros por allí!!&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;
+&lt;p&gt;• &lt;strong&gt;Aprende a enseñar, enseñando aprenderás - &lt;a href=&#34;https://twitter.com/irenuchi&#34;&gt;Irene Pérez&lt;/a&gt;&lt;/strong&gt;
+En esta charla me gustaría compartir mi experiencia como profesora y las lecciones que he ido aprendiendo a la hora de enseñar programación a diferentes tipos de público, con un énfasis especial en niños y adolescentes. También presentaré herramientas y ejemplos concretos que yo he usado, y que se pueden utilizar para enseñar Python o como base para diseñar contenidos educativos. Y, por supuesto, intentaré motivar a todo el mundo para que enseñe Python a sus hijos, sobrinos, primos, amigos o vecinos, porque realmente creo que, enseñando, es como más se aprende.&lt;/p&gt;
+
+&lt;p&gt;• &lt;strong&gt;Prediciendo la contaminación del aire en Madrid - &lt;a href=&#34;https://twitter.com/mariamedp&#34;&gt;María Medina&lt;/a&gt;&lt;/strong&gt;
+Desde hace tres años existe en Madrid un protocolo anticontaminación, por el que se activan restricciones de tráfico cuando los niveles de NO2 son muy elevados. El punto crítico del protocolo está en que estas restricciones se activan de un día para otro, lo que supone un problema de planificación para toda la ciudad. En esta charla veremos el proceso para construir modelos de predicción de contaminación. Usando Python como herramienta, seguiremos todos los pasos, desde la obtención de los datos abiertos, pasando por la selección de las variables óptimas y finalmente la creación y evaluación de los modelos.&lt;/p&gt;
+&lt;h1&gt;Sobre las ponentes&lt;/h1&gt;
+&lt;p&gt;• &lt;strong&gt;Irene Pérez Encinar&lt;/strong&gt;
+Irene es una apasionada de la programación y de la educación, pero sobre todo, de aprender cosas nuevas. Estudió Telecomunicaciones en la Universidad Carlos III de Madrid para luego realizar un Máster en Informática en la misma universidad. Como pensaba que no había tocado suficientes palos aún, empezó un doctorado en robótica, el cual dejó para meterse en el mundillo del desarrollo de software. Actualmente es programadora back en Intelygenz, donde trabaja con distintos lenguajes, siendo Python su favorito. Le encanta &amp;ldquo;cacharrear&amp;rdquo; en su tiempo libre, compartir conocimientos y aportar su granito de arena para que la tecnología ayude a las personas.&lt;/p&gt;
+
+&lt;p&gt;• &lt;strong&gt;María Medina&lt;/strong&gt;
+María es co-organizadora de PyLadies Madrid y trabaja como Data Scientist en PiperLab. Estudió informática y matemáticas y encontró la combinación perfecta de ambos campos en el mundo de los datos. Sus intereses principales son el transporte sostenible y la calidad del aire, pero le encanta explorar datos de cualquier tipo. Sus herramientas preferidas para hacer esto son Python y R.&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Fiesta de Fin de Curso PyLadies</title>
+            <link rel="alternate" href="/2018/06/16/fiesta-fin-de-curso-pyladies/" type="text/html" />
+            <id>/2018/06/16/fiesta-fin-de-curso-pyladies/</id>
+            <updated>2018-06-16T11:04:00Z</updated>
+
+            <summary type="html">¡¡¡Atención, PyLadies, notición!!! 📢</summary>
+            <content type="html">&lt;p&gt;¡¡¡Atención, PyLadies, notición!!! 📢&lt;/p&gt;
+
+&lt;p&gt;Después de un año muy intenso de charlas, talleres y diversión, el curso va a llegando a su fin, y queremos cerrarlo por todo lo alto.&lt;/p&gt;
+
+&lt;p&gt;El sábado 16 de junio celebraremos el primer año de vida de PyLadies Madrid en una fiesta de fin de curso en la que mezclaremos charlas de todo tipo alrededor de Python, networking, comida&amp;hellip; Una buena ocasión para aprender, conocernos mejor, y hablar sobre lo que esperamos de este grupo para el próximo año.&lt;/p&gt;
+
+&lt;p&gt;Contaremos con desayuno y comida para todo el mundo gracias a nuestros fantásticos patrocinadores. Para poder estimar mejor las cantidades estamos gestionando la asistencia a través de Eventbrite. Así que es
+❗❗ ❗❗ ❗❗ SUPER IMPORTANTE ❗❗❗❗ ❗❗
+que saques tu entrada aquí:
+&lt;a href=&#34;https://www.eventbrite.com/e/entradas-fiesta-de-fin-de-curso-pyladies-45728799069?aff=meetup&#34;&gt;https://www.eventbrite.com/e/entradas-fiesta-de-fin-de-curso-pyladies-45728799069?aff=meetup&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;¡¡Te esperamos!!&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;Seguimos ultimando los detalles, pero ya podemos adelantar muchas de las cosas que tendremos:&lt;/p&gt;
+&lt;h1&gt;Charlas&lt;/h1&gt;
+&lt;p&gt;🔸 &lt;strong&gt;&lt;a href=&#34;https://twitter.com/congosto&#34;&gt;Mariluz Congosto&lt;/a&gt;&lt;/strong&gt;, investigadora especialista en análisis de datos sociales, compartirá con nosotras algunos de sus experimentos.&lt;/p&gt;
+
+&lt;p&gt;🔸 &lt;strong&gt;&lt;a href=&#34;https://twitter.com/jimenamramos&#34;&gt;Jimena Martinez&lt;/a&gt;&lt;/strong&gt;, ingeniera en Geodesia y Cartografía, nos presentará su aclamada charla &amp;ldquo;Data Science para zascas feministas&amp;rdquo;, que causó sensación en el WTM Madrid 2018.&lt;/p&gt;
+
+&lt;p&gt;🔸 &lt;strong&gt;&lt;a href=&#34;https://twitter.com/KoolTheba&#34;&gt;Theba Gómez&lt;/a&gt;&lt;/strong&gt;, experta en desarrollo de personas y organizadora de Open Source Weekends, estará con nosotras hablando sobre los beneficios de contribuir a proyectos open source.&lt;/p&gt;
+
+&lt;p&gt;🔸 &lt;strong&gt;&lt;a href=&#34;https://twitter.com/Anandromeda&#34;&gt;Ana de Prado&lt;/a&gt;&lt;/strong&gt;, experta en Machine Learning y robótica, nos hará reflexionar sobre los sesgos inconscientes en Inteligencia Artificial.&lt;/p&gt;
+&lt;h1&gt;Lightning talks&lt;/h1&gt;
+&lt;p&gt;También tendremos espacio para charlas cortas (5-10min) en las que compartir ideas, experimentos, opiniones, &amp;hellip; si tienes algo que presentar, ¡dínoslo, estás a tiempo!&lt;/p&gt;
+
+&lt;p&gt;De momento, las PyLadies confirmadas son:&lt;/p&gt;
+
+&lt;p&gt;🔸 &lt;strong&gt;&lt;a href=&#34;https://twitter.com/Cecil_gabaxi&#34;&gt;Cecil Fernandez&lt;/a&gt;&lt;/strong&gt;, sobre un proyecto súper interesante que tiene en mente.&lt;/p&gt;
+
+&lt;p&gt;🔸 &lt;strong&gt;&lt;a href=&#34;https://twitter.com/vickycmcv&#34;&gt;Vicky Cortés&lt;/a&gt;&lt;/strong&gt;, a la que ya conoceréis porque estuvo en el evento de Women Communities en Campus hablando de su experiencia aprendiendo Python.&lt;/p&gt;
+
+&lt;p&gt;🔸 &lt;strong&gt;&lt;a href=&#34;https://twitter.com/ggarciapaola&#34;&gt;Paola García&lt;/a&gt;&lt;/strong&gt;, sobre Madrid Tech Alliance, la alianza de comunidades tecnológicas en Madrid.&lt;/p&gt;
+
+&lt;p&gt;🔸 ¿Tú? ;)&lt;/p&gt;
+&lt;h1&gt;Comida&lt;/h1&gt;
+&lt;p&gt;Para recargar energías en un día tan lleno de emociones tendremos desayuno, comida y merienda, todo en el mismo espacio de Campus, y gracias a nuestros patrocinadores. ¡Para que tú solo te preocupes por disfrutar, aprender, y conocer gente!&lt;/p&gt;
+&lt;h1&gt;Actividades&lt;/h1&gt;
+&lt;p&gt;¡No olvidemos que esto es una fiesta! Tenemos actividades, juegos, y muchas sorpresas preparadas&amp;hellip; ¡¡no querrás perdértelas!!&lt;/p&gt;
+
+&lt;p&gt;Además, habrá tiempo para hacer retrospectiva y poner en común todo lo que nos ha gustado, lo que no, y lo que esperamos de esta comunidad para el curso que viene. ¡Construyamos un PyLadies Madrid mejor año a año!&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;Todo esto no sería posible sin la ayuda de los patrocinadores que se han unido a nosotras para celebrar el primer año de vida del grupo. ¡¡Gracias!!&lt;/p&gt;
+
+&lt;p&gt;🥇 KSchool 🥇
+&lt;a href=&#34;https://kschool.com/&#34;&gt;https://kschool.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;🥇Terminus7 🥇
+&lt;a href=&#34;https://www.terminus7.com/&#34;&gt;https://www.terminus7.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;🥈 Kernel Analytics 🥈
+&lt;a href=&#34;https://kernel-analytics.com/&#34;&gt;https://kernel-analytics.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;🥉 IE Exponential Learning 🥉
+&lt;a href=&#34;https://www.ie.edu/exponential-learning/&#34;&gt;https://www.ie.edu/exponential-learning/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;🥉 OnTruck 🥉
+&lt;a href=&#34;https://ontruck.com/es/&#34;&gt;https://ontruck.com/es/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;🎥 Autentia 🎥
+&lt;a href=&#34;https://www.autentia.com/&#34;&gt;https://www.autentia.com/&lt;/a&gt;&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Desarrollo open source</title>
+            <link rel="alternate" href="/2018/04/19/desarrollo-open-source/" type="text/html" />
+            <id>/2018/04/19/desarrollo-open-source/</id>
+            <updated>2018-04-19T11:04:00Z</updated>
+
+            <summary type="html">Hola PyLadies,</summary>
+            <content type="html">&lt;p&gt;Hola PyLadies,&lt;/p&gt;
+
+&lt;p&gt;¡Volvemos a la carga con el meetup de abril!&lt;/p&gt;
+
+&lt;p&gt;Va a ser una sesión súper interesante dedicada al open source; tendremos primero una charla sobre licencias de código abierto, y después un taller práctico de Git y GitHub (necesitaréis el ordenador para esto).&lt;/p&gt;
+
+&lt;p&gt;¡Nos vemos allí!&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;&lt;h2&gt;&lt;strong&gt;Las bases legales de las licencias de software - Elen Irazabal&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Una de las categorías de la propiedad intelectual engloba las licencias de software. Desde las licencias de propietario al open source. ¿Qué tipos existen? ¿ Cuáles son sus diferencias?&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Taller de Git y Github - &lt;a href=&#34;https://twitter.com/lpez_elena&#34;&gt;Elena Mateos&lt;/a&gt;&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Taller práctico de introducción al control de versiones con Git y Github. Importante: es conveniente venir al taller con Git ya instalado en tu ordenador. Las instrucciones de instalación están en: &lt;a href=&#34;http://slides.com/elenam-lopez/taller-de-introduccion-a-git-y-github#/&#34;&gt;http://slides.com/elenam-lopez/taller-de-introduccion-a-git-y-github#/&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Sobre las ponentes&lt;/h1&gt;&lt;h2&gt;&lt;strong&gt;Elen Irazabal&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Elen es abogada de profesión habiendo realizado la licenciatura en la Universidad de Deusto y especializada en tecnología desde su paso por la India. Habiendo cursado Big Data por Deusto Ingeniería, ya no entiende el derecho sin relacionarlo con el mundo del dato.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Elena Mateos&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Me llamo Elena, y hace algo menos de un año no sabía ni lo que era programar ni mucho menos conocía la existencia de Git o Github. Hoy trabajo como programadora front en BQ, y me apasiona lo que hago. Mi andadura empezó gracias al programa de Adalab, que me ayudó a formarme como programadora y encontrar un trabajo que me gusta mucho. A día de hoy trabajo constantemente con el control de versiones y desde el primer momento en que tuve noticia de lo que era me encantó. Espero que os guste el taller que tengo preparado y que veáis lo importante que es conocer esta herramienta y su uso. Y sobre todo que lo paséis bien y os quede muy claro todo!&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Recordamos que todas las personas participantes deberán seguir el Código de Conducta de PyLadies (&lt;a href=&#34;http://www.pyladies.com/CodeOfConduct/&#34;&gt;http://www.pyladies.com/CodeOfConduct/&lt;/a&gt;)&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Women Tech Communities @ Campus Madrid</title>
+            <link rel="alternate" href="/2018/03/05/women-tech-communities/" type="text/html" />
+            <id>/2018/03/05/women-tech-communities/</id>
+            <updated>2018-03-05T11:04:00Z</updated>
+
+            <summary type="html">¡¡Hola PyLadies!!</summary>
+            <content type="html">&lt;p&gt;¡¡Hola PyLadies!!&lt;/p&gt;
+
+&lt;p&gt;Con motivo del &amp;ldquo;International Women&amp;rsquo;s Day&amp;rdquo;, se va a celebrar en Campus Madrid un evento que reunirá a muchas de las comunidades tecnológicas de mujeres de Madrid.&lt;/p&gt;
+
+&lt;p&gt;Habrá mesas redondas, charlas y networking, y será una ocasión estupenda para conocer otras comunidades y compartir experiencias. ¡¡Esperamos verte por allí!! :)&lt;/p&gt;
+
+&lt;p&gt;La inscripción es a través de la web de Campus: &lt;a href=&#34;https://www.campus.co/madrid/es/events/ag1zfmd3ZWItY2FtcHVzckkLEgpDYW1wdXNOYW1lIgRSb290DAsSCkNhbXB1c05hbWUiBm1hZHJpZAwLEgdFdmVudFYyIhJhMmhmMTAwMDAwMFFqTHhBQUsM&#34;&gt;https://www.campus.co/madrid/es/events/ag1zfmd3ZWItY2FtcHVzckkLEgpDYW1wdXNOYW1lIgRSb290DAsSCkNhbXB1c05hbWUiBm1hZHJpZAwLEgdFdmVudFYyIhJhMmhmMTAwMDAwMFFqTHhBQUsM&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Para poder apuntarse es necesario que el email esté registrado como miembro de Campus Madrid. Si aún no lo sois, podéis hacerlo fácilmente desde este link: &lt;a href=&#34;https://www.campus.co/madrid/en/sign-up/&#34;&gt;https://www.campus.co/madrid/en/sign-up/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;¡¡Hasta pronto!!&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Procesamiento del Lenguaje Natural</title>
+            <link rel="alternate" href="/2018/02/27/procesamiento-lenguaje-natural/" type="text/html" />
+            <id>/2018/02/27/procesamiento-lenguaje-natural/</id>
+            <updated>2018-02-27T11:04:00Z</updated>
+
+            <summary type="html">¡¡Hola PyLadies!!</summary>
+            <content type="html">&lt;p&gt;¡¡Hola PyLadies!!&lt;/p&gt;
+
+&lt;p&gt;En el meetup de febrero aprenderemos sobre el mundo del Procesamiento del Lenguaje Natural (NLP, por sus siglas en inglés). Para ello, contaremos con dos ponentes expertas en este tema que nos hablarán de text mining y chatbots.&lt;/p&gt;
+
+&lt;p&gt;Al finalizar las charlas tendremos oportunidad de hablar entre nosotras y conocernos mejor, mientras disfrutamos de algo de picoteo cortesía de CARTO (¡gracias!).&lt;/p&gt;
+
+&lt;p&gt;¡Esperamos veros por allí!&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;&lt;h2&gt;&lt;strong&gt;¿Cómo funciona un chatbot? - &lt;a href=&#34;https://twitter.com/nimbusaeta&#34;&gt;Leticia Martin-Fuentes&lt;/a&gt;&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Nos adentraremos en la parte lingüística de los chatbots, la estructura básica común a todos los sistemas de natural language understanding (NLU) que tenemos a nuestra disposición: Dialogflow, Lex, LUIS, Watson, etc. que tanto están dando que hablar últimamente en el mundo del NLP.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Text Mining &amp;amp; NLP basics - &lt;a href=&#34;https://twitter.com/claudiaguirao&#34;&gt;Claudia Guirao&lt;/a&gt;&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Repasaremos las operaciones básicas sobre documentos, cómo tratar nuestros documentos, cómo extraer los features, clustering, etc. Aprovechando la reciente celebración de los premios Goya, emplearemos como corpus las sinopsis de las películas nominadas en las 32 ediciones del certamen, para tratar de encontrar correlaciones.
+Si queréis seguir en directo los pasos se recomienda tener instaladas las siguientes librerías y sus corpus: jupyter notebook, NLTK y scikitlearn. Liberaremos el notebook unos días antes.&lt;/p&gt;
+&lt;h1&gt;Sobre las ponentes&lt;/h1&gt;&lt;h2&gt;&lt;strong&gt;Leticia Martín-Fuertes&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Leticia es licenciada en Filología Clásica por la Universidad Autónoma de Madrid y trabaja como lingüista computacional en Bitext. Coorganiza charlas y talleres en Lingẅars y R-Ladies Madrid. Le encantan las ciencias y las letras, y no cree que haya que elegir entre una y otra en la vida.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Claudia Guirao&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Data scientist en Kernel Analytics, pylady, autodidacta y curiosa por naturaleza. Le gusta compartir pequeños proyectos laboratorio con el ánimo de animar a otros a explorar nuevas herramientas y poner al límite sus conocimientos.&lt;/p&gt;
+
+&lt;p&gt;Recordamos que todas las personas participantes deberán seguir el Código de Conducta de PyLadies (&lt;a href=&#34;http://www.pyladies.com/CodeOfConduct/&#34;&gt;http://www.pyladies.com/CodeOfConduct/&lt;/a&gt;)&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Dataframes y CARTOframes</title>
+            <link rel="alternate" href="/2018/01/17/dataframes-y-cartoframes/" type="text/html" />
+            <id>/2018/01/17/dataframes-y-cartoframes/</id>
+            <updated>2018-01-17T11:04:00Z</updated>
+
+            <summary type="html">¡¡Hola PyLadies!!</summary>
+            <content type="html">&lt;p&gt;¡¡Hola PyLadies!!&lt;/p&gt;
+
+&lt;p&gt;Con el comienzo de año queremos seguir aprendiendo de otras PyLadies y, aprovechando que CARTO ha liberado hace poco una librería específica para Python, hemos preparado una sesión dedicada al análisis de datos.&lt;/p&gt;
+
+&lt;p&gt;Hablaremos sobre pandas, la librería de referencia de Python para manejo de datos, y sobre CARTOframes, que extiende pandas para integrar las herramientas de CARTO en Python.&lt;/p&gt;
+
+&lt;p&gt;Al finalizar las charlas tendremos oportunidad de hablar entre nosotras y conocernos mejor, mientras disfrutamos de algo de picoteo cortesía de CARTO (¡gracias!).&lt;/p&gt;
+
+&lt;p&gt;¡Esperamos veros por allí!&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;&lt;h2&gt;&lt;strong&gt;CARTO &amp;lt;3 Python - &lt;a href=&#34;https://twitter.com/JimenaMramos&#34;&gt;Jimena Martínez&lt;/a&gt;&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Jimena nos explicará el uso de Python tanto en el stack tecnológico de CARTO, el SDK de Python y el día a día para ayudarles en soporte y preventa.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;pandas - &lt;a href=&#34;https://twitter.com/datalane&#34;&gt;Elena Tomás&lt;/a&gt;&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Elena nos hará una introducción a pandas y una demo en la que veremos las principales posibilidades que ofrece esta librería para gestionar y analizar datos tabulares en Python.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;CARTOframes - &lt;a href=&#34;https://twitter.com/rocknrollesque&#34;&gt;Alex Goicoechea&lt;/a&gt;&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Alex nos explicará y hará una demo sobre CARTOframes, que permite realizar análisis y visualizaciones dinámicas de datos espaciales en tu Jupyter notebook.&lt;/p&gt;
+&lt;h1&gt;Sobre las ponentes&lt;/h1&gt;&lt;h2&gt;&lt;strong&gt;Jimena Martínez&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Jimena is a Geomatics Engineer who has worked for different companies and organizations in technical and management roles. She started her PhD in 2011, which took her to The Netherlands where she had lots of fun researching about VGI, geodata integration, and geosemantics. Then, she moved to Newfoundland&amp;amp;Labrador, where she never finished her PhD but did other fun things. Before she joined CARTO in 2017 as a Sales Engineer, Jimena co-founded an Engineering firm and a tech NGO, to help spread the use of FOSS4G and maps in cultural and humanitarian projects. She is interested in climate and social justice activities, and she loves soccer and horses.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Elena Tomás&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Elena Tomás Herruzo works as Data Scientist at BBVA Data &amp;amp; Analytics. She holds a PhD in Physics of the Condensed Matter from Universidad Autónoma de Madrid. Before joining BBVA she was specialised in mathematical models for nano-mechanics. At BBVA Data &amp;amp; Analytics, she has worked in the creation of a large network of relationships between client and non-clients from both public and private records. Her recent research focuses on financial networks and complex systems, where she&amp;rsquo;s involved in projects related to the dynamics of contagion processes in corporate networks. It’s mainly focused on helping BBVA to add relational data and graph analytics tools to their Risk, Fraud and AML analytics to improve the model performance.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Alex Goicoechea&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Born in Caracas and raised between Orlando and Miami, technology sparked her curiosity since she first heard the dial-up modem squeal.
+Now she satisfies her curiosity every day working as a fullstack developer at CARTO where she describes the technology as “complex and challenging in the most satisfying way”. To her, the main asset of the company is definitely the team “they are the nicest most brilliant brilliant people I’ve ever worked with, I never thought it was possible to learn so much every day”.
+In her spare time she likes to work on small side projects and to take care of her tiny kittens.&lt;/p&gt;
+
+&lt;p&gt;Recordamos que todas las personas participantes deberán seguir el Código de Conducta de PyLadies (&lt;a href=&#34;http://www.pyladies.com/CodeOfConduct/&#34;&gt;http://www.pyladies.com/CodeOfConduct/&lt;/a&gt;)&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Pubquiz navideño R-Ladies + PyLadies + OSWeekends + HaskellMAD</title>
+            <link rel="alternate" href="/2017/12/05/pubquizz-navideno-rladies-pyladies-osweekends-haskellmad/" type="text/html" />
+            <id>/2017/12/05/pubquizz-navideno-rladies-pyladies-osweekends-haskellmad/</id>
+            <updated>2017-12-05T11:04:00Z</updated>
+
+            <summary type="html">¡¡Hola de nuevo, PyLadies!!</summary>
+            <content type="html">&lt;p&gt;¡¡Hola de nuevo, PyLadies!!&lt;/p&gt;
+
+&lt;p&gt;Las chicas de R-Ladies nos han propuesto participar en un pubquiz (&lt;a href=&#34;https://en.wikipedia.org/wiki/Pub_quiz&#34;&gt;https://en.wikipedia.org/wiki/Pub_quiz&lt;/a&gt;) navideño junto con otras comunidades tecnológicas de Madrid. ¡¡Por supuesto nos hemos apuntado!! Nos parece un planazo, seguro que lo pasaremos genial todas juntas.&lt;/p&gt;
+
+&lt;p&gt;Podéis leer toda la información más abajo. Tenemos 10 plazas para PyLadies y es súper importante que no te apuntes hasta que estés totalmente segura de que vas a poder venir, y que canceles lo antes posible si te surge algún imprevisto. Si falta gente que estaba apuntada, se descuadrarán los grupos y lo sufriremos tod@s :( Así que si das a RSPV, tenlo claro: ¡¡¡contamos contigo a muerte!!!&lt;/p&gt;
+&lt;h1&gt;Comunidades participantes&lt;/h1&gt;
+&lt;p&gt;• &lt;strong&gt;R-Ladies&lt;/strong&gt; ( &lt;a href=&#34;https://www.meetup.com/es-ES/rladies-madrid/&#34;&gt;https://www.meetup.com/es-ES/rladies-madrid/&lt;/a&gt; )&lt;/p&gt;
+
+&lt;p&gt;• &lt;strong&gt;PyLadies&lt;/strong&gt; ( &lt;a href=&#34;https://www.meetup.com/es-ES/PyLadiesMadrid/&#34;&gt;https://www.meetup.com/es-ES/PyLadiesMadrid/&lt;/a&gt; )&lt;/p&gt;
+
+&lt;p&gt;• &lt;strong&gt;Open Source Weekends&lt;/strong&gt; ( &lt;a href=&#34;https://www.meetup.com/es-ES/Open-Source-Weekends/&#34;&gt;https://www.meetup.com/es-ES/Open-Source-Weekends/&lt;/a&gt; )&lt;/p&gt;
+
+&lt;p&gt;• &lt;strong&gt;Madrid Haskell Users Group&lt;/strong&gt; ( &lt;a href=&#34;https://www.meetup.com/es-ES/Haskell-MAD/&#34;&gt;https://www.meetup.com/es-ES/Haskell-MAD/&lt;/a&gt; )&lt;/p&gt;
+&lt;h1&gt;Equipos&lt;/h1&gt;
+&lt;p&gt;Se harán equipos (lo más igualados posible en cuestión de comunidades y tecnologías). Cada equipo tiene que tener un nombre (que eligen sus integrantes) y lo ponen en su papel de respuestas.&lt;/p&gt;
+&lt;h1&gt;Preguntas y respuestas&lt;/h1&gt;
+&lt;p&gt;Las preguntas se dirán por megafonía y se contestarán en un papel. Cada pregunta tendrá una respuesta única. El tema de las preguntas es tecnología (lenguajes, etc.) o preguntas sobre la comunidad.&lt;/p&gt;
+&lt;h1&gt;Ganador&lt;/h1&gt;
+&lt;p&gt;El equipo con más respuestas correctas será el ganador.&lt;/p&gt;
+&lt;h1&gt;Normas&lt;/h1&gt;
+&lt;p&gt;No se puede consultar la respuesta por internet. Seamos legales, ¡vamos a pasarlo bien!&lt;/p&gt;
+&lt;h1&gt;Entradas&lt;/h1&gt;
+&lt;p&gt;Cada comunidad contará con 10 entradas, para que estén equilibrados entre los participantes los conocimientos técnicos.&lt;/p&gt;
+&lt;h1&gt;Asistencia&lt;/h1&gt;
+&lt;p&gt;Por favor, si no te apuntas y luego ves que no vas a poder venir, ¡libera tu plaza! Por muy poco tiempo que quede para el evento. En este meetup es especialmente importante para que los equipos puedan estar equilibrados. ¡Gracias!&lt;/p&gt;
+
+&lt;p&gt;** Disclaimer: ¡sintiéndolo mucho no contamos con ayuda económica así que cada uno se tendrá que pagar las consumiciones que tome! ¡Gracias!&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Música y Orquestadores con Python</title>
+            <link rel="alternate" href="/2017/12/04/musica-orquestadores-python/" type="text/html" />
+            <id>/2017/12/04/musica-orquestadores-python/</id>
+            <updated>2017-12-04T11:04:00Z</updated>
+
+            <summary type="html">¡Hola, PyLadies!</summary>
+            <content type="html">&lt;p&gt;¡Hola, PyLadies!&lt;/p&gt;
+
+&lt;p&gt;Casi sobre la bocina, os presentamos el último meetup que vamos a tener este año. Las PyLadies Yamila Moreno y Bea Hernández nos presentarán dos casos muy distintos para los que se puede usar Python, para que vayamos siendo conscientes de todas las posibilidades de este lenguaje de programación.&lt;/p&gt;
+
+&lt;p&gt;Nos vemos el lunes 4 de diciembre en la 1ª planta de la cafetería de Campus Madrid. ¡¡¡No faltes!!! ;)&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;&lt;h2&gt;&lt;strong&gt;Desplegando aplicaciones Django en Swarm - &lt;a href=&#34;https://moduslaborandi.net/&#34;&gt;Yamila Moreno&lt;/a&gt;&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;El mundo de los orquestadores está en un momento de auge; cada vez en más sitios reclaman conocimientos de devops, para atender a los nuevos retos, de escala global, a los que se enfrentan nuestros servicios.
+Junto al conocimiento de todo el ecosistema de nuevas herramientas (Docker, Kubernetes, Swarm&amp;hellip;), hace falta también revisitar la forma que damos a nuestras aplicaciones, para que puedan ser fácilmente desplegables. La filosofía de los microservicios, con sus luces y sombras, ayuda a que hagamos aplicaciones bien encapsuladas y que se pueden poner en producción de forma más ágil y limpia.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Magenta es un color especial - Bea Hernández&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Introducción a las RNN con música gracias a Magenta, la librería de TensorFlow para crear música con redes neuronales. Daremos un repaso, desde su instalación hasta entrenar un modelo.&lt;/p&gt;
+&lt;h1&gt;Sobre las ponentes&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Yamila Moreno&lt;/strong&gt; se licenció en Teoría de la Literatura y Literatura Comparada. Un día, cayó en sus manos una Knoppix y poco después estaba programando. Fue cuestión de tiempo que se empezara a involucrar con Python y con el Open Source, como afición y como profesión.
+En los últimos 5 años, ha co-fundado Kaleidos y ha sido un miembro muy activo de la comunidad Open Source: ha co-fundado la Asociación Python España, fundó PyLadies España, y ha organizado conferencias internacionales así como talleres locales dirigidos a grupos infrarrepresentados. En su tiempo libre entrena a su drone para, algún día, dominar el mundo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bea Hernández&lt;/strong&gt; es Data Scientist en DatMean, donde trabaja con tecnologías Deep Learning y visualización de datos aplicado a la publicidad online.
+En su tiempo libre co-organiza R-Ladies Madrid, una rama local de la comunidad global de R en la que se fomenta la diversidad de género en los campos STEM y en concreto en la comunidad de R.&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>¿Por qué Python mola tanto?</title>
+            <link rel="alternate" href="/2017/10/19/por-que-python-mola-tanto/" type="text/html" />
+            <id>/2017/10/19/por-que-python-mola-tanto/</id>
+            <updated>2017-10-19T11:04:00Z</updated>
+
+            <summary type="html">¡¡Hola PyLadies!!</summary>
+            <content type="html">&lt;p&gt;¡¡Hola PyLadies!!&lt;/p&gt;
+
+&lt;p&gt;La vuelta al cole ha sido bastante ajetreada este año porque ha coincidido con la PyConES 2017 (&lt;a href=&#34;https://2017.es.pycon.org/es/&#34;&gt;https://2017.es.pycon.org/es/&lt;/a&gt;), la conferencia nacional sobre nuestro amado lenguaje. Pero una vez superada la resaca, ¡¡volvemos con las pilas llenas y con muchas ganas de veros de nuevo a todas!!&lt;/p&gt;
+
+&lt;p&gt;En esta ocasión, nos vemos en las fantásticas oficinas de nuestros amigos de CARTO (&lt;a href=&#34;https://carto.com/&#34;&gt;https://carto.com/&lt;/a&gt;), donde Alicia Pérez e Irene Pérez nos harán un repaso de características que hacen a este lenguaje único y especial. ¡Seguro que hay alguna cosa que aún no conoces, así que no te lo puedes perder!&lt;/p&gt;
+
+&lt;p&gt;Al finalizar las charlas tendremos algo de picoteo cortesía de CARTO (¡gracias!). Así tendremos oportunidad de hablar entre nosotras y conocernos mejor.&lt;/p&gt;
+
+&lt;p&gt;¡Esperamos veros por allí!&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;&lt;h2&gt;&lt;strong&gt;Beautiful Python - &lt;a href=&#34;https://twitter.com/alipeji&#34;&gt;Alicia Pérez&lt;/a&gt;&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Cuando empecé a programar en Python me llamó la atención que uno de los valores del Zen de Python es escribir código bonito y expresivo&amp;hellip; tanto que tiene su propio nombre: Código Pythonico.
+En esta charla veremos con detalle algunas de las construcciones más pythonicas y las posibilidades de expresar de forma clara, concisa y elegante cosas que en otros lenguajes nos obligarían a dar muchos rodeos.
+A veces es fácil olvidar algunos recursos como que una función puede devolver varios valores, cómo manipular listas y diccionarios de forma sencilla, contextos, generadores&amp;hellip; En esta charla veremos de forma entretenida y práctica cómo mejorar nuestro nivel de Python &amp;ldquo;nativo&amp;rdquo;.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Python a través de un ejemplo - &lt;a href=&#34;https://twitter.com/irenuchi&#34;&gt;Irene Pérez Encinar&lt;/a&gt;&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Cuando aprendemos Python, nos encontramos que tiene un montón de características molonas, pero a veces cuesta ver cómo usarlas a la hora de programar. En esta charla iremos construyendo un programa sencillo en el que aplicaremos algunas de esas características, obteniendo un código la mar de elegante.&lt;/p&gt;
+&lt;h1&gt;Sobre las ponentes&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Alicia Pérez&lt;/strong&gt; trabaja como backend developer en StyleSage, donde utiliza Python como herramienta principal para extraer y procesar enormes de cantidades de datos obtenidas de múltiples webs y redes sociales, y así preparar la base para la mejor herramienta de analíticas relacionadas con el mundo de la moda.
+Estudió ingeniería informática en la Universidad Complutense de Madrid y durante muchos años ha trabajado ligada a los sistemas de información geográficos (GIS), especialmente en la parte de geoprocesamiento de información.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Irene Pérez Encinar&lt;/strong&gt; es una apasionada de la programación y de la educación, pero sobre todo, de aprender cosas nuevas. Estudió Telecomunicaciones en la Universidad Carlos III de Madrid para luego realizar un Máster en Informática en la misma universidad. Como pensaba que no había tocado suficientes palos aún, empezó un doctorado en robótica, el cual dejó para meterse en el mundillo del desarrollo de software. Actualmente es programadora back en Intelygenz, donde trabaja con distintos lenguajes, siendo Python su favorito. Le encanta &amp;ldquo;cacharrear&amp;rdquo; en su tiempo libre, compartir conocimientos y aportar su granito de arena para que la tecnología ayude a las personas.&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Taller de comunicación: pasos para ser una ponente de 10</title>
+            <link rel="alternate" href="/2017/06/08/taller-comunicacion-ponente-10/" type="text/html" />
+            <id>/2017/06/08/taller-comunicacion-ponente-10/</id>
+            <updated>2017-06-08T11:04:00Z</updated>
+
+            <summary type="html">¡Hola PyLadies!</summary>
+            <content type="html">&lt;p&gt;¡Hola PyLadies!&lt;/p&gt;
+
+&lt;p&gt;Tras la buena acogida que tuvo el meetup de presentación, no nos cabe ninguna duda de que esta comunidad va a ser súper activa, y estamos muy emocionadas. ¡Gracias por formar parte de ella y hacer que sea posible! ^^&lt;/p&gt;
+
+&lt;p&gt;A raíz de algunas conversaciones que tuvimos durante la primera reunión, nos hemos dado cuenta de que el tema de hablar en público es una tarea pendiente para muchas de nosotras.&lt;/p&gt;
+
+&lt;p&gt;¿Te gustaría expresar mejor tus ideas en reuniones de trabajo? ¿Te cuesta hacer exposiciones en público? ¿No se te ocurren temas sobre los que puedas contribuir a la comunidad Python? ¡No te preocupes! Todo eso se puede trabajar y mejorar.&lt;/p&gt;
+
+&lt;p&gt;Este meetup va a ser una charla-taller de comunicación que nos ayude a pulir todas estas cosas. Además, aprovechando que está abierto el call for papers de la PyConES (&lt;a href=&#34;https://2017.es.pycon.org/&#34;&gt;https://2017.es.pycon.org/&lt;/a&gt;), la conferencia nacional de Python, la parte práctica girará en torno a este fantástico lenguaje ;)&lt;/p&gt;
+
+&lt;p&gt;¡Esperamos veros por allí! Y si conocéis a alguien a quien le pueda interesar y que aún no conozca este grupo, no dudéis en decírselo.&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;&lt;h2&gt;&lt;strong&gt;Taller de comunicación - María Gil (19:45)&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Durante esta charla-taller analizaremos cuáles son las razones por las que muchas personas se sienten incapaces de hablar en público, y veremos cómo afrontar y superar estos miedos, para que nada nos aleje de nuestros objetivos profesionales ni personales.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Ideas y trucos para hacer tu charla - Laura Morillo (20:30)&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Preparar una charla no es una tarea fácil, pero tampoco es una tarea tan difícil o aterradora como podemos pensar en un principio. En esta charla repasaremos algunas ideas, trucos y consejos que nos ayudarán a darle forma a nuestra idea y a llevar a cabo una presentación con la que perdamos el miedo a subirnos al escenario.&lt;/p&gt;
+&lt;h1&gt;Sobre nuestras ponentes&lt;/h1&gt;&lt;h2&gt;&lt;strong&gt;María Gil&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Soy periodista y me he dedicado toda la vida contar historias. Storytelling, lo llaman ahora. Lo he hecho para aprender, por diversión, por curiosidad y siempre como una pasión. Durante muchos años fui reportera en varias televisiones públicas y privadas hablando de todo un poco: Cultura, Economía, Política, Sociedad&amp;hellip; Hace algunos años un ERE salvaje me puso en otro camino sin haberlo previsto. Así que ahora me dedico (con el mismo entusiasmo) a la comunicación corporativa y digital (eso es también contar historias, ¿no?) Lo mismo creo el contenido para una web que para una presentación o un evento. Desde hace dos años, cuido de la Cultura, las redes, los blogs, las relaciones públicas y los contenidos de ETS Asset Management Factory. Amo la palabra y me encanta relacionarme con personas.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;&lt;a href=&#34;https://twitter.com/Laura_Morillo&#34;&gt;Laura Morillo&lt;/a&gt;&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Backend Engineer en seedtag. He peleado con muchas tecnologías desde C++ a Javascript ¡ahora le estoy ganando la batalla a los servidores también! En mi tiempo libre además organizo meetups para el GDG Madrid, donde llevo el papel de Women Techmaker Lead y para grupos en los que promuevo la mayor participación de las mujeres en tecnología (AgileGirls y Tech&amp;amp;Ladies)&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Primera Reunión</title>
+            <link rel="alternate" href="/2017/05/17/primera-reunion-pyladies/" type="text/html" />
+            <id>/2017/05/17/primera-reunion-pyladies/</id>
+            <updated>2017-05-17T11:04:00Z</updated>
+
+            <summary type="html">¡Hola PyLadies!</summary>
+            <content type="html">&lt;p&gt;¡Hola PyLadies!&lt;/p&gt;
+
+&lt;p&gt;Os convocamos al primer evento del grupo en el que podremos disfrutar de dos ponentes excepcionales y muy conocidas en la comunidad tecnológica, Cristina Aranda y Yamila Moreno.&lt;/p&gt;
+
+&lt;p&gt;En este primer evento nos gustaría conocernos, establecer las bases del grupo y motivarnos para conseguir cada vez mayor presencia de mujeres en el mundo de la tecnología y en las comunidades Python y open source.&lt;/p&gt;
+
+&lt;p&gt;¡Te esperamos!&lt;/p&gt;
+&lt;h1&gt;Agenda&lt;/h1&gt;&lt;h2&gt;&lt;strong&gt;Hackeemos el unconscious bias - &lt;a href=&#34;https://twitter.com/cris_aranda_&#34;&gt;Cristina Aranda&lt;/a&gt;&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Charla en la que analizaremos por qué hay tan pocas mujeres en tecnología, y cómo podemos entre todos cambiar las cosas para que tengamos más compañeras y mostremos en público nuestros superpoderes.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Full Stack PyLady - &lt;a href=&#34;http://moduslaborandi.net&#34;&gt;Yamila Moreno&lt;/a&gt;&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Charla en la que nos contará, cómo, siendo intrusa total, entró en el mundillo del desarrollo, cuáles fueron sus armas y sus apoyos, y nos hablará de las comunidades tecnológicas y cómo ser parte de ellas sin morir en el intento.&lt;/p&gt;
+
+&lt;p&gt;Por último, tendremos un espacio para conocernos y hacer networking mientras disfrutamos de un pequeño picoteo patrocinado por la Asociación de Python España (&lt;a href=&#34;https://www.es.python.org/&#34;&gt;https://www.es.python.org/&lt;/a&gt;).&lt;/p&gt;
+&lt;h1&gt;Nuestras ponentes:&lt;/h1&gt;&lt;h2&gt;&lt;strong&gt;Cristina Aranda&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Cristina Aranda es Chief Marketing Officer en Intelygenz, empresa dedicada al desarrollo de Software ágil y de calidad con sedes en Madrid y San Francisco. Cristina tiene más de 16 años de experiencia en marketing y transformación digital. Ha colaborado con empresas del Ibex35, Top500 y Pymes.&lt;/p&gt;
+
+&lt;p&gt;Cristina es además cofundadora de MujeresTech, una asociación sin ánimo de lucro que tiene por objetivo promover iniciativas para aumentar la presencia femenina en el sector digital, y, al mismo tiempo, establecer lazos con hombres dispuestos a generar las mismas posibilidades al talento femenino. Aranda es Social Innovation Fellow del Meridian Intl. Center y la Embajada de EE.UU. en Madrid, miembro del comité de Mujeres Líderes de América y del Comité de Expertos de Empresas de Base Tecnológica, Startups y Talento de la Comunidad de Madrid.&lt;/p&gt;
+
+&lt;p&gt;Cristina es una apasionada de la lingüística aplicada a la tecnología, en especial, la empleada en machine learning. Es doctora en Lingüística Teórica y Aplicada por la UAM y el IUI Ortega y Gasset, licenciada en Filología Hispánica por la UAM y cuenta con un Máster en Internet Business por el ISDI.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Yamila Moreno&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Yamila Moreno se licenció en Teoría de la Literatura y Literatura Comparada. Un día, cayó en sus manos una Knoppix y poco después estaba programando. Fue cuestión de tiempo que se empezara a involucrar con Python y con el Open Source, como afición y como profesión.&lt;/p&gt;
+
+&lt;p&gt;En los últimos 5 años, ha co-fundado Kaleidos y ha sido un miembro muy activo de la comunidad Open Source: ha co-fundado la Asociación Python España, fundó PyLadies España, y ha organizado conferencias internacionales así como talleres locales dirigidos a grupos infrarrepresentados. En su tiempo libre entrena a su drone para, algún día, dominar el mundo.&lt;/p&gt;
 </content>
         </entry>
     
