@@ -5,7 +5,7 @@
     <link rel="alternate" href="/" />
     <link rel="self" href="/feed.xml" type="application/atom+xml" />
     <id>/</id>
-    <updated>2020-11-12T11:04:54Z</updated>
+    <updated>2020-11-12T11:05:18Z</updated>
 
     <author>
         <name>PyLadies Madrid</name>
@@ -18,7 +18,7 @@
             <title>Hacktoberfest 2020</title>
             <link rel="alternate" href="/2020/10/01/hacktoberfest/" type="text/html" />
             <id>/2020/10/01/hacktoberfest/</id>
-            <updated>2020-10-01T11:04:00Z</updated>
+            <updated>2020-10-01T11:05:00Z</updated>
 
             <summary type="html">Estos son los proyectos que proponemos para el hacktoberfest de este año.
 Trabajaremos en grupo entre las PyLadies que se apunten a cada uno y nos organizaremos a través de Discord.
@@ -112,7 +112,7 @@ Hay muchas cosas en las que puedes contribuir:&lt;/p&gt;
             <title>Análisis de datos con Pandas</title>
             <link rel="alternate" href="/2020/02/16/taller-pandas/" type="text/html" />
             <id>/2020/02/16/taller-pandas/</id>
-            <updated>2020-02-16T11:04:00Z</updated>
+            <updated>2020-02-16T11:05:00Z</updated>
 
             <summary type="html">¡¡Hola, PyLadies!!</summary>
             <content type="html">&lt;p&gt;¡¡Hola, PyLadies!!&lt;/p&gt;
@@ -161,7 +161,7 @@ repos de github:
             <title>PyLadies &amp; Open Source Weekends</title>
             <link rel="alternate" href="/2019/12/04/presentacion-pyladies-ows/" type="text/html" />
             <id>/2019/12/04/presentacion-pyladies-ows/</id>
-            <updated>2019-12-04T11:04:00Z</updated>
+            <updated>2019-12-04T11:05:00Z</updated>
 
             <summary type="html">El pasado sábado 14 de diciembre nuestros amigos de Open Source Weekends nos 
 invitaron al eventazo que celebran todos los meses en Google for Startups&amp;hellip;</summary>
@@ -182,7 +182,7 @@ lo bien que nos trataron durante el evento.&lt;/p&gt;
             <title>Pubquiz navideño 2019 🍻🎄</title>
             <link rel="alternate" href="/2019/12/04/pubquiz-navidenio/" type="text/html" />
             <id>/2019/12/04/pubquiz-navidenio/</id>
-            <updated>2019-12-04T11:04:00Z</updated>
+            <updated>2019-12-04T11:05:00Z</updated>
 
             <summary type="html">¡¡Hola de nuevo, PyLadies!!</summary>
             <content type="html">&lt;p&gt;¡¡Hola de nuevo, PyLadies!!&lt;/p&gt;
@@ -227,7 +227,7 @@ Como es natural, solo participarán aquellas personas que traigan un libro para 
             <title>Scrapy, ¡hazte con todos (los datos)!</title>
             <link rel="alternate" href="/2019/11/16/scrapy-hazte-con-todos-los-datos/" type="text/html" />
             <id>/2019/11/16/scrapy-hazte-con-todos-los-datos/</id>
-            <updated>2019-11-16T11:04:00Z</updated>
+            <updated>2019-11-16T11:05:00Z</updated>
 
             <summary type="html">¡¡Hola, PyLadies!!</summary>
             <content type="html">&lt;p&gt;¡¡Hola, PyLadies!!&lt;/p&gt;
@@ -272,7 +272,7 @@ Así que ya sabes entrenador, pon a punto tu ordenador ¡Y que comience la captu
             <title>Katayuno para todos los niveles</title>
             <link rel="alternate" href="/2019/10/20/katayuno-todos-niveles/" type="text/html" />
             <id>/2019/10/20/katayuno-todos-niveles/</id>
-            <updated>2019-10-20T11:04:00Z</updated>
+            <updated>2019-10-20T11:05:00Z</updated>
 
             <summary type="html">¡¡Hola, PyLadies!!</summary>
             <content type="html">&lt;p&gt;¡¡Hola, PyLadies!!&lt;/p&gt;
@@ -313,7 +313,7 @@ Así que ya sabes entrenador, pon a punto tu ordenador ¡Y que comience la captu
             <title>🎉 Fiesta de Inicio de Curso PyLadies 2019-2020 🎉</title>
             <link rel="alternate" href="/2019/09/29/fiesta-inicio-curso/" type="text/html" />
             <id>/2019/09/29/fiesta-inicio-curso/</id>
-            <updated>2019-09-29T11:04:00Z</updated>
+            <updated>2019-09-29T11:05:00Z</updated>
 
             <summary type="html">¡¡¡Atención, PyLadies, arrancamos los motores!!! 📢</summary>
             <content type="html">&lt;p&gt;¡¡¡Atención, PyLadies, arrancamos los motores!!! 📢&lt;/p&gt;
@@ -391,7 +391,7 @@ que saques tu entrada (gratuita) aquí:
             <title>Más allá de Python</title>
             <link rel="alternate" href="/2019/06/18/mas-alla-de-python/" type="text/html" />
             <id>/2019/06/18/mas-alla-de-python/</id>
-            <updated>2019-06-18T11:04:00Z</updated>
+            <updated>2019-06-18T11:05:00Z</updated>
 
             <summary type="html">¡¡Hola PyLadies!!</summary>
             <content type="html">&lt;p&gt;¡¡Hola PyLadies!!&lt;/p&gt;
@@ -416,7 +416,7 @@ que saques tu entrada (gratuita) aquí:
             <title>AWSSummit con RLadies y WiMLDS</title>
             <link rel="alternate" href="/2019/05/07/awssummit-rladies-wimlds/" type="text/html" />
             <id>/2019/05/07/awssummit-rladies-wimlds/</id>
-            <updated>2019-05-07T11:04:00Z</updated>
+            <updated>2019-05-07T11:05:00Z</updated>
 
             <summary type="html">Hola PyLadies!</summary>
             <content type="html">&lt;p&gt;Hola PyLadies!&lt;/p&gt;
@@ -476,7 +476,7 @@ Meetup time: 17:15 – 19:00&lt;/p&gt;
             <title>Katas para todos los niveles</title>
             <link rel="alternate" href="/2019/04/27/katas-para-todos-los-niveles/" type="text/html" />
             <id>/2019/04/27/katas-para-todos-los-niveles/</id>
-            <updated>2019-04-27T11:04:00Z</updated>
+            <updated>2019-04-27T11:05:00Z</updated>
 
             <summary type="html">¡¡Hola, PyLadies!!</summary>
             <content type="html">&lt;p&gt;¡¡Hola, PyLadies!!&lt;/p&gt;
@@ -497,7 +497,7 @@ Meetup time: 17:15 – 19:00&lt;/p&gt;
             <title>Python en Clarity.ai: casos de uso</title>
             <link rel="alternate" href="/2019/03/27/python-en-clarityai-casos-de-uso/" type="text/html" />
             <id>/2019/03/27/python-en-clarityai-casos-de-uso/</id>
-            <updated>2019-03-27T11:04:00Z</updated>
+            <updated>2019-03-27T11:05:00Z</updated>
 
             <summary type="html">¡¡Hola, PyLadies!!</summary>
             <content type="html">&lt;p&gt;¡¡Hola, PyLadies!!&lt;/p&gt;
@@ -534,7 +534,7 @@ Meetup time: 17:15 – 19:00&lt;/p&gt;
             <title>Understanding the common and discovering the uncommon</title>
             <link rel="alternate" href="/2019/02/20/understanding-the-common-discovering-the-uncommon/" type="text/html" />
             <id>/2019/02/20/understanding-the-common-discovering-the-uncommon/</id>
-            <updated>2019-02-20T11:04:00Z</updated>
+            <updated>2019-02-20T11:05:00Z</updated>
 
             <summary type="html">¡¡Atención, PyLadies, notición!!</summary>
             <content type="html">&lt;p&gt;¡¡Atención, PyLadies, notición!!&lt;/p&gt;
@@ -568,7 +568,7 @@ Naomi también es autora de Quick Python Book, 3rd Ed, y ha enseñado Python a d
             <title>Redes Neuronales en Python</title>
             <link rel="alternate" href="/2019/01/24/redes-neuronales-en-python/" type="text/html" />
             <id>/2019/01/24/redes-neuronales-en-python/</id>
-            <updated>2019-01-24T11:04:00Z</updated>
+            <updated>2019-01-24T11:05:00Z</updated>
 
             <summary type="html">¡¡Hola PyLadies!!</summary>
             <content type="html">&lt;p&gt;¡¡Hola PyLadies!!&lt;/p&gt;
@@ -597,7 +597,7 @@ Naomi también es autora de Quick Python Book, 3rd Ed, y ha enseñado Python a d
             <title>Pubquiz navideño 🍻🎄 R-Ladies + PyLadies + WiMLDS Madrid</title>
             <link rel="alternate" href="/2018/12/12/pubquizz-navideno-rladies-pyladies-wimldsmadrid/" type="text/html" />
             <id>/2018/12/12/pubquizz-navideno-rladies-pyladies-wimldsmadrid/</id>
-            <updated>2018-12-12T11:04:00Z</updated>
+            <updated>2018-12-12T11:05:00Z</updated>
 
             <summary type="html">¡¡Hola de nuevo, PyLadies!!</summary>
             <content type="html">&lt;p&gt;¡¡Hola de nuevo, PyLadies!!&lt;/p&gt;
@@ -634,7 +634,7 @@ Naomi también es autora de Quick Python Book, 3rd Ed, y ha enseñado Python a d
             <title>McKinsey &amp; Data Science: Casos de uso</title>
             <link rel="alternate" href="/2018/11/07/mckinsey-data-science-casos-de-uso/" type="text/html" />
             <id>/2018/11/07/mckinsey-data-science-casos-de-uso/</id>
-            <updated>2018-11-07T11:04:00Z</updated>
+            <updated>2018-11-07T11:05:00Z</updated>
 
             
             <content type="html">&lt;h1&gt;Agenda&lt;/h1&gt;
@@ -660,7 +660,7 @@ Naomi también es autora de Quick Python Book, 3rd Ed, y ha enseñado Python a d
             <title>PyConES is coming</title>
             <link rel="alternate" href="/2018/09/18/pycones-is-coming/" type="text/html" />
             <id>/2018/09/18/pycones-is-coming/</id>
-            <updated>2018-09-18T11:04:00Z</updated>
+            <updated>2018-09-18T11:05:00Z</updated>
 
             <summary type="html">¡¡¡Hola PyLadies!!!</summary>
             <content type="html">&lt;p&gt;¡¡¡Hola PyLadies!!!&lt;/p&gt;
@@ -691,7 +691,7 @@ María es co-organizadora de PyLadies Madrid y trabaja como Data Scientist en Pi
             <title>Fiesta de Fin de Curso PyLadies</title>
             <link rel="alternate" href="/2018/06/16/fiesta-fin-de-curso-pyladies/" type="text/html" />
             <id>/2018/06/16/fiesta-fin-de-curso-pyladies/</id>
-            <updated>2018-06-16T11:04:00Z</updated>
+            <updated>2018-06-16T11:05:00Z</updated>
 
             <summary type="html">¡¡¡Atención, PyLadies, notición!!! 📢</summary>
             <content type="html">&lt;p&gt;¡¡¡Atención, PyLadies, notición!!! 📢&lt;/p&gt;
@@ -765,7 +765,7 @@ que saques tu entrada aquí:
             <title>Desarrollo open source</title>
             <link rel="alternate" href="/2018/04/19/desarrollo-open-source/" type="text/html" />
             <id>/2018/04/19/desarrollo-open-source/</id>
-            <updated>2018-04-19T11:04:00Z</updated>
+            <updated>2018-04-19T11:05:00Z</updated>
 
             <summary type="html">Hola PyLadies,</summary>
             <content type="html">&lt;p&gt;Hola PyLadies,&lt;/p&gt;
@@ -792,7 +792,7 @@ que saques tu entrada aquí:
             <title>Women Tech Communities @ Campus Madrid</title>
             <link rel="alternate" href="/2018/03/05/women-tech-communities/" type="text/html" />
             <id>/2018/03/05/women-tech-communities/</id>
-            <updated>2018-03-05T11:04:00Z</updated>
+            <updated>2018-03-05T11:05:00Z</updated>
 
             <summary type="html">¡¡Hola PyLadies!!</summary>
             <content type="html">&lt;p&gt;¡¡Hola PyLadies!!&lt;/p&gt;
@@ -813,7 +813,7 @@ que saques tu entrada aquí:
             <title>Procesamiento del Lenguaje Natural</title>
             <link rel="alternate" href="/2018/02/27/procesamiento-lenguaje-natural/" type="text/html" />
             <id>/2018/02/27/procesamiento-lenguaje-natural/</id>
-            <updated>2018-02-27T11:04:00Z</updated>
+            <updated>2018-02-27T11:05:00Z</updated>
 
             <summary type="html">¡¡Hola PyLadies!!</summary>
             <content type="html">&lt;p&gt;¡¡Hola PyLadies!!&lt;/p&gt;
@@ -841,7 +841,7 @@ Si queréis seguir en directo los pasos se recomienda tener instaladas las sigui
             <title>Dataframes y CARTOframes</title>
             <link rel="alternate" href="/2018/01/17/dataframes-y-cartoframes/" type="text/html" />
             <id>/2018/01/17/dataframes-y-cartoframes/</id>
-            <updated>2018-01-17T11:04:00Z</updated>
+            <updated>2018-01-17T11:05:00Z</updated>
 
             <summary type="html">¡¡Hola PyLadies!!</summary>
             <content type="html">&lt;p&gt;¡¡Hola PyLadies!!&lt;/p&gt;
@@ -876,7 +876,7 @@ In her spare time she likes to work on small side projects and to take care of h
             <title>Pubquiz navideño R-Ladies + PyLadies + OSWeekends + HaskellMAD</title>
             <link rel="alternate" href="/2017/12/05/pubquizz-navideno-rladies-pyladies-osweekends-haskellmad/" type="text/html" />
             <id>/2017/12/05/pubquizz-navideno-rladies-pyladies-osweekends-haskellmad/</id>
-            <updated>2017-12-05T11:04:00Z</updated>
+            <updated>2017-12-05T11:05:00Z</updated>
 
             <summary type="html">¡¡Hola de nuevo, PyLadies!!</summary>
             <content type="html">&lt;p&gt;¡¡Hola de nuevo, PyLadies!!&lt;/p&gt;
@@ -913,7 +913,7 @@ In her spare time she likes to work on small side projects and to take care of h
             <title>Música y Orquestadores con Python</title>
             <link rel="alternate" href="/2017/12/04/musica-orquestadores-python/" type="text/html" />
             <id>/2017/12/04/musica-orquestadores-python/</id>
-            <updated>2017-12-04T11:04:00Z</updated>
+            <updated>2017-12-04T11:05:00Z</updated>
 
             <summary type="html">¡Hola, PyLadies!</summary>
             <content type="html">&lt;p&gt;¡Hola, PyLadies!&lt;/p&gt;
@@ -939,7 +939,7 @@ En su tiempo libre co-organiza R-Ladies Madrid, una rama local de la comunidad g
             <title>¿Por qué Python mola tanto?</title>
             <link rel="alternate" href="/2017/10/19/por-que-python-mola-tanto/" type="text/html" />
             <id>/2017/10/19/por-que-python-mola-tanto/</id>
-            <updated>2017-10-19T11:04:00Z</updated>
+            <updated>2017-10-19T11:05:00Z</updated>
 
             <summary type="html">¡¡Hola PyLadies!!</summary>
             <content type="html">&lt;p&gt;¡¡Hola PyLadies!!&lt;/p&gt;
@@ -969,7 +969,7 @@ Estudió ingeniería informática en la Universidad Complutense de Madrid y dura
             <title>Taller de comunicación: pasos para ser una ponente de 10</title>
             <link rel="alternate" href="/2017/06/08/taller-comunicacion-ponente-10/" type="text/html" />
             <id>/2017/06/08/taller-comunicacion-ponente-10/</id>
-            <updated>2017-06-08T11:04:00Z</updated>
+            <updated>2017-06-08T11:05:00Z</updated>
 
             <summary type="html">¡Hola PyLadies!</summary>
             <content type="html">&lt;p&gt;¡Hola PyLadies!&lt;/p&gt;
@@ -998,7 +998,7 @@ Estudió ingeniería informática en la Universidad Complutense de Madrid y dura
             <title>Primera Reunión</title>
             <link rel="alternate" href="/2017/05/17/primera-reunion-pyladies/" type="text/html" />
             <id>/2017/05/17/primera-reunion-pyladies/</id>
-            <updated>2017-05-17T11:04:00Z</updated>
+            <updated>2017-05-17T11:05:00Z</updated>
 
             <summary type="html">¡Hola PyLadies!</summary>
             <content type="html">&lt;p&gt;¡Hola PyLadies!&lt;/p&gt;
