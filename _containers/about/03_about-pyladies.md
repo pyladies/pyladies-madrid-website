@@ -9,7 +9,7 @@ PyLadies es una asociación internacional de mentorías que se enfoca en ayudar 
 más mujeres a participar activamente en la comunidad del lenguaje de 
 programación de código abierto Python
 
-Es parte de la Python Software Foundation4 y se fundó en Los Ángeles 
+Es parte de la Python Software Foundation y se fundó en Los Ángeles 
 (California, Estados Unidos) en 2011. 
 
 La misión del grupo es crear una comunidad diversa de Python, incentivando la 
